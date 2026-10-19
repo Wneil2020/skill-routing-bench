@@ -1,0 +1,8 @@
+---
+name: "prd-generator"
+description: "Use when the task involves generate documentation: covers prd, generator, product, requirements, managers."
+---
+
+# prd-generator
+
+Generate comprehensive Product Requirements Documents (PRDs) for product managers. Use this skill when users ask to "create a PRD", "write product requirements", "document a feature", or need help structuring product specifications.

@@ -1,0 +1,8 @@
+---
+name: "algo-sensei"
+description: "Use when the task involves review code: covers algo, sensei, problem, dsa, leetcode"
+---
+
+# algo-sensei
+
+Your personal DSA & LeetCode mentor. Use for problem explanations, progressive hints, code reviews, mock interviews, pattern recognition, complexity analysis, and custom problem generation. Automatically adapts to your learning style and request type.

@@ -1,0 +1,8 @@
+---
+name: "install-skill-tracker"
+description: "Use when the task involves configure agent_skill: covers install, skill, tracker, usage, tracking"
+---
+
+# install-skill-tracker
+
+This skill installs a complete Claude Code skill tracking system using hooks to automatically log skill usage, execution duration, token usage, and user prompts for later analysis. Use this skill when setting up activity tracking in a Claude Code project to identify patterns, monitor costs, and disc

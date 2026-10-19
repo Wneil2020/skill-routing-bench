@@ -1,0 +1,8 @@
+---
+name: "rd-management"
+description: "Use when the task involves document documentation: covers management, patent, technology, research, pathways."
+---
+
+# rd-management
+
+R&D management expertise for R&D portfolio management, technology roadmapping, research methodology, patent strategy, lab management, academic partnerships, and regulatory pathways. Use when managing research programs, planning technology roadmaps, or building patent portfolios.

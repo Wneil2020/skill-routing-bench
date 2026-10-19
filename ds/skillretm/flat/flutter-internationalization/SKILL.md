@@ -1,0 +1,8 @@
+---
+name: "flutter-internationalization"
+description: "Use when the task involves implement documentation: covers flutter, internationalization, support, gen-l10n, intl"
+---
+
+# flutter-internationalization
+
+Complete guide for internationalizing Flutter apps using gen-l10n and intl packages. Use when Claude needs to add localization support to Flutter applications, translate UI text, format numbers/dates for different locales, or configure multi-language support for Material/Cupertino apps.

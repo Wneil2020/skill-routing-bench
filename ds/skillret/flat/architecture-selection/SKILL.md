@@ -1,0 +1,8 @@
+---
+name: "architecture-selection"
+description: "Use when the task involves design infrastructure: covers architecture, selection, system, scalability., monolith"
+---
+
+# architecture-selection
+
+System architecture patterns including monolith, microservices, event-driven, and serverless, with C4 modeling, scalability strategies, and technology selection criteria. Use when designing system architectures, evaluating patterns, or planning scalability.

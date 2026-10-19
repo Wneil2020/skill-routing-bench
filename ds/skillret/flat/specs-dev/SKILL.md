@@ -1,0 +1,8 @@
+---
+name: "specs-dev"
+description: "Use when the task involves implement code: covers specs, dev, plan-first, reviewed, development"
+---
+
+# specs-dev
+
+Plan-first development workflow with review gates. Use when implementing features, refactoring, or any task requiring structured planning, iterative implementation with reviews, and clean commits. Triggers on requests like "implement feature X", "plan and build", "spec-driven development", or when u

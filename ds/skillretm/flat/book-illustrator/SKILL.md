@@ -1,0 +1,8 @@
+---
+name: "book-illustrator"
+description: "Use when the task involves generate content: covers book, illustrator, readers., captivate, kids"
+---
+
+# book-illustrator
+
+Expert children's book illustrator guide with 2024-2025 best practices, focusing on age-appropriate styles, color theory, character design, and visual storytelling for kids books that captivate young readers.

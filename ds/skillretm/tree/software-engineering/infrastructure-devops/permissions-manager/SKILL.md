@@ -1,0 +1,8 @@
+---
+name: "permissions-manager"
+description: "Use when the task involves configure security: covers permissions, manager, project, docker, types"
+---
+
+# permissions-manager
+
+Configures Claude Code permissions via natural language for CLI tools (git, gcloud, aws, kubectl, maven, gradle, npm, docker), project types (Rust, Java, TypeScript, Python), and file patterns. Use when asked to "configure permissions", "enable git", "allow docker", "setup project permissions", "app

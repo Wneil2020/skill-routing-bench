@@ -1,0 +1,8 @@
+---
+name: "twilio-communications"
+description: "Use when the task involves implement api: covers twilio, communications, sms, voice, ivr"
+---
+
+# twilio-communications
+
+Build communication features with Twilio: SMS messaging, voice calls, WhatsApp Business API, and user verification (2FA). Covers the full spectrum from simple notifications to complex IVR systems and multi-channel authentication. Critical focus on compliance, rate limits, and error handling. Use whe

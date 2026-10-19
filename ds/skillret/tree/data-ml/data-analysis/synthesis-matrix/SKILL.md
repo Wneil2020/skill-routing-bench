@@ -1,0 +1,8 @@
+---
+name: "synthesis-matrix"
+description: "Use when the task involves analyze data: covers synthesis, matrix, characteristics, manuscripts., extracted"
+---
+
+# synthesis-matrix
+
+Create evidence synthesis matrices for systematic reviews. Use when: (1) Organizing extracted data, (2) Comparing study characteristics, (3) Identifying patterns across studies, (4) Preparing synthesis for manuscripts.

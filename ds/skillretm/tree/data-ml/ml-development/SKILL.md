@@ -1,0 +1,154 @@
+---
+name: "ml-development"
+description: "Use when the task involves ML Development: covers ml, development"
+---
+
+# ML Development
+
+Training, fine-tuning, and deploying machine learning models (LLMs, embeddings, classifiers).
+
+<!-- sub-skills -->
+## Sub-skills (auto-generated, do not edit by hand)
+
+- **actor-critic-methods** (`actor-critic-methods/`): Use when the task involves implement code: covers actor, critic, methods, a3c, actor-critic
+- **advanced-math-trading-simulation-inference** (`advanced-math-trading-simulation-inference/`): Use when the task involves implement code: covers advanced, math, trading, simulation, inference
+- **ai-llm** (`ai-llm/`): Use when the task involves design agent_skill: covers llm, peft, controls., lora, serving
+- **ai-llm-inference** (`ai-llm-inference/`): Use when the task involves deploy infrastructure: covers llm, inference, control, tail-latency, budgeting
+- **ai-multimodal** (`ai-multimodal/`): Use when the task involves implement agent_skill: covers multimodal, images, hours, pdf, audio
+- **backtesting-frameworks** (`backtesting-frameworks/`): Use when the task involves implement code: covers backtesting, frameworks, bias, trading, strategies
+- **biomni** (`biomni/`): Use when the task involves orchestrate agent_skill: covers biomni, biomedical, research, admet, crispr
+- **birkhoff-average** (`birkhoff-average/`): Use when the task involves analyze data: covers birkhoff, average, trajectory, along, observable
+- **blip-2-vision-language** (`blip-2-vision-language/`): Use when the task involves implement agent_skill: covers blip, vision, language, image, encoders
+- **bugs-fundamentals** (`bugs-fundamentals/`): Use when the task involves implement code: covers bugs, fundamentals, jags, parameterization, distributions
+- **bumpus-narratives** (`bumpus-narratives/`): Use when the task involves analyze data: covers bumpus, narratives, sheaves, compositional, reasoning.
+- **burn-backends** (`burn-backends/`): Use when the task involves configure infrastructure: covers burn, backends, backend, libtorch, ndarray
+- **burn-training** (`burn-training/`): Use when the task involves implement code: covers burn, training, dataloader, checkpointing, learner
+- **causal-inference** (`causal-inference/`): Use when the task involves analyze agent_skill: covers causal, inference, bengio, counterfactuals, interventional
+- **classification-modeling** (`classification-modeling/`): Use when the task involves implement code: covers classification, modeling, ensemble, logistic, multiclass
+- **complex-tensor-handler** (`complex-tensor-handler/`): Use when the task involves implement code: covers complex, tensor, handler, amplitude, astronomical
+- **computer-vision** (`computer-vision/`): Use when the task involves implement code: covers computer, vision, tensorflow, pose, segmentation
+- **computer-vision-pipeline** (`computer-vision-pipeline/`): Use when the task involves implement pipeline: covers computer, vision, pipeline, drone, footage
+- **convex-optimization** (`convex-optimization/`): Use when the task involves analyze agent_skill: covers convex, optimization, problem-solving, strategies
+- **coreml-optimizer** (`coreml-optimizer/`): Use when the task involves configure data: covers coreml, optimizer, neural, engine, models
+- **crispr-design-agent** (`crispr-design-agent/`): Use when the task involves design agent_skill: covers crispr, design, agent, crispr-cas9, grna
+- **design-experiment** (`design-experiment/`): Use when the task involves design data: covers design, experiment, plan, experiment_summary.yaml, experiments.
+- **differentiation-schemes** (`differentiation-schemes/`): Use when the task involves implement code: covers differentiation, schemes, dispersion, dissipation., ode
+- **discopy-categorical-computing** (`discopy-categorical-computing/`): Use when the task involves implement code: covers discopy, categorical, computing, quantum, diagrammatic
+- **distil-cli** (`distil-cli/`): Use when the task involves implement data: covers distil, cli, slms, task-specific, labs
+- **drone-inspection-specialist** (`drone-inspection-specialist/`): Use when the task involves analyze data: covers drone, inspection, specialist, detection, hail
+- **dspy-bootstrap-fewshot** (`dspy-bootstrap-fewshot/`): Use when the task involves generate data: covers dspy, bootstrap, fewshot, few-shot, teacher
+- **dspy-gepa-reflective** (`dspy-gepa-reflective/`): Use when the task involves configure agent_skill: covers dspy, gepa, reflective, newest, trajectories
+- **dust-llm** (`dust-llm/`): Use when the task involves implement code: covers dust, llm, adding, dust., one.
+- **embedding-pipeline-builder** (`embedding-pipeline-builder/`): Use when the task involves implement pipeline: covers embedding, pipeline, builder, indexing, chunking
+- **embedding-strategies** (`embedding-strategies/`): Use when the task involves implement code: covers embedding, strategies, models, domains., chunking
+- **esm** (`esm/`): Use when the task involves analyze data: covers esm, protein, prediction, embeddings, sequence
+- **evaluating-code-models** (`evaluating-code-models/`): Use when the task involves test data: covers evaluating, code, models, generation, bigcode
+- **experiment-design-checklist** (`experiment-design-checklist/`): Use when the task involves design data: covers experiment, design, checklist, hypothesis., experiments
+- **exploration-strategies** (`exploration-strategies/`): Use when the task involves implement code: covers exploration, strategies, curiosity-driven, greedy, rnd
+- **feature-engineering** (`feature-engineering/`): Use when the task involves implement data: covers feature, engineering, transformation, store, systems.
+- **fiftyone-model-evaluation** (`fiftyone-model-evaluation/`): Use when the task involves analyze data: covers fiftyone, model, evaluation, coco, predictions
+- **fine-tuning-expert** (`fine-tuning-expert/`): Use when the task involves implement agent_skill: covers fine, tuning, expert, model, parameter-efficient
+- **finetuning** (`finetuning/`): Use when the task involves implement agent_skill: covers finetuning, sfttrainer, tokenization, trainer., trainingarguments
+- **gay-julia** (`gay-julia/`): Use when the task involves implement code: covers gay, julia, pigeons.jl, splittable, wide-gamut
+- **google-gemini-file-search** (`google-gemini-file-search/`): Use when the task involves implement agent_skill: covers google, gemini, file, search, chunking
+- **graph-algorithms** (`graph-algorithms/`): Use when the task involves analyze agent_skill: covers graph, algorithms, number, problem-solving, theory
+- **graphrag-patterns** (`graphrag-patterns/`): Use when the task involves implement agent_skill: covers graphrag, patterns, neo4j., text2cypher, retrieval.
+- **hierarchical-models** (`hierarchical-models/`): Use when the task involves implement code: covers hierarchical, models, centered, multilevel, non-centered
+- **hugging-face-space-deployer** (`hugging-face-space-deployer/`): Use when the task involves deploy infrastructure: covers hugging, face, space, deployer, gradio
+- **implement-paper-from-scratch** (`implement-paper-from-scratch/`): Use when the task involves implement code: covers implement, paper, scratch, research, paper.
+- **implementing-llms-litgpt** (`implementing-llms-litgpt/`): Use when the task involves implement agent_skill: covers implementing, llms, litgpt, architectures, implementations
+- **langsmith-testing** (`langsmith-testing/`): Use when the task involves test pipeline: covers langsmith, testing, traced, trace, rag
+- **lasalle-invariance** (`lasalle-invariance/`): Use when the task involves analyze code: covers lasalle, invariance, asymptotic, stability, principle
+- **limit-set** (`limit-set/`): Use when the task involves analyze code: covers limit, set, asymptotic, trajectories, sets
+- **llama-cpp** (`llama-cpp/`): Use when the task involves deploy agent_skill: covers llama, cpp, gpus, cpu., hardware.
+- **llm-architect** (`llm-architect/`): Use when the task involves design infrastructure: covers llm, architect, serving, fine-tuning, efficient
+- **llm-serving-patterns** (`llm-serving-patterns/`): Use when the task involves design infrastructure: covers llm, serving, patterns, inference, infrastructure
+- **llm-tuning-patterns** (`llm-tuning-patterns/`): Use when the task involves implement agent_skill: covers llm, tuning, patterns
+- **lm-deluge** (`lm-deluge/`): Use when the task involves implement api: covers deluge, llm, llmclient, lm-deluge, lm_deluge
+- **mamba-architecture** (`mamba-architecture/`): Use when the task involves implement code: covers mamba, architecture, d_state, hardware-aware, m-2.8b
+- **mediana-fundamentals** (`mediana-fundamentals/`): Use when the task involves implement data: covers mediana, fundamentals, models, evaluation, cse
+- **mediapipe-pose-detection** (`mediapipe-pose-detection/`): Use when the task involves debug code: covers mediapipe, pose, detection, landmark, pose.py
+- **memories** (`memories/`): Use when the task involves implement agent_skill: covers memories, storage., helpers, embeddings, embedding
+- **mesh-generation** (`mesh-generation/`): Use when the task involves design data: covers mesh, generation, skewness, discretization., pde
+- **mflux-debugging** (`mflux-debugging/`): Use when the task involves debug code: covers mflux, debugging, diffusers, export-then-compare, exported
+- **mflux-model-porting** (`mflux-model-porting/`): Use when the task involves implement code: covers mflux, model, porting, correctness-first, mlx
+- **ml-cv-specialist** (`ml-cv-specialist/`): Use when the task involves design pipeline: covers specialist, pipelines, computer, vision, inference
+- **ml-engineer** (`ml-engineer/`): Use when the task involves deploy agent_skill: covers engineer, learning, serving., traditional, reliable
+- **ml-inference-optimization** (`ml-inference-optimization/`): Use when the task involves analyze agent_skill: covers inference, optimization, model, distillation, edge.
+- **ml-model-training** (`ml-model-training/`): Use when the task involves implement code: covers model, training, overfitting, scikit-learn, tensorflow.
+- **ml-tree-level4** (`ml-tree-level4/`): Use when the task involves implement code: covers tree, level4, aic, bic, nni
+- **ml-workflow** (`ml-workflow/`): Use when the task involves implement data: covers workflow, experiment, establishment, baseline, iterative
+- **mlflow** (`mlflow/`): Use when the task involves orchestrate pipeline: covers mlflow, experiments, framework-agnostic, reproduce, registry
+- **mlflow-python** (`mlflow-python/`): Use when the task involves implement code: covers mlflow, python, experiment, tracking, runs.
+- **mlx-apple-silicon** (`mlx-apple-silicon/`): Use when the task involves configure infrastructure: covers mlx, apple, silicon, chips., m-series
+- **model-based-rl** (`model-based-rl/`): Use when the task involves implement code: covers model, based, dreamer, dyna-q, mbpo
+- **model-compare** (`model-compare/`): Use when the task involves analyze data: covers model, compare, cad, iou, gold
+- **model-evaluation** (`model-evaluation/`): Use when the task involves analyze data: covers model, evaluation, metrics, auc, fairness
+- **model-manager** (`model-manager/`): Use when the task involves test agent_skill: covers model, manager, models, add, models.yml.
+- **model-monitoring** (`model-monitoring/`): Use when the task involves analyze data: covers model, monitoring, drift, mlflow, anomalies
+- **model-optimization** (`model-optimization/`): Use when the task involves analyze code: covers model, optimization, hyperparameter, profiling, tuning
+- **model-serving-inference** (`model-serving-inference/`): Use when the task involves deploy infrastructure: covers model, serving, inference, batching, deploying
+- **moe-training** (`moe-training/`): Use when the task involves implement agent_skill: covers moe, training, models, compute, architectures
+- **monitor-experiment** (`monitor-experiment/`): Use when the task involves analyze pipeline: covers monitor, experiment, beaker, experiment., completion.
+- **nanogpt-training** (`nanogpt-training/`): Use when the task involves implement code: covers nanogpt, training, adamw, fineweb, gpt-124m
+- **numerical-stability** (`numerical-stability/`): Use when the task involves analyze code: covers numerical, stability, advection, blow-up, cfl
+- **olmoearth-mlx** (`olmoearth-mlx/`): Use when the task involves analyze data: covers olmoearth, mlx, earth, spatio-temporal, intelligence
+- **open-sets** (`open-sets/`): Use when the task involves analyze agent_skill: covers open, sets, topology, problem-solving, strategies
+- **openrlhf-training** (`openrlhf-training/`): Use when the task involves configure pipeline: covers openrlhf, training, ray, vllm, b-70b
+- **paper-to-code** (`paper-to-code/`): Use when the task involves implement code: covers paper, code, papers, research, implement
+- **periodic-orbit** (`periodic-orbit/`): Use when the task involves analyze code: covers periodic, orbit, closed, trajectory, space
+- **policy-gradient-methods** (`policy-gradient-methods/`): Use when the task involves implement code: covers policy, gradient, methods, reinforce, trpo
+- **proof-architect** (`proof-architect/`): Use when the task involves design documentation: covers proof, architect, constructing, proofs, mathematical
+- **proof-theory** (`proof-theory/`): Use when the task involves analyze code: covers proof, theory, mathematical, problem-solving, logic
+- **protein-design-workflow** (`protein-design-workflow/`): Use when the task involves design pipeline: covers protein, design, workflow, guidance, binder-design.
+- **pytorch-fsdp** (`pytorch-fsdp/`): Use when the task involves implement code: covers pytorch, fsdp, fsdp2, offloading, sharded
+- **pytorch-lightning** (`pytorch-lightning/`): Use when the task involves implement code: covers pytorch, lightning, training, boilerplate., ddp
+- **pytorch-ml** (`pytorch-ml/`): Use when the task involves implement code: covers pytorch, acceleration, science, gpu, training
+- **pytorch-model-recovery** (`pytorch-model-recovery/`): Use when the task involves implement code: covers pytorch, model, recovery, torchscript, format.
+- **pyvene-interventions** (`pyvene-interventions/`): Use when the task involves implement agent_skill: covers pyvene, interventions, causal, intervention, interchange
+- **qdrant-vector-search** (`qdrant-vector-search/`): Use when the task involves implement database: covers qdrant, vector, search, rag, rust-powered
+- **rag-retrieval** (`rag-retrieval/`): Use when the task involves implement pipeline: covers rag, retrieval, retrieved, constructing, retrieval-augmented
+- **recommendation-engine** (`recommendation-engine/`): Use when the task involves implement code: covers recommendation, engine, factorization, sparsity, personalization
+- **reduce-relie-lie-symmetries** (`reduce-relie-lie-symmetries/`): Use when the task involves analyze code: covers reduce, relie, lie, symmetries, differential
+- **regression-modeling** (`regression-modeling/`): Use when the task involves implement data: covers regression, modeling, polynomial, quantification, regularized
+- **rlhf** (`rlhf/`): Use when the task involves analyze agent_skill: covers rlhf, learning, dpo., preference, reward
+- **robust-ai** (`robust-ai/`): Use when the task involves implement agent_skill: covers robust, ml., reliability, drift, failure
+- **rudin-real-complex-analysis** (`rudin-real-complex-analysis/`): Use when the task involves analyze agent_skill: covers rudin, real, complex, analysis, textbook
+- **runtime-skills** (`runtime-skills/`): Use when the task involves implement code: covers runtime, skills, tuning., serving., transformers
+- **rust-candle-whisper** (`rust-candle-whisper/`): Use when the task involves implement code: covers rust, candle, whisper, gpu-accelerated, dependencies.
+- **saddle-node** (`saddle-node/`): Use when the task involves analyze code: covers saddle, node, bifurcation, destroying, equilibrium
+- **sam-cell-seg** (`sam-cell-seg/`): Use when the task involves implement code: covers sam, cell, seg, segmentation, interface
+- **scaffold-experiment** (`scaffold-experiment/`): Use when the task involves orchestrate pipeline: covers scaffold, experiment, configs, scaffold-inspect, scaffold-torchtune
+- **segment-anything-model** (`segment-anything-model/`): Use when the task involves implement agent_skill: covers segment, anything, model, masks, object
+- **semi-conjugacy** (`semi-conjugacy/`): Use when the task involves analyze code: covers semi, conjugacy, dynamical, intertwining, surjective
+- **senior-computer-vision** (`senior-computer-vision/`): Use when the task involves implement code: covers senior, computer, vision, object, video
+- **sentiment-analysis** (`sentiment-analysis/`): Use when the task involves implement code: covers sentiment, analysis, lexicon-based, mining, nlp
+- **similarity-search-patterns** (`similarity-search-patterns/`): Use when the task involves implement database: covers similarity, search, patterns, nearest, neighbor
+- **slipstream-finetune** (`slipstream-finetune/`): Use when the task involves implement agent_skill: covers slipstream, finetune, glm-4-9b, natively, speak
+- **solublempnn** (`solublempnn/`): Use when the task involves implement code: covers solublempnn, expression, design, coli, formation.
+- **stable-baselines3** (`stable-baselines3/`): Use when the task involves implement code: covers stable, baselines3, training, environments, ddpg
+- **stan-development** (`stan-development/`): Use when the task involves implement code: covers stan, development, cmdstanpy, cmdstanr, probabilistic
+- **stan-fundamentals** (`stan-fundamentals/`): Use when the task involves implement code: covers stan, fundamentals, distributions, program, foundational
+- **td-arima** (`td-arima/`): Use when the task involves implement data: covers arima, forecasting, series, modeling, time
+- **td-arimaestimate** (`td-arimaestimate/`): Use when the task involves implement data: covers arimaestimate, arima, non-seasonal, seasonal, arma
+- **td-naive-bayes** (`td-naive-bayes/`): Use when the task involves implement data: covers naive, bayes, classifier, probabilistic, classification
+- **td-scale-fit** (`td-scale-fit/`): Use when the task involves implement data: covers scale, fit, td_scalefit, td_scaletransform, normalization
+- **time-series-models** (`time-series-models/`): Use when the task involves implement data: covers time, series, models, jags., arma
+- **torchserve-config-generator** (`torchserve-config-generator/`): Use when the task involves generate infrastructure: covers torchserve, config, generator, category., auto-activating
+- **trait-learning** (`trait-learning/`): Use when the task involves implement data: covers trait, learning, pgmq, update_place_traits, learns
+- **transformer-lens-interpretability** (`transformer-lens-interpretability/`): Use when the task involves analyze code: covers transformer, lens, interpretability, activation, hookpoints
+- **type-hints-for-ml-code** (`type-hints-for-ml-code/`): Use when the task involves implement code: covers type, hints, code, mypy, annotations
+- **unsloth-finetuning** (`unsloth-finetuning/`): Use when the task involves configure data: covers unsloth, finetuning, fine-tune, model, gemma.
+- **unsloth-kernel-optimization** (`unsloth-kernel-optimization/`): Use when the task involves implement code: covers unsloth, kernel, optimization, kernels, cubecl
+- **v3-performance-optimization** (`v3-performance-optimization/`): Use when the task involves analyze code: covers performance, optimization, reduction., x-12, x-7.47x
+- **value-based-methods** (`value-based-methods/`): Use when the task involves implement code: covers value, based, methods, dqn, discrete
+- **vector-databases** (`vector-databases/`): Use when the task involves design database: covers vector, databases, search, ann, approximate
+- **vector-field** (`vector-field/`): Use when the task involves analyze code: covers vector, field, vectors, dynamics, assignment
+- **vector-index-tuning** (`vector-index-tuning/`): Use when the task involves analyze database: covers vector, index, tuning, hnsw, quantization
+- **verify-training-pipeline** (`verify-training-pipeline/`): Use when the task involves test pipeline: covers verify, training, pipeline, example, successfully
+- **weights-and-biases** (`weights-and-biases/`): Use when the task involves configure pipeline: covers weights, biases, hyperparameters, mlops, sweeps
+- **yanex-experiment-tracking** (`yanex-experiment-tracking/`): Use when the task involves analyze data: covers yanex, experiment, tracking, sweeps, experiments.
+
+Routing rule: when the task matches one of the sub-skills above, read the SKILL.md in that subdirectory for detailed instructions before acting;
+if that sub-skill lists deeper sub-skills, repeat the descent. Load only the documents on the matching path.
+<!-- /sub-skills -->

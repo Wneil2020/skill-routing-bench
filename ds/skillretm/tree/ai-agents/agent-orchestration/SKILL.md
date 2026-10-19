@@ -1,0 +1,246 @@
+---
+name: "agent-orchestration"
+description: "Use when the task involves Agent Orchestration: covers agent, orchestration"
+---
+
+# Agent Orchestration
+
+Orchestrating multi-agent workflows, routing between agents, managing agent pipelines, and agent-level task tracking/context preservation.
+
+<!-- sub-skills -->
+## Sub-skills (auto-generated, do not edit by hand)
+
+- **agent-coordination** (`agent-coordination/`): Use when the task involves orchestrate agent_skill: covers agent, coordination, blocker, tdm, assigning
+- **agent-council** (`agent-council/`): Use when the task involves orchestrate agent_skill: covers agent, council, multiple, summon, opinions
+- **agent-handoff** (`agent-handoff/`): Use when the task involves document documentation: covers agent, handoff, leaving, good, next
+- **agent-management** (`agent-management/`): Use when the task involves orchestrate agent_skill: covers agent, management, agents, hibernate, wake
+- **agent-manager** (`agent-manager/`): Use when the task involves orchestrate agent_skill: covers agent, manager, employee, tmux, agents
+- **agent-messaging** (`agent-messaging/`): Use when the task involves implement agent_skill: covers agent, messaging, message, send, cryptographically
+- **agent-orchestration-multi-agent-optimize** (`agent-orchestration-multi-agent-optimize/`): Use when the task involves orchestrate agent_skill: covers agent, orchestration, multi, optimize, working
+- **agent-orchestrator-manager** (`agent-orchestrator-manager/`): Use when the task involves orchestrate agent_skill: covers agent, orchestrator, manager, tasks, agents
+- **agent-patterns** (`agent-patterns/`): Use when the task involves orchestrate agent_skill: covers agent, patterns, format, agents, sprint
+- **agent-selector** (`agent-selector/`): Use when the task involves orchestrate agent_skill: covers agent, selector, coder, selects, tester
+- **agentic-orchestrating** (`agentic-orchestrating/`): Use when the task involves orchestrate agent_skill: covers agentic, orchestrating, task, how-to, multi-phase
+- **agentic-workflow** (`agentic-workflow/`): Use when the task involves orchestrate agent_skill: covers agentic, workflow, pattern
+- **agentica-spawn** (`agentica-spawn/`): Use when the task involves orchestrate agent_skill: covers agentica, spawn, multi-agent, patterns
+- **ai-agent-orchestrator** (`ai-agent-orchestrator/`): Use when the task involves orchestrate agent_skill: covers agent, orchestrator, multi-agent, agents, coordination.
+- **ai-comm** (`ai-comm/`): Use when the task involves orchestrate agent_skill: covers comm, aider, cross-ai, collaborating, assistants
+- **ai-consultation** (`ai-consultation/`): Use when the task involves orchestrate agent_skill: covers consultation, prompt, ask, templates, consultation.
+- **ai-workflow-orchestrator** (`ai-workflow-orchestrator/`): Use when the task involves orchestrate pipeline: covers workflow, orchestrator, low-code, no-code, workflows
+- **aida** (`aida/`): Use when the task involves orchestrate project: covers aida, multi-agent, auto-init, ralph-loop, quality
+- **aios-cerebrum** (`aios-cerebrum/`): Use when the task involves orchestrate agent_skill: covers aios, cerebrum, operating, orchestrating, sdk
+- **amq-cli** (`amq-cli/`): Use when the task involves orchestrate agent_skill: covers amq, cli, codex, inter-agent, partner
+- **anti-conflict** (`anti-conflict/`): Use when the task involves orchestrate code: covers anti, conflict, conflicts, prevent, parallel
+- **approval-checker** (`approval-checker/`): Use when the task involves review code: covers approval, checker, authorized, proceeding, approved
+- **archon-manager** (`archon-manager/`): Use when the task involves orchestrate project: covers archon, manager, strategic, tracking, knowledge
+- **atlas-agent-developer** (`atlas-agent-developer/`): Use when the task involves implement code: covers atlas, agent, developer, fixes, builds
+- **atlas-full** (`atlas-full/`): Use when the task involves orchestrate agent_skill: covers atlas, full, security-critical, hours, epics
+- **atlas-meta** (`atlas-meta/`): Use when the task involves orchestrate agent_skill: covers atlas, meta, tier, orchestrates, software
+- **audio-router** (`audio-router/`): Use when the task involves orchestrate code: covers audio, router, audio-driven, visualizers, audio-reactive
+- **auto-orchestrator** (`auto-orchestrator/`): Use when the task involves orchestrate agent_skill: covers auto, orchestrator, activa, tarea, agente
+- **autonomous-loop** (`autonomous-loop/`): Use when the task involves orchestrate agent_skill: covers autonomous, loop, jidoka, composing, iterate
+- **autonomous-skill** (`autonomous-skill/`): Use when the task involves orchestrate agent_skill: covers autonomous, skill, long-running, task, auto-continuation.
+- **background-agent-pings** (`background-agent-pings/`): Use when the task involves orchestrate agent_skill: covers background, agent, pings
+- **bead-workflow** (`bead-workflow/`): Use when the task involves orchestrate project: covers bead, workflow, beads, task, finishing
+- **beads-viewer** (`beads-viewer/`): Use when the task involves analyze agent_skill: covers beads, viewer, graph, blockers, getting
+- **bmad-autopilot-skill** (`bmad-autopilot-skill/`): Use when the task involves orchestrate pipeline: covers bmad, autopilot, skill, autonomous, orchestration
+- **calibrate** (`calibrate/`): Use when the task involves review agent_skill: covers calibrate, realign, disagree, evidence-seeking, north
+- **checkpointing-an-iteration** (`checkpointing-an-iteration/`): Use when the task involves document project: covers checkpointing, iteration, interim, mid-conversation, compaction
+- **clarification-protocol** (`clarification-protocol/`): Use when the task involves analyze documentation: covers clarification, protocol, cto-orchestrator, request-analyzer, challenge
+- **claude-codex-collaboration** (`claude-codex-collaboration/`): Use when the task involves orchestrate agent_skill: covers claude, codex, collaboration, byterover., intervention.
+- **claude-skill** (`claude-skill/`): Use when the task involves orchestrate agent_skill: covers claude, skill, hands-off, non-interactive, etc
+- **claudish-usage** (`claudish-usage/`): Use when the task involves configure agent_skill: covers claudish, usage, openrouter, models, run
+- **claudy-orchestration** (`claudy-orchestration/`): Use when the task involves orchestrate agent_skill: covers claudy, orchestration, flexibility, launching, delegating
+- **cleanup** (`cleanup/`): Use when the task involves orchestrate project: covers cleanup, archive, inbox, items., keeps
+- **codex-delegation-criteria** (`codex-delegation-criteria/`): Use when the task involves orchestrate agent_skill: covers codex, delegation, criteria, task, codex.
+- **codex-delegator-skill** (`codex-delegator-skill/`): Use when the task involves orchestrate agent_skill: covers codex, delegator, skill, tmux, utilities.
+- **collaborating-with-claude-code** (`collaborating-with-claude-code/`): Use when the task involves orchestrate agent_skill: covers collaborating, claude, code, via, script.
+- **comprehensive-context-handover** (`comprehensive-context-handover/`): Use when the task involves document documentation: covers comprehensive, context, handover, continuation, non-negotiables
+- **conflict-resolver** (`conflict-resolver/`): Use when the task involves orchestrate agent_skill: covers conflict, resolver, disagreements, conflicts, approaches
+- **connecting-agents** (`connecting-agents/`): Use when the task involves orchestrate agent_skill: covers connecting, agents, insufficient., manus, tasks
+- **constitution-checker** (`constitution-checker/`): Use when the task involves review agent_skill: covers constitution, checker, confirm, flowspec, tier-based
+- **context-assembler** (`context-assembler/`): Use when the task involves orchestrate agent_skill: covers context, assembler, assembles, graduated, per-agent
+- **context-recovery** (`context-recovery/`): Use when the task involves search data: covers context, recovery, lost, previous, session
+- **coord-engine** (`coord-engine/`): Use when the task involves orchestrate agent_skill: covers coord, engine, coord_engine, scheduling, invoke
+- **coordinate-subagents** (`coordinate-subagents/`): Use when the task involves orchestrate agent_skill: covers coordinate, subagents, subagent, bad, voting
+- **coordinator-helper** (`coordinator-helper/`): Use when the task involves orchestrate agent_skill: covers coordinator, helper, manage, github-driven, tasks
+- **copilot-flow** (`copilot-flow/`): Use when the task involves orchestrate pipeline: covers copilot, flow, workflow, stage, collaboration
+- **council-advice** (`council-advice/`): Use when the task involves orchestrate agent_skill: covers council, advice, non-overkill, stage-appropriate, advice.
+- **create-plan** (`create-plan/`): Use when the task involves generate documentation: covers create, plan, plans, implementation, format
+- **creating-workflows-from-description** (`creating-workflows-from-description/`): Use when the task involves design pipeline: covers creating, workflows, description, benefit, describes
+- **cross-plugin-detective** (`cross-plugin-detective/`): Use when the task involves document agent_skill: covers cross, plugin, detective, agents, architect-detective
+- **dag-executor** (`dag-executor/`): Use when the task involves orchestrate agent_skill: covers dag, executor, operational., decomposes, parallel.
+- **dag-iteration-detector** (`dag-iteration-detector/`): Use when the task involves orchestrate agent_skill: covers dag, iteration, detector, dag-convergence-monitor, dag-feedback-synthesizer
+- **dag-parallel-executor** (`dag-parallel-executor/`): Use when the task involves orchestrate pipeline: covers dag, parallel, executor, concurrent, execution
+- **debate-workflow** (`debate-workflow/`): Use when the task involves design code: covers debate, workflow, multi-perspective, trade-offs, important
+- **deepen-plan** (`deepen-plan/`): Use when the task involves design documentation: covers deepen, plan, section, enhance, depth
+- **delegation-prompt-crafter** (`delegation-prompt-crafter/`): Use when the task involves generate agent_skill: covers delegation, prompt, crafter, specialist, agents
+- **design-synthesizer** (`design-synthesizer/`): Use when the task involves orchestrate agent_skill: covers design, synthesizer, synthesizing, sub-agents, auto-activates
+- **dev-cycle** (`dev-cycle/`): Use when the task involves orchestrate pipeline: covers dev, cycle, collection., sre, subtasks
+- **dev-orchestration** (`dev-orchestration/`): Use when the task involves orchestrate agent_skill: covers dev, orchestration, team, architect-pm, iteratively.
+- **discover-api** (`discover-api/`): Use when the task involves search api: covers discover, api, jwt, limiting, endpoint
+- **discover-ml** (`discover-ml/`): Use when the task involves orchestrate agent_skill: covers discover, machine, learning., learning, tasks.
+- **discover-research** (`discover-research/`): Use when the task involves orchestrate agent_skill: covers discover, research, loads, gateway, relevant
+- **discover-workflow** (`discover-workflow/`): Use when the task involves orchestrate pipeline: covers discover, workflow, beads., tasks., activates
+- **distributed-claude-sender** (`distributed-claude-sender/`): Use when the task involves orchestrate agent_skill: covers distributed, claude, sender, vps, backends
+- **drama-workflow** (`drama-workflow/`): Use when the task involves orchestrate pipeline: covers drama, workflow, dramatic, analysis, plot
+- **execute-plan** (`execute-plan/`): Use when the task involves orchestrate agent_skill: covers execute, plan, plans, task-name, current-date
+- **executing-plans** (`executing-plans/`): Use when the task involves orchestrate agent_skill: covers executing, plans, checkpoints, separate, written
+- **executing-sequential-phase** (`executing-sequential-phase/`): Use when the task involves orchestrate pipeline: covers executing, sequential, phase, worktree, git-spice
+- **execution-workflow** (`execution-workflow/`): Use when the task involves orchestrate agent_skill: covers execution, workflow, review, code, task
+- **finding-agents** (`finding-agents/`): Use when the task involves search agent_skill: covers finding, agents, find, agent, tags.
+- **flow-coach** (`flow-coach/`): Use when the task involves orchestrate agent_skill: covers flow, coach, claude-flow, swarm, auto-executes
+- **force-manager** (`force-manager/`): Use when the task involves orchestrate agent_skill: covers force, manager, force_manager, staffing, assembly
+- **gemini-delegation** (`gemini-delegation/`): Use when the task involves orchestrate agent_skill: covers gemini, delegation, delegation-core, cli, selected
+- **git-workflow** (`git-workflow/`): Use when the task involves orchestrate pipeline: covers git, workflow, two-stage, claudikins-kernel, death
+- **github-swarm-issue** (`github-swarm-issue/`): Use when the task involves orchestrate agent_skill: covers github, swarm, issue, task, issue-based
+- **handoff-log-update** (`handoff-log-update/`): Use when the task involves document project: covers handoff, log, update, append, ownership.
+- **handoff-new-session** (`handoff-new-session/`): Use when the task involves orchestrate agent_skill: covers handoff, new, session, agent-deck, continuation
+- **implement-phases** (`implement-phases/`): Use when the task involves orchestrate pipeline: covers implement, phases, workflow-implement-phases, invoked., phased
+- **implement-task** (`implement-task/`): Use when the task involves implement agent_skill: covers implement, task, handoff, executes, completion
+- **increment-work-router** (`increment-work-router/`): Use when the task involves orchestrate agent_skill: covers increment, work, router, let, add
+- **internet-deep-orchestrator** (`internet-deep-orchestrator/`): Use when the task involves orchestrate agent_skill: covers internet, deep, orchestrator, dimensions, research
+- **internet-research-orchestrator** (`internet-research-orchestrator/`): Use when the task involves orchestrate agent_skill: covers internet, research, orchestrator, emerging, unprecedented
+- **invoke-opencode-acp** (`invoke-opencode-acp/`): Use when the task involves orchestrate agent_skill: covers invoke, opencode, acp, modifications, delegate
+- **jira-orchestration-workflow** (`jira-orchestration-workflow/`): Use when the task involves orchestrate pipeline: covers jira, orchestration, workflow, ticket, work
+- **jules-api** (`jules-api/`): Use when the task involves orchestrate agent_skill: covers jules, api, coding, tasks, appropriate.
+- **jules-dispatch** (`jules-dispatch/`): Use when the task involves orchestrate agent_skill: covers jules, dispatch, context-rich, assign, spawns
+- **langchain-deep-research** (`langchain-deep-research/`): Use when the task involves orchestrate agent_skill: covers langchain, deep, research, openai_api_key, tavily_api_key
+- **langgraph-workflows** (`langgraph-workflows/`): Use when the task involves design agent_skill: covers langgraph, workflows, langconfig., machines, connecting
+- **langgraph-workflows-7f72c6de** (`langgraph-workflows-7f72c6de/`): Use when the task involves implement agent_skill: covers langgraph, workflows, fault-tolerant, supervisor-worker, checkpointing
+- **launch-a-swarm** (`launch-a-swarm/`): Use when the task involves orchestrate agent_skill: covers launch, swarm, software., solid, spawn
+- **learn** (`learn/`): Use when the task involves document agent_skill: covers learn, appending., curates, curation, appends
+- **llm-council** (`llm-council/`): Use when the task involves orchestrate agent_skill: covers llm, council, perspectives, models, implementation
+- **ln-300-task-coordinator** (`ln-300-task-coordinator/`): Use when the task involves orchestrate agent_skill: covers task, coordinator, ln-301-task-creator, id., ln-302-task-replanner
+- **maceff-delegation** (`maceff-delegation/`): Use when the task involves orchestrate agent_skill: covers maceff, delegation, prescribing, answers., subagents.
+- **magi-decision-support** (`magi-decision-support/`): Use when the task involves orchestrate agent_skill: covers magi, decision, support, best., cons
+- **maker-orchestrator** (`maker-orchestrator/`): Use when the task involves orchestrate agent_skill: covers maker, orchestrator, migrate., tasks, decomposes
+- **map-workflows-guide** (`map-workflows-guide/`): Use when the task involves document documentation: covers map, workflows, guide, right, choosing
+- **marketplace-management-skill** (`marketplace-management-skill/`): Use when the task involves orchestrate dependency: covers marketplace, management, skill, registry, installation
+- **math-router** (`math-router/`): Use when the task involves orchestrate agent_skill: covers math, router, deterministic, cognitive, exact
+- **mcp-chaining** (`mcp-chaining/`): Use when the task involves orchestrate agent_skill: covers mcp, chaining, research-to-implement, degradation, graceful
+- **mcp-executor** (`mcp-executor/`): Use when the task involves orchestrate agent_skill: covers mcp, executor, directly, execute, tool
+- **memory-sync** (`memory-sync/`): Use when the task involves orchestrate data: covers memory, sync, skill
+- **mesh-builder** (`mesh-builder/`): Use when the task involves design agent_skill: covers mesh, builder, meshes, hitl, sdk-based
+- **migrating-memory** (`migrating-memory/`): Use when the task involves orchestrate agent_skill: covers migrating, memory, agent, existing, inherit
+- **mova-station-operator-v0** (`mova-station-operator-v0/`): Use when the task involves orchestrate agent_skill: covers mova, station, operator, finish-branch, one-button
+- **multi-agent-composition** (`multi-agent-composition/`): Use when the task involves orchestrate agent_skill: covers multi, agent, composition, hooks, mcp
+- **multi-agent-coordination** (`multi-agent-coordination/`): Use when the task involves orchestrate agent_skill: covers multi, agent, coordination, handoffs, parent-child
+- **multi-agent-orchestration** (`multi-agent-orchestration/`): Use when the task involves orchestrate agent_skill: covers multi, agent, orchestration, providers, tasks
+- **multi-agent-researcher** (`multi-agent-researcher/`): Use when the task involves orchestrate agent_skill: covers multi, agent, researcher, report-writer, synthesizing
+- **multi-model-research** (`multi-model-research/`): Use when the task involves orchestrate agent_skill: covers multi, model, research, frontier, gpt-5.1
+- **natural-workflow** (`natural-workflow/`): Use when the task involves orchestrate agent_skill: covers natural, workflow, streamlined, ccpm, lifecycle.
+- **operation-tracker** (`operation-tracker/`): Use when the task involves analyze agent_skill: covers operation, tracker, accumulating, cumulative, turns.
+- **ops-party** (`ops-party/`): Use when the task involves orchestrate pipeline: covers ops, party, readiness, g-3, probes
+- **oracle-gemini** (`oracle-gemini/`): Use when the task involves orchestrate agent_skill: covers oracle, gemini, opinion, ask, planning
+- **orca-confirm** (`orca-confirm/`): Use when the task involves orchestrate agent_skill: covers orca, confirm, confirmation, bypass, handle
+- **orchestrate** (`orchestrate/`): Use when the task involves orchestrate agent_skill: covers orchestrate, methodology., orchestrating, general, first
+- **orchestrating-tmux-claudes** (`orchestrating-tmux-claudes/`): Use when the task involves orchestrate agent_skill: covers orchestrating, tmux, claudes, auto-approval., clauded
+- **orchestration** (`orchestration/`): Use when the task involves orchestrate agent_skill: covers orchestration, work, parallel, cc-mirror, tasks
+- **orchestration-creating-workflows** (`orchestration-creating-workflows/`): Use when the task involves orchestrate agent_skill: covers orchestration, creating, workflows, workflow, multi-agent
+- **orchestration-prompts** (`orchestration-prompts/`): Use when the task involves design agent_skill: covers orchestration, prompts, workflows, aggregation, aggregation.
+- **orchestrator** (`orchestrator/`): Use when the task involves orchestrate agent_skill: covers orchestrator, specialized, agents, resumable, long-running
+- **orchestrator-design** (`orchestrator-design/`): Use when the task involves design agent_skill: covers orchestrator, design, fleet, multi-agent, o-agent
+- **parallel-agent-contracts** (`parallel-agent-contracts/`): Use when the task involves design agent_skill: covers parallel, agent, contracts, type
+- **parallel-agents** (`parallel-agents/`): Use when the task involves orchestrate agent_skill: covers parallel, agents, orchestration, agent
+- **parallel-agents-43ba2948** (`parallel-agents-43ba2948/`): Use when the task involves orchestrate agent_skill: covers parallel, agents, multiple, perspectives., independent
+- **parallel-execution** (`parallel-execution/`): Use when the task involves orchestrate pipeline: covers parallel, execution, parallelized., run_in_background., spawning
+- **parallel-ready-django** (`parallel-ready-django/`): Use when the task involves analyze project: covers parallel, ready, django, prepare, multi-agent
+- **pi-share** (`pi-share/`): Use when the task involves analyze data: covers share, session, buildwithpi.ai, buildwithpi.com, pi-share
+- **pickup** (`pickup/`): Use when the task involves orchestrate agent_skill: covers pickup, handoff, load, session, context
+- **plan-approval** (`plan-approval/`): Use when the task involves orchestrate agent_skill: covers plan, approval, plan-approval, proposed, rejected
+- **plan-audit-orchestrator** (`plan-audit-orchestrator/`): Use when the task involves orchestrate pipeline: covers plan, audit, orchestrator, auditing, planning
+- **plan-down** (`plan-down/`): Use when the task involves orchestrate agent_skill: covers plan, planner, plan.md, method, planning
+- **plan-executor** (`plan-executor/`): Use when the task involves orchestrate pipeline: covers plan, executor, worker, execute, breakdown.
+- **plan-party** (`plan-party/`): Use when the task involves orchestrate agent_skill: covers plan, party, planning., g-5, reconnaissance.
+- **plan-then-execute** (`plan-then-execute/`): Use when the task involves orchestrate agent_skill: covers plan, execute, frozen, gates., human
+- **planning-peter** (`planning-peter/`): Use when the task involves orchestrate agent_skill: covers planning, peter, team, bureaucrat, founder.
+- **planning-with-files** (`planning-with-files/`): Use when the task involves design project: covers planning, files, complex, findings.md, manus-style
+- **pm-delegation-patterns** (`pm-delegation-patterns/`): Use when the task involves orchestrate agent_skill: covers delegation, patterns, common, agent
+- **pre-dev-research** (`pre-dev-research/`): Use when the task involves orchestrate agent_skill: covers pre, dev, research, research.md, trd.
+- **project-orchestration** (`project-orchestration/`): Use when the task involves orchestrate project: covers project, orchestration, state-driven, orchestrate, autonomous
+- **qwen-delegation** (`qwen-delegation/`): Use when the task involves orchestrate agent_skill: covers qwen, delegation, delegation-core, cli, alibaba
+- **ralph** (`ralph/`): Use when the task involves orchestrate project: covers ralph, tackling, big, restarts, pause
+- **ralph-autonomous** (`ralph-autonomous/`): Use when the task involves orchestrate agent_skill: covers ralph, autonomous, unattended, loop, runner.
+- **ralph-orchestrator** (`ralph-orchestrator/`): Use when the task involves orchestrate agent_skill: covers ralph, orchestrator, autonomous, spec-interview, gathering
+- **recursive-decomposition** (`recursive-decomposition/`): Use when the task involves analyze data: covers recursive, decomposition, large, information, long-context
+- **research-driven-planning** (`research-driven-planning/`): Use when the task involves analyze project: covers research, driven, planning, consensus., parallel-swarm-implementation.
+- **resume-session** (`resume-session/`): Use when the task involves orchestrate pipeline: covers resume, session, presenting, previous, reading
+- **ring-executing-plans** (`ring-executing-plans/`): Use when the task involves orchestrate pipeline: covers ring, executing, plans, plan, one-go
+- **ring-pre-dev-research** (`ring-pre-dev-research/`): Use when the task involves analyze agent_skill: covers ring, pre, dev, research, research.md
+- **ring-using-dev-team** (`ring-using-dev-team/`): Use when the task involves orchestrate agent_skill: covers ring, dev, team, backend, frontend
+- **ring-using-finops-team** (`ring-using-finops-team/`): Use when the task involves orchestrate agent_skill: covers ring, finops, team, regulatory, open
+- **route** (`route/`): Use when the task involves orchestrate agent_skill: covers route, manually, opus, haiku, sonnet
+- **route-077ff7ab** (`route-077ff7ab/`): Use when the task involves orchestrate agent_skill: covers route, intent, appropriate, domain, input
+- **run-manager** (`run-manager/`): Use when the task involves orchestrate pipeline: covers run, manager, rerun, faber, resume
+- **samocode-run** (`samocode-run/`): Use when the task involves orchestrate agent_skill: covers samocode, run, continue, session., monitor
+- **save-thread** (`save-thread/`): Use when the task involves orchestrate agent_skill: covers save, thread, checkpoint., thread_persist, summary.
+- **say-narration** (`say-narration/`): Use when the task involves orchestrate agent_skill: covers say, narration, announcements., identity., themselves
+- **sc-mcp** (`sc-mcp/`): Use when the task involves orchestrate agent_skill: covers mcp, mcp-powered, pal, rube, consensus
+- **sc-startup** (`sc-startup/`): Use when the task involves configure project: covers startup, best-effort, pull., hygiene, status.
+- **searching-messages** (`searching-messages/`): Use when the task involves search documentation: covers searching, messages, find, discussed, earlier
+- **session-continuation** (`session-continuation/`): Use when the task involves orchestrate agent_skill: covers session, continuation, continuing, reconciliation., project-agnostic
+- **session-continuity** (`session-continuity/`): Use when the task involves orchestrate agent_skill: covers session, continuity, never, auto-advance, todowrite.
+- **session-save** (`session-save/`): Use when the task involves document project: covers session, save, accomplishments, ending, prepares
+- **shader-router** (`shader-router/`): Use when the task involves orchestrate agent_skill: covers shader, router, sdf, combine., glsl
+- **signal-party** (`signal-party/`): Use when the task involves orchestrate data: covers signal, party, metrics, g-6, signal.
+- **simulation-orchestrator** (`simulation-orchestrator/`): Use when the task involves orchestrate pipeline: covers simulation, orchestrator, parameter, multi-simulation, batches
+- **sitrep-coordinator** (`sitrep-coordinator/`): Use when the task involves orchestrate agent_skill: covers sitrep, coordinator, military-style, operators., in-progress
+- **slime-strategy** (`slime-strategy/`): Use when the task involves design agent_skill: covers slime, strategy, genetic, mold, autonomy
+- **slipstream-protocol** (`slipstream-protocol/`): Use when the task involves orchestrate agent_skill: covers slipstream, protocol, quantization, communication, multi-agent
+- **smart-session-start** (`smart-session-start/`): Use when the task involves orchestrate agent_skill: covers smart, session, start, goldfish, julie
+- **smart-workflows** (`smart-workflows/`): Use when the task involves orchestrate agent_skill: covers smart, workflows, mcp-b, surrealdb, ue5
+- **spec-workflow-orchestrator** (`spec-workflow-orchestrator/`): Use when the task involves orchestrate agent_skill: covers spec, workflow, orchestrator, development-ready, ideation
+- **speckit-orchestrator** (`speckit-orchestrator/`): Use when the task involves orchestrate pipeline: covers speckit, orchestrator, driven, spec, workflow
+- **springfield** (`springfield/`): Use when the task involves orchestrate agent_skill: covers springfield, development, benefiting, character-based, comic
+- **starting-an-iteration** (`starting-an-iteration/`): Use when the task involves orchestrate project: covers starting, iteration, journals, open-ended, iterations
+- **state-machine** (`state-machine/`): Use when the task involves design agent_skill: covers state, machine, proofs., gates., defines
+- **stitch-loop** (`stitch-loop/`): Use when the task involves implement ui_component: covers stitch, loop, baton-passing, iteratively, websites
+- **subagent** (`subagent/`): Use when the task involves orchestrate agent_skill: covers subagent, delegated, diligent, hygienic, lead.
+- **subagent-driven-development** (`subagent-driven-development/`): Use when the task involves orchestrate agent_skill: covers subagent, driven, development, independent, executing
+- **subagent-driven-development-daa7e144** (`subagent-driven-development-daa7e144/`): Use when the task involves orchestrate pipeline: covers subagent, driven, development, iterations, controlled
+- **subagent-workflow** (`subagent-workflow/`): Use when the task involves orchestrate agent_skill: covers subagent, workflow, subagent., dispatch, handoff
+- **swarm-troubleshooting** (`swarm-troubleshooting/`): Use when the task involves debug agent_skill: covers swarm, troubleshooting, recovery, spawn, status
+- **swarm-workflow** (`swarm-workflow/`): Use when the task involves orchestrate agent_skill: covers swarm, workflow, branches., split, work
+- **sync-tour** (`sync-tour/`): Use when the task involves orchestrate agent_skill: covers sync, tour, synchronisation, demande, complet
+- **tag-command-mapping** (`tag-command-mapping/`): Use when the task involves document agent_skill: covers tag, command, mapping, tag-to-command, autopilot.
+- **task-based-multiagent** (`task-based-multiagent/`): Use when the task involves orchestrate agent_skill: covers task, based, multiagent, task-based, coordination.
+- **task-classification** (`task-classification/`): Use when the task involves orchestrate agent_skill: covers task, classification, auto-invoked, classifies, routing.
+- **task-decomposition** (`task-decomposition/`): Use when the task involves orchestrate project: covers task, decomposition, complex, sub-tasks., manageable
+- **task-delegation** (`task-delegation/`): Use when the task involves orchestrate agent_skill: covers task, delegation, execution, project-agnostic, delegating
+- **task-delegation-14623fb9** (`task-delegation-14623fb9/`): Use when the task involves orchestrate agent_skill: covers task, delegation, minimize, pattern-following, straightforward
+- **task-distributor** (`task-distributor/`): Use when the task involves orchestrate agent_skill: covers task, distributor, deadlines., fair, throughput
+- **task-externalization** (`task-externalization/`): Use when the task involves configure agent_skill: covers task, externalization, context, large, compactions
+- **task-management** (`task-management/`): Use when the task involves orchestrate pipeline: covers task, management, offload, time-consuming, conversation.
+- **task-orchestration** (`task-orchestration/`): Use when the task involves orchestrate agent_skill: covers task, orchestration, orchestrate, workstreams, brainstorm
+- **team-routing** (`team-routing/`): Use when the task involves orchestrate agent_skill: covers team, routing, member, appropriate, domain
+- **technical-lead-role** (`technical-lead-role/`): Use when the task involves orchestrate agent_skill: covers technical, lead, role, oversight, thread
+- **thinking-model-router** (`thinking-model-router/`): Use when the task involves orchestrate agent_skill: covers thinking, model, router, mental, type.
+- **thread-spawner** (`thread-spawner/`): Use when the task involves orchestrate agent_skill: covers thread, spawner, claude-threads, threads, spawn
+- **tool-discovery** (`tool-discovery/`): Use when the task involves search agent_skill: covers tool, discovery, tools, discover_tools, available
+- **troubleshooting-execute** (`troubleshooting-execute/`): Use when the task involves debug agent_skill: covers troubleshooting, execute, failures, encounters, diagnostic
+- **undercity** (`undercity/`): Use when the task involves orchestrate pipeline: covers undercity, autonomous, tasks, multi-task, dispatch
+- **update-intent-breadcrumbs** (`update-intent-breadcrumbs/`): Use when the task involves document documentation: covers update, intent, breadcrumbs, next.md, state.json
+- **using-dev-team** (`using-dev-team/`): Use when the task involves orchestrate agent_skill: covers dev, team, sre., expertise., dispatch
+- **using-ops-team** (`using-ops-team/`): Use when the task involves orchestrate agent_skill: covers ops, team, operations, expertise., dispatch
+- **using-orchestration** (`using-orchestration/`): Use when the task involves orchestrate agent_skill: covers orchestration, multi-agent, repetitive, sequential, visualization
+- **using-superpowers-sdd** (`using-superpowers-sdd/`): Use when the task involves orchestrate agent_skill: covers superpowers, sdd, invoke., spec-first, workflow
+- **validation-coordinator** (`validation-coordinator/`): Use when the task involves orchestrate pipeline: covers validation, coordinator, specialists, sequential, coordinating
+- **vibe-orchestrator** (`vibe-orchestrator/`): Use when the task involves orchestrate agent_skill: covers vibe, orchestrator, backend-connector, design-reviewer, dev-builder
+- **when-chaining-agent-pipelines-use-stream-chain** (`when-chaining-agent-pipelines-use-stream-chain/`): Use when the task involves orchestrate pipeline: covers chaining, agent, pipelines, stream, chain
+- **when-orchestrating-swarm-use-swarm-orchestration** (`when-orchestrating-swarm-use-swarm-orchestration/`): Use when the task involves orchestrate agent_skill: covers orchestrating, swarm, orchestration, decomposition, synthesis
+- **workflow-adherence** (`workflow-adherence/`): Use when the task involves orchestrate pipeline: covers workflow, adherence, prematurely., stopping, essential
+- **workflow-executor-inline** (`workflow-executor-inline/`): Use when the task involves orchestrate pipeline: covers workflow, executor, inline, providers, zenmux
+- **workflow-orchestration** (`workflow-orchestration/`): Use when the task involves design pipeline: covers workflow, orchestration, dag-based, retries, multi-step
+- **workflow-orchestrator** (`workflow-orchestrator/`): Use when the task involves orchestrate pipeline: covers workflow, orchestrator, next, hotfix, feedback
+- **workflow-orchestrator-626ca51a** (`workflow-orchestrator-626ca51a/`): Use when the task involves orchestrate pipeline: covers workflow, orchestrator, done-signal, locks, dependencies.
+- **workflow-request-approval** (`workflow-request-approval/`): Use when the task involves orchestrate pipeline: covers workflow, request, approval, constrained, change.
+- **workflow-respond-to-approval** (`workflow-respond-to-approval/`): Use when the task involves orchestrate pipeline: covers workflow, respond, approval, request., records
+- **workflow-router** (`workflow-router/`): Use when the task involves orchestrate agent_skill: covers workflow, router, goal-based, goals, specialist
+- **workflow-router-14270fa4** (`workflow-router-14270fa4/`): Use when the task involves orchestrate agent_skill: covers workflow, router, bazinga, next., agent
+- **worktree-swarm** (`worktree-swarm/`): Use when the task involves orchestrate agent_skill: covers worktree, swarm, agents, parallelize, together.
+- **ww-consolidate** (`ww-consolidate/`): Use when the task involves orchestrate agent_skill: covers consolidate, weaver, consolidation, world, trigger
+
+Routing rule: when the task matches one of the sub-skills above, read the SKILL.md in that subdirectory for detailed instructions before acting;
+if that sub-skill lists deeper sub-skills, repeat the descent. Load only the documents on the matching path.
+<!-- /sub-skills -->

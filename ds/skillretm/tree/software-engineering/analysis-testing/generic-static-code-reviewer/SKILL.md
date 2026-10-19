@@ -1,0 +1,8 @@
+---
+name: "generic-static-code-reviewer"
+description: "Use when the task involves review code: covers generic, static, code, reviewer, weight"
+---
+
+# generic-static-code-reviewer
+
+Review static site code for bugs, security issues, performance problems, accessibility gaps, and CLAUDE.md compliance. Enforces pure HTML/CSS/JS standards, minimal page weight, mobile-first design. Use when completing features, before commits, or reviewing changes.

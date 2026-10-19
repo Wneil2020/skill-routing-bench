@@ -1,0 +1,8 @@
+---
+name: "modern-ui-designer"
+description: "Use when the task involves design ui_component: covers modern, designer, professional, stunning, mobile-first"
+---
+
+# modern-ui-designer
+
+Expert guidance for creating stunning, professional 2025 UI designs using Tailwind CSS and shadcn/ui. Ensures clean minimal aesthetics, 8px grid consistency, mobile-first responsive patterns, and WCAG accessibility compliance. Use when designing interfaces, reviewing UI, creating components, or when

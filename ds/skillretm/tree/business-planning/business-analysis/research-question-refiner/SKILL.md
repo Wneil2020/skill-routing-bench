@@ -1,0 +1,8 @@
+---
+name: "research-question-refiner"
+description: "Use when the task involves analyze documentation: covers research, question, refiner, interest, tractable"
+---
+
+# research-question-refiner
+
+Helps transform a vague research interest into a concrete, tractable research question. Use when asked to refine a research idea, develop a research question, scope a research project, or figure out what to work on. Walks through systematic refinement with feasibility analysis.

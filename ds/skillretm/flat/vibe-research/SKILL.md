@@ -1,0 +1,8 @@
+---
+name: "vibe-research"
+description: "Use when the task involves analyze documentation: covers vibe, research, idea, app, ideas."
+---
+
+# vibe-research
+
+Deep research and market validation for app ideas. Use when starting a new project, validating an idea, or when the user says "research my idea", "validate my app", or "help me start a new project".

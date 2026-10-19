@@ -1,0 +1,8 @@
+---
+name: "code-cleanup"
+description: "Use when the task involves refactor code: covers code, cleanup, fix, across, preserve"
+---
+
+# code-cleanup
+
+Delegate repetitive tasks to specialized agent to preserve context. Use when user asks to fix linting errors, fix diagnostics, rename variables across files, update imports, fix formatting issues, or perform other mechanical bulk changes across multiple files.

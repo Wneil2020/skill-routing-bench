@@ -1,0 +1,8 @@
+---
+name: "shopify-apps"
+description: "Use when the task involves implement api: covers shopify, apps, app, polaris, embedded"
+---
+
+# shopify-apps
+
+Expert patterns for Shopify app development including Remix/React Router apps, embedded apps with App Bridge, webhook handling, GraphQL Admin API, Polaris components, billing, and app extensions. Use when: shopify app, shopify, embedded app, polaris, app bridge.

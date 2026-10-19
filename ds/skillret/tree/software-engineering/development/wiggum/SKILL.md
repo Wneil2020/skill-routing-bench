@@ -1,0 +1,8 @@
+---
+name: "wiggum"
+description: "Use when the task involves orchestrate pipeline: covers wiggum, changelog., enters, prd., typecheck"
+---
+
+# wiggum
+
+Start an autonomous implementation loop from a spec or PRD. Enters plan mode for user approval, enforces command gates (test/lint/typecheck/build), validates dependencies, commits incrementally, and maintains documentation and changelog. Production-ready quality gates.

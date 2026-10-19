@@ -1,0 +1,8 @@
+---
+name: "evaluating-code-models"
+description: "Use when the task involves test data: covers evaluating, code, models, generation, bigcode"
+---
+
+# evaluating-code-models
+
+Evaluates code generation models across HumanEval, MBPP, MultiPL-E, and 15+ benchmarks with pass@k metrics. Use when benchmarking code models, comparing coding abilities, testing multi-language support, or measuring code generation quality. Industry standard from BigCode Project used by HuggingFace

@@ -1,0 +1,8 @@
+---
+name: "feature-decompose"
+description: "Use when the task involves design code: covers feature, decompose, features, reviewable, touch"
+---
+
+# feature-decompose
+
+Decompose large features into small, reviewable PRs with dependency analysis. Use when implementing features that touch 10+ files or multiple components.

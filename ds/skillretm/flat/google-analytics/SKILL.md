@@ -1,0 +1,8 @@
+---
+name: "google-analytics"
+description: "Use when the task involves analyze data: covers google, analytics, traffic, website, metrics"
+---
+
+# google-analytics
+
+Analyze Google Analytics data, review website performance metrics, identify traffic patterns, and suggest data-driven improvements. Use when the user asks about analytics, website metrics, traffic analysis, conversion rates, user behavior, or performance optimization.

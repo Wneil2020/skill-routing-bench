@@ -1,0 +1,8 @@
+---
+name: "angular-forms"
+description: "Use when the task involves implement ui_component: covers angular, forms, signal, form, schema-based"
+---
+
+# angular-forms
+
+Build signal-based forms in Angular v21+ using the new Signal Forms API. Use for form creation with automatic two-way binding, schema-based validation, field state management, and dynamic forms. Triggers on form implementation, adding validation, creating multi-step forms, or building forms with con

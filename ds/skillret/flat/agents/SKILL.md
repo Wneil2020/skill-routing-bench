@@ -1,0 +1,8 @@
+---
+name: "agents"
+description: "Use when the task involves design agent_skill: covers agents, llm-driven, llms., decision-making, involve"
+---
+
+# agents
+
+Patterns and architectures for building AI agents and workflows with LLMs. Use when designing systems that involve tool use, multi-step reasoning, autonomous decision-making, or orchestration of LLM-driven tasks.

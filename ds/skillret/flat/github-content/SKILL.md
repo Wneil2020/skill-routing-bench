@@ -1,0 +1,8 @@
+---
+name: "github-content"
+description: "Use when the task involves search code: covers github, content, prs, misses, rendering."
+---
+
+# github-content
+
+Fetch GitHub issues, PRs, repo contents, and code using the gh CLI. Use when the user shares GitHub URLs (issues, PRs, repos, source files) or asks about GitHub content. The gh CLI provides complete content that web fetching often misses due to JavaScript rendering.

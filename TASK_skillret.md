@@ -1,0 +1,1 @@
+读 SPEC.md。你负责数据集 skillret（data/skillret/：skills_test.jsonl 6006 个 skill，字段含 name/description/body/major/sub；queries/test.jsonl 4392 条；qrels/test.jsonl 为 query_id→skill_id 相关性；taxonomy.json 两级分类）。树分组：major→sub→skill（两级）。query 可能很长，照用。score.py 若已由别的窗口创建就复用（等它出现最多 5 分钟，没有就自己写，格式按 SPEC）。按 SPEC 完成全部确定性方法、results.md、README.md、sample.jsonl。dense 编码 6006 条注意分批并缓存。

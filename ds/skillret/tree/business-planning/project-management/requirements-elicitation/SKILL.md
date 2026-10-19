@@ -1,0 +1,8 @@
+---
+name: "requirements-elicitation"
+description: "Use when the task involves analyze documentation: covers requirements, elicitation, conflicting, stakeholders., clarifying"
+---
+
+# requirements-elicitation
+
+Requirement gathering techniques, stakeholder analysis, user story patterns, and specification validation. Use when clarifying vague requirements, resolving conflicting needs, documenting specifications, or validating requirements with stakeholders.

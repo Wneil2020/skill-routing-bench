@@ -1,0 +1,269 @@
+{
+ "srb": {
+  "exact_strict": {
+   "n": 1250,
+   "hit1": 0.0056,
+   "hit": 7,
+   "classes": {
+    "ambiguous_root": 1212,
+    "stop_group": 15,
+    "no_match_root": 9,
+    "ambiguous_group": 6,
+    "leaf": 8
+   }
+  },
+  "stem_strict": {
+   "n": 1250,
+   "hit1": 0.0024,
+   "hit": 3,
+   "classes": {
+    "ambiguous_root": 1237,
+    "ambiguous_group": 8,
+    "leaf": 3,
+    "no_match_root": 2
+   }
+  },
+  "stem_syn_strict": {
+   "n": 1250,
+   "hit1": 0.0024,
+   "hit": 3,
+   "classes": {
+    "ambiguous_root": 1237,
+    "ambiguous_group": 8,
+    "leaf": 3,
+    "no_match_root": 2
+   }
+  },
+  "score_exact": {
+   "n": 1250,
+   "hit1": 0.464,
+   "hit": 580,
+   "classes": {
+    "leaf": 1082,
+    "stop_group": 159,
+    "no_match_root": 9
+   }
+  },
+  "score_stem": {
+   "n": 1250,
+   "hit1": 0.384,
+   "hit": 480,
+   "classes": {
+    "leaf": 1234,
+    "no_match_root": 2,
+    "stop_group": 14
+   }
+  },
+  "score_stem_syn": {
+   "n": 1250,
+   "hit1": 0.3944,
+   "hit": 493,
+   "classes": {
+    "leaf": 1248,
+    "no_match_root": 2
+   }
+  },
+  "flat_score_exact": {
+   "n": 1250,
+   "hit1": 0.5144,
+   "hit": 643,
+   "classes": {
+    "leaf": 1226,
+    "no_match_root": 24
+   }
+  },
+  "flat_score_stem_syn": {
+   "n": 1250,
+   "hit1": 0.4976,
+   "hit": 622,
+   "classes": {
+    "leaf": 1248,
+    "no_match_root": 2
+   }
+  },
+  "llm_sample": {
+   "exact_strict": {
+    "n": 300,
+    "hit1": 0.01,
+    "hit": 3,
+    "classes": {
+     "ambiguous_root": 287,
+     "no_match_root": 4,
+     "ambiguous_group": 2,
+     "stop_group": 4,
+     "leaf": 3
+    }
+   },
+   "stem_syn_strict": {
+    "n": 300,
+    "hit1": 0.0033333333333333335,
+    "hit": 1,
+    "classes": {
+     "ambiguous_root": 294,
+     "ambiguous_group": 4,
+     "leaf": 1,
+     "no_match_root": 1
+    }
+   },
+   "score_exact": {
+    "n": 300,
+    "hit1": 0.48333333333333334,
+    "hit": 145,
+    "classes": {
+     "leaf": 260,
+     "no_match_root": 4,
+     "stop_group": 36
+    }
+   },
+   "score_stem_syn": {
+    "n": 300,
+    "hit1": 0.43333333333333335,
+    "hit": 130,
+    "classes": {
+     "leaf": 299,
+     "no_match_root": 1
+    }
+   },
+   "flat_score_stem_syn": {
+    "n": 300,
+    "hit1": 0.5233333333333333,
+    "hit": 157,
+    "classes": {
+     "leaf": 299,
+     "no_match_root": 1
+    }
+   }
+  }
+ },
+ "toolret": {
+  "exact_strict": {
+   "n": 200,
+   "hit1": 0.045,
+   "hit": 9,
+   "classes": {
+    "ambiguous_root": 147,
+    "leaf": 28,
+    "no_match_root": 12,
+    "ambiguous_group": 13
+   }
+  },
+  "stem_strict": {
+   "n": 200,
+   "hit1": 0.02,
+   "hit": 4,
+   "classes": {
+    "ambiguous_root": 171,
+    "leaf": 14,
+    "ambiguous_group": 9,
+    "no_match_root": 6
+   }
+  },
+  "stem_syn_strict": {
+   "n": 200,
+   "hit1": 0.01,
+   "hit": 2,
+   "classes": {
+    "ambiguous_root": 178,
+    "leaf": 10,
+    "ambiguous_group": 6,
+    "no_match_root": 6
+   }
+  },
+  "score_exact": {
+   "n": 200,
+   "hit1": 0.3,
+   "hit": 60,
+   "classes": {
+    "leaf": 188,
+    "no_match_root": 12
+   }
+  },
+  "score_stem": {
+   "n": 200,
+   "hit1": 0.305,
+   "hit": 61,
+   "classes": {
+    "leaf": 194,
+    "no_match_root": 6
+   }
+  },
+  "score_stem_syn": {
+   "n": 200,
+   "hit1": 0.31,
+   "hit": 62,
+   "classes": {
+    "leaf": 194,
+    "no_match_root": 6
+   }
+  },
+  "flat_score_exact": {
+   "n": 200,
+   "hit1": 0.305,
+   "hit": 61,
+   "classes": {
+    "leaf": 188,
+    "no_match_root": 12
+   }
+  },
+  "flat_score_stem_syn": {
+   "n": 200,
+   "hit1": 0.34,
+   "hit": 68,
+   "classes": {
+    "leaf": 194,
+    "no_match_root": 6
+   }
+  },
+  "llm_sample": {
+   "exact_strict": {
+    "n": 200,
+    "hit1": 0.045,
+    "hit": 9,
+    "classes": {
+     "ambiguous_root": 147,
+     "leaf": 28,
+     "no_match_root": 12,
+     "ambiguous_group": 13
+    }
+   },
+   "stem_syn_strict": {
+    "n": 200,
+    "hit1": 0.01,
+    "hit": 2,
+    "classes": {
+     "ambiguous_root": 178,
+     "leaf": 10,
+     "ambiguous_group": 6,
+     "no_match_root": 6
+    }
+   },
+   "score_exact": {
+    "n": 200,
+    "hit1": 0.3,
+    "hit": 60,
+    "classes": {
+     "leaf": 188,
+     "no_match_root": 12
+    }
+   },
+   "score_stem_syn": {
+    "n": 200,
+    "hit1": 0.31,
+    "hit": 62,
+    "classes": {
+     "leaf": 194,
+     "no_match_root": 6
+    }
+   },
+   "flat_score_stem_syn": {
+    "n": 200,
+    "hit1": 0.34,
+    "hit": 68,
+    "classes": {
+     "leaf": 194,
+     "no_match_root": 6
+    }
+   }
+  }
+ }
+}

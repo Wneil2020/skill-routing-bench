@@ -1,0 +1,8 @@
+---
+name: "visionos-spatial"
+description: "Use when the task involves implement ui_component: covers visionos, spatial, realitykit, immersive, spaces"
+---
+
+# visionos-spatial
+
+visionOS spatial computing fundamentals for Vision Pro, including windows, volumes, immersive spaces, RealityKit integration, spatial gestures, and cross-platform spatial patterns. Use when user asks about visionOS, Vision Pro, spatial computing, RealityKit, immersive spaces, 3D UI, or mixed reality

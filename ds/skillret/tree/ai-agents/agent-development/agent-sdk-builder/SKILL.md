@@ -1,0 +1,8 @@
+---
+name: "agent-sdk-builder"
+description: "Use when the task involves implement agent_skill: covers agent, sdk, builder, openhands, gathers"
+---
+
+# agent-sdk-builder
+
+Guided workflow for building custom AI agents using the OpenHands Software Agent SDK. Use when you want to create a new agent through an interactive interview process that gathers requirements and generates implementation plans.

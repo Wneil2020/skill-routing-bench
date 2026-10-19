@@ -1,0 +1,8 @@
+---
+name: "creating-opencode-plugins"
+description: "Use when the task involves implement agent_skill: covers creating, opencode, plugins, tui, lsp"
+---
+
+# creating-opencode-plugins
+
+Use when creating OpenCode plugins that hook into command, file, LSP, message, permission, server, session, todo, tool, or TUI events - provides plugin structure, event API specifications, and implementation patterns for JavaScript/TypeScript event-driven modules

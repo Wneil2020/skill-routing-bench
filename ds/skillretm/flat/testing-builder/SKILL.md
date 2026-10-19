@@ -1,0 +1,8 @@
+---
+name: "testing-builder"
+description: "Use when the task involves generate test_suite: covers testing, builder, adhd, eliminates, test"
+---
+
+# testing-builder
+
+Automatically generates comprehensive test suites (unit, integration, E2E) based on code and past testing patterns. Use when user says "write tests", "test this", "add coverage", or after fixing bugs to create regression tests. Eliminates testing friction for ADHD users.

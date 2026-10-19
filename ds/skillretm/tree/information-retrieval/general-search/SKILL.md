@@ -1,0 +1,142 @@
+---
+name: "general-search"
+description: "Use when the task involves General Search: covers general, search"
+---
+
+# General Search
+
+Searching business information, web content, knowledge bases, and general knowledge.
+
+<!-- sub-skills -->
+## Sub-skills (auto-generated, do not edit by hand)
+
+- **academic-researcher** (`academic-researcher/`): Use when the task involves search documentation: covers academic, researcher, scholar, sci-hub, scholarly
+- **academic-search** (`academic-search/`): Use when the task involves search documentation: covers academic, search, biology, mathematics, scholarly
+- **add-resource** (`add-resource/`): Use when the task involves document documentation: covers add, resource, learning, resources.md, courses
+- **add-wikipedia-references** (`add-wikipedia-references/`): Use when the task involves search documentation: covers add, wikipedia, references, array., one.
+- **agent-history** (`agent-history/`): Use when the task involves search data: covers agent, history, past, conversation, usage
+- **agentio-rss** (`agentio-rss/`): Use when the task involves search data: covers agentio, rss, feed, blog, get
+- **allegro-monitor** (`allegro-monitor/`): Use when the task involves analyze data: covers allegro, monitor, allegro.pl, threshold., drop
+- **analyze-email** (`analyze-email/`): Use when the task involves analyze data: covers analyze, email, attachments, them., summary
+- **annas-archive-ebooks** (`annas-archive-ebooks/`): Use when the task involves search content: covers annas, archive, ebooks, book, ebook
+- **api-digest** (`api-digest/`): Use when the task involves analyze api: covers api, digest, fetches, summary, detailed
+- **apple-music** (`apple-music/`): Use when the task involves implement api: covers apple, music, musickit, applescript, macos
+- **automem-search** (`automem-search/`): Use when the task involves search agent_skill: covers automem, search, history, lexical, llm-friendly
+- **brave-search** (`brave-search/`): Use when the task involves search data: covers brave, search, api., extraction, web
+- **cass-search** (`cass-search/`): Use when the task involves search data: covers cass, search, past, history, sessions
+- **chinese-zotero-import** (`chinese-zotero-import/`): Use when the task involves configure documentation: covers chinese, zotero, import, pinyin, transliteration
+- **confluence-deep-reader** (`confluence-deep-reader/`): Use when the task involves search documentation: covers confluence, deep, reader, child, read
+- **conversation-search** (`conversation-search/`): Use when the task involves search documentation: covers conversation, search, yesterday, week, today
+- **cook-county-data-portal** (`cook-county-data-portal/`): Use when the task involves search data: covers cook, county, data, portal, examiner
+- **coordinate-lookup** (`coordinate-lookup/`): Use when the task involves search agent_skill: covers coordinate, lookup, geocoding, gps, openstreetmap
+- **ctx-researcher** (`ctx-researcher/`): Use when the task involves search data: covers ctx, researcher, research, investigate, topics
+- **current-location-weather** (`current-location-weather/`): Use when the task involves search data: covers current, location, weather, temperature, conditions
+- **customgpt-rag-retrieval** (`customgpt-rag-retrieval/`): Use when the task involves search documentation: covers customgpt, rag, retrieval, customgpt.ai, answering
+- **deep-mem** (`deep-mem/`): Use when the task involves search data: covers deep, mem, memories, knowledge, search
+- **deep-research** (`deep-research/`): Use when the task involves orchestrate agent_skill: covers deep, research, diligence., landscaping, cited
+- **discord-chat-summary** (`discord-chat-summary/`): Use when the task involves generate content: covers discord, chat, summary, digest, recap
+- **dnd5e-srd** (`dnd5e-srd/`): Use when the task involves search documentation: covers dnd5e, srd, page-range, search-based, spells
+- **document-fetcher** (`document-fetcher/`): Use when the task involves search documentation: covers document, fetcher, cache-first, fractary, actual
+- **eft-domain** (`eft-domain/`): Use when the task involves document agent_skill: covers eft, domain, kappa, tarkov, quest
+- **enact-firecrawl** (`enact-firecrawl/`): Use when the task involves implement agent_skill: covers enact, firecrawl, crawl, llm-ready, scrape
+- **exa-answer** (`exa-answer/`): Use when the task involves search data: covers exa, answer, answers, structured, query.
+- **exa-find-similar** (`exa-find-similar/`): Use when the task involves search data: covers exa, find, similar, content, matching.
+- **exa-research** (`exa-research/`): Use when the task involves search data: covers exa, research, exa-ai, satisfactory, yielding
+- **exa-search** (`exa-search/`): Use when the task involves search data: covers exa, search, contents, answers, command-line
+- **faf-docs** (`faf-docs/`): Use when the task involves search documentation: covers faf, docs, order, reading, iana
+- **fetch-stores** (`fetch-stores/`): Use when the task involves search data: covers fetch, stores, google, businesses, dumpling
+- **finding-open-access-papers** (`finding-open-access-papers/`): Use when the task involves search data: covers finding, open, access, papers, paywalled
+- **finding-using-database-info** (`finding-using-database-info/`): Use when the task involves search data: covers finding, database, info, units, class
+- **firecrawl-scrape** (`firecrawl-scrape/`): Use when the task involves search data: covers firecrawl, scrape, pages, extract, mcp
+- **gcs-miljo-data** (`gcs-miljo-data/`): Use when the task involves search data: covers gcs, miljo, data, bnbo, nitrogen
+- **gemini-search** (`gemini-search/`): Use when the task involves search agent_skill: covers gemini, search, search-augmented, answers., grounded
+- **geolocation-skill** (`geolocation-skill/`): Use when the task involves analyze data: covers geolocation, skill, visual, geographic, location
+- **gkeep** (`gkeep/`): Use when the task involves orchestrate api: covers gkeep, gkeepapi., notes., keep, notes
+- **google-official-seo-guide** (`google-official-seo-guide/`): Use when the task involves document documentation: covers google, official, seo, guide, search
+- **google-search-skill** (`google-search-skill/`): Use when the task involves search data: covers google, search, skill, searches, information
+- **irish-takeaway** (`irish-takeaway/`): Use when the task involves search data: covers irish, takeaway, deliveroo, eat., ireland
+- **is-website-safe** (`is-website-safe/`): Use when the task involves analyze security: covers website, safe, domain, checking, reputation.
+- **jina-ai** (`jina-ai/`): Use when the task involves implement api: covers jina, llm-friendly, reader, urls, converting
+- **jira-read-ticket** (`jira-read-ticket/`): Use when the task involves search documentation: covers jira, read, ticket, more., whenever
+- **kagi-search** (`kagi-search/`): Use when the task involves search data: covers kagi, search, web, kagi_api_key, facts
+- **knowledge-base** (`knowledge-base/`): Use when the task involves implement documentation: covers knowledge, base, resources, add, excerpts.
+- **kroger-cli-reference** (`kroger-cli-reference/`): Use when the task involves document documentation: covers kroger, cli, reference, king, sooppers.
+- **l-space** (`l-space/`): Use when the task involves search documentation: covers space, l-space, libraries, library, skill
+- **lark-doc** (`lark-doc/`): Use when the task involves search documentation: covers lark, doc, feishu, markdown., operation
+- **lex-uk-law** (`lex-uk-law/`): Use when the task involves search api: covers lex, law, legal, analysing, legislation
+- **linkedin-navigation** (`linkedin-navigation/`): Use when the task involves orchestrate api: covers linkedin, navigation, alle, anzeigen, aufrufen
+- **linkedin-search** (`linkedin-search/`): Use when the task involves search data: covers linkedin, search, connections, posts, shares.
+- **lors-knowledge-master** (`lors-knowledge-master/`): Use when the task involves search agent_skill: covers lors, knowledge, master, landers, missions
+- **matrix-deep-research** (`matrix-deep-research/`): Use when the task involves analyze data: covers matrix, deep, research, thoroughly, multi-source
+- **memex-search** (`memex-search/`): Use when the task involves search agent_skill: covers memex, search, history, lexical, llm-friendly
+- **messages** (`messages/`): Use when the task involves search data: covers messages, find, search, imessage., texted
+- **ms365** (`ms365/`): Use when the task involves implement api: covers ms365, microsoft, emails, messages, outlook
+- **multi-source-investigation** (`multi-source-investigation/`): Use when the task involves analyze data: covers multi, source, investigation, perspectives, different
+- **neurosurgery-literature** (`neurosurgery-literature/`): Use when the task involves search documentation: covers neurosurgery, literature, searching, search, topics.
+- **obsidian-read-context** (`obsidian-read-context/`): Use when the task involves analyze documentation: covers obsidian, read, context, documentation, consolidation.
+- **obsidian-research-synthesis** (`obsidian-research-synthesis/`): Use when the task involves search documentation: covers obsidian, research, synthesis, dataview, wiki-links.
+- **obsidian-vault-intelligence** (`obsidian-vault-intelligence/`): Use when the task involves search documentation: covers obsidian, vault, intelligence, cross-reference, note
+- **paper-search-usage** (`paper-search-usage/`): Use when the task involves search documentation: covers paper, search, usage, papers, find
+- **perplexity-research** (`perplexity-research/`): Use when the task involves search data: covers perplexity, research, claude-interpretable, conducting, results
+- **perplexity-researcher-reasoning-pro** (`perplexity-researcher-reasoning-pro/`): Use when the task involves analyze agent_skill: covers perplexity, researcher, reasoning, pro, high-complexity
+- **privateinvestigator** (`privateinvestigator/`): Use when the task involves search data: covers privateinvestigator, people-finding., reconnect, skillsearch, trace.
+- **pulse-mcp-stream** (`pulse-mcp-stream/`): Use when the task involves analyze data: covers pulse, mcp, stream, layer, social
+- **querying-granola** (`querying-granola/`): Use when the task involves search data: covers querying, granola, meeting, past, history
+- **quill-export** (`quill-export/`): Use when the task involves generate data: covers quill, export, meeting, transcripts, metadata.
+- **quote-bible** (`quote-bible/`): Use when the task involves implement api: covers quote, bible, verses, translations, language
+- **raindrop-bookmark-management** (`raindrop-bookmark-management/`): Use when the task involves orchestrate agent_skill: covers raindrop, bookmark, management, bookmarks, highlights.
+- **read-calendar** (`read-calendar/`): Use when the task involves search data: covers read, calendar, events, attendees., calendar.
+- **recall** (`recall/`): Use when the task involves search data: covers recall, memories, keyword, concept, obsidian
+- **reddit** (`reddit/`): Use when the task involves search content: covers reddit, reddit., moderate, moderation, browse
+- **research** (`research/`): Use when the task involves analyze data: covers research, gathering, topic, information, deep
+- **research-and-incorporate** (`research-and-incorporate/`): Use when the task involves analyze documentation: covers research, incorporate, determine, topics, external
+- **research-assistant** (`research-assistant/`): Use when the task involves analyze documentation: covers research, assistant, summarizes, conducts, compares
+- **research-external** (`research-external/`): Use when the task involves search documentation: covers research, external, exploration, codebase, apis
+- **research-opportunity-investigator** (`research-opportunity-investigator/`): Use when the task involves search documentation: covers research, opportunity, investigator, acp, rfc
+- **research-web** (`research-web/`): Use when the task involves search documentation: covers research, web, deep, multi-wave, gathers
+- **research-web-24e8cb4a** (`research-web-24e8cb4a/`): Use when the task involves analyze data: covers research, web, claims., craap, lateral
+- **researching-web** (`researching-web/`): Use when the task involves search documentation: covers researching, web, search, factual, perplexity
+- **retrieve-relevant-information-through-rag** (`retrieve-relevant-information-through-rag/`): Use when the task involves search data: covers retrieve, relevant, information, rag, augmented
+- **rss-reader** (`rss-reader/`): Use when the task involves implement api: covers rss, reader, feeds, updates., parse
+- **scan-inbox** (`scan-inbox/`): Use when the task involves search data: covers scan, inbox, unread, email, categorized
+- **search-accommodations** (`search-accommodations/`): Use when the task involves search data: covers search, accommodations, city, itinerary., lodging
+- **search-company-knowledge** (`search-company-knowledge/`): Use when the task involves search documentation: covers search, company, knowledge, internal, information
+- **search-content** (`search-content/`): Use when the task involves search documentation: covers search, content, readme.md, searches, queries.
+- **search-copilot-chats** (`search-copilot-chats/`): Use when the task involves search data: covers search, copilot, chats, sessions, chat
+- **search-optimization** (`search-optimization/`): Use when the task involves analyze documentation: covers search, optimization, detail, intent, bluera
+- **search-specialist** (`search-specialist/`): Use when the task involves search data: covers search, specialist, information, comprehensiveness, needle-in-haystack
+- **searching-scientific-literature** (`searching-scientific-literature/`): Use when the task involves search data: covers searching, scientific, literature, pubmed, keyword
+- **searching-slack-history** (`searching-slack-history/`): Use when the task involves search api: covers searching, slack, history, conversations.history, search.messages
+- **second-brain** (`second-brain/`): Use when the task involves implement data: covers second, brain, toolbox, know, save
+- **session-finder** (`session-finder/`): Use when the task involves search project: covers session, finder, edited, sessions, find
+- **skill-gemini-google-search-tool** (`skill-gemini-google-search-tool/`): Use when the task involves search agent_skill: covers skill, gemini, google, search, tool
+- **slack-usage** (`slack-usage/`): Use when the task involves search data: covers slack, usage, messages, find, said
+- **summarize** (`summarize/`): Use when the task involves generate content: covers summarize, great, podcasts, transcribe, fallback
+- **swiss-transport** (`swiss-transport/`): Use when the task involves search data: covers swiss, transport, train, basel, bern
+- **systematic-review** (`systematic-review/`): Use when the task involves document documentation: covers systematic, review, reviews, meta-analyses, phd-level
+- **tavily-search** (`tavily-search/`): Use when the task involves search data: covers tavily, search, tavily_api_key., rag., optimized
+- **tavily-usage** (`tavily-usage/`): Use when the task involves search data: covers tavily, usage, search, web, content
+- **tech-news-curator** (`tech-news-curator/`): Use when the task involves analyze content: covers tech, news, curator, engineering, blogs
+- **traversing-citation-networks** (`traversing-citation-networks/`): Use when the task involves search data: covers traversing, citation, networks, relevance, scholar
+- **twitter-reader** (`twitter-reader/`): Use when the task involves search content: covers twitter, reader, post, jina.ai, replies.
+- **ultimate-research** (`ultimate-research/`): Use when the task involves orchestrate agent_skill: covers ultimate, research, mcp, breadth, deep-research-agent
+- **url-dump** (`url-dump/`): Use when the task involves generate data: covers url, dump, booklets, categorization, urls
+- **us-census-data** (`us-census-data/`): Use when the task involves search data: covers census, data, get, housing, population
+- **weather-pollen** (`weather-pollen/`): Use when the task involves search data: covers weather, pollen, forecasts, free, apis.
+- **weathercli** (`weathercli/`): Use when the task involves search data: covers weathercli, precipitation, worldwide., humidity, wind
+- **web-fetch** (`web-fetch/`): Use when the task involves search documentation: covers web, fetch, content, https, markdown.
+- **web-research-documenter** (`web-research-documenter/`): Use when the task involves document documentation: covers web, research, documenter, user-specified, path.
+- **web-search** (`web-search/`): Use when the task involves search data: covers web, search, brave_api, ddgs, keyless
+- **web-search-patterns** (`web-search-patterns/`): Use when the task involves search documentation: covers web, search, patterns, effective, searching
+- **web3-research** (`web3-research/`): Use when the task involves analyze data: covers web3, research, cryptocurrency, blockchain, crypto
+- **webresearcher** (`webresearcher/`): Use when the task involves search documentation: covers webresearcher, research, polluting, broad, sites.
+- **websearch-deep** (`websearch-deep/`): Use when the task involves search data: covers websearch, deep, synthesis, strategy, chatgpt-style
+- **websearch-standard** (`websearch-standard/`): Use when the task involves search documentation: covers websearch, standard, moderate, complexity, are.
+- **whcli** (`whcli/`): Use when the task involves search api: covers whcli, austria, classifieds, largest, seller
+- **wienerlinien** (`wienerlinien/`): Use when the task involves search data: covers wienerlinien, vienna, bus, transport, public
+- **x-bookmarks-manager** (`x-bookmarks-manager/`): Use when the task involves search data: covers bookmarks, manager, bird, account, active
+- **xaffinity-cli-usage** (`xaffinity-cli-usage/`): Use when the task involves search api: covers xaffinity, cli, usage, affinity, export
+
+Routing rule: when the task matches one of the sub-skills above, read the SKILL.md in that subdirectory for detailed instructions before acting;
+if that sub-skill lists deeper sub-skills, repeat the descent. Load only the documents on the matching path.
+<!-- /sub-skills -->

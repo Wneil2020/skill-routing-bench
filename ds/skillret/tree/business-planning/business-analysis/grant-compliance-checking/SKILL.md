@@ -1,0 +1,8 @@
+---
+name: "grant-compliance-checking"
+description: "Use when the task involves review documentation: covers grant, compliance, checking, requirements, agencies."
+---
+
+# grant-compliance-checking
+
+Expert knowledge of research grant compliance requirements, deliverables tracking, and funder expectations. Use when reviewing work against grant specifications, preparing progress reports, or ensuring alignment with funding requirements from NSF, NIH, EU, and other agencies.

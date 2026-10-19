@@ -1,0 +1,8 @@
+---
+name: "story-explanation"
+description: "Use when the task involves generate content: covers story, explanation, narrative, abridged, first-person"
+---
+
+# story-explanation
+
+Create compelling story-format summaries using UltraThink to find the best narrative framing. Support multiple formats - 3-part narrative, n-length with inline links, abridged 5-line, or comprehensive via Foundry MCP. USE WHEN user says 'create story explanation', 'narrative summary', 'explain as a

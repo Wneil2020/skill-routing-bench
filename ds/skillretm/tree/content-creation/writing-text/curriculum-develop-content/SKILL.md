@@ -1,0 +1,8 @@
+---
+name: "curriculum-develop-content"
+description: "Use when the task involves generate content: covers curriculum, develop, content, instructional, lesson"
+---
+
+# curriculum-develop-content
+
+Create detailed lesson plans, instructional materials, learning activities, and differentiation strategies aligned to learning objectives. Use when developing instructional content, writing lesson plans, or creating learning activities. Activates on "create lesson plan", "develop content for [object

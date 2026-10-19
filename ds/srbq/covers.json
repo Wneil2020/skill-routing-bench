@@ -1,0 +1,3509 @@
+{
+"agency-accessibility-auditor": [
+"agency",
+"accessibility",
+"auditor",
+"감사",
+"리뷰"
+],
+"agency-agentic-identity-trust-architect": [
+"agency",
+"agentic",
+"identity",
+"리뷰",
+"설계"
+],
+"agency-agents-orchestrator": [
+"agency",
+"orchestrator",
+"리뷰",
+"파이프라인",
+"agentsorchestrator"
+],
+"agency-ai-engineer": [
+"agency",
+"engineer",
+"리뷰",
+"배포",
+"emphasis"
+],
+"agency-analytics-reporter": [
+"agency",
+"analytics",
+"reporter",
+"생성",
+"리포트"
+],
+"agency-api-tester": [
+"agency",
+"api",
+"tester",
+"API",
+"리뷰"
+],
+"agency-app-store-optimizer": [
+"agency",
+"app",
+"store",
+"리뷰",
+"최적화"
+],
+"agency-autonomous-optimization-architect": [
+"agency",
+"autonomous",
+"optimization",
+"리뷰",
+"테스트"
+],
+"agency-backend-architect": [
+"agency",
+"backend",
+"architect",
+"백엔드",
+"리뷰"
+],
+"agency-behavioral-nudge-engine": [
+"agency",
+"behavioral",
+"nudge",
+"리뷰",
+"스킬"
+],
+"agency-brand-guardian": [
+"agency",
+"brand",
+"guardian",
+"리뷰",
+"스킬"
+],
+"agency-content-creator": [
+"agency",
+"content",
+"creator",
+"리뷰",
+"최적화"
+],
+"agency-cultural-intelligence-strategist": [
+"agency",
+"cultural",
+"intelligence",
+"리뷰",
+"검색"
+],
+"agency-data-analytics-reporter": [
+"agency",
+"data",
+"analytics",
+"데이터",
+"생성"
+],
+"agency-data-consolidation-agent": [
+"agency",
+"data",
+"consolidation",
+"데이터",
+"리뷰"
+],
+"agency-data-engineer": [
+"agency",
+"data",
+"engineer",
+"데이터",
+"리뷰"
+],
+"agency-developer-advocate": [
+"agency",
+"developer",
+"advocate",
+"리뷰",
+"빌드"
+],
+"agency-devops-automator": [
+"agency",
+"devops",
+"automator",
+"리뷰",
+"파이프라인"
+],
+"agency-evidence-collector": [
+"agency",
+"evidence",
+"collector",
+"리뷰",
+"스킬"
+],
+"agency-executive-summary-generator": [
+"agency",
+"executive",
+"summary",
+"학습",
+"bain"
+],
+"agency-experiment-tracker": [
+"agency",
+"experiment",
+"tracker",
+"리뷰",
+"테스트"
+],
+"agency-feedback-synthesizer": [
+"agency",
+"feedback",
+"synthesizer",
+"리뷰",
+"스킬"
+],
+"agency-finance-tracker": [
+"agency",
+"finance",
+"tracker",
+"리뷰",
+"최적화"
+],
+"agency-frontend-developer": [
+"agency",
+"frontend",
+"developer",
+"프론트엔드",
+"리뷰"
+],
+"agency-growth-hacker": [
+"agency",
+"growth",
+"hacker",
+"리뷰",
+"최적화"
+],
+"agency-image-prompt-engineer": [
+"agency",
+"image",
+"prompt",
+"프롬프트",
+"리뷰"
+],
+"agency-inclusive-visuals-specialist": [
+"agency",
+"inclusive",
+"visuals",
+"리뷰",
+"생성"
+],
+"agency-infrastructure-maintainer": [
+"agency",
+"infrastructure",
+"maintainer",
+"리뷰",
+"보안"
+],
+"agency-instagram-curator": [
+"agency",
+"instagram",
+"curator",
+"리뷰",
+"빌드"
+],
+"agency-legal-compliance-checker": [
+"agency",
+"legal",
+"compliance",
+"리뷰",
+"체크"
+],
+"agency-lsp-index-engineer": [
+"agency",
+"lsp",
+"index",
+"리뷰",
+"빌드"
+],
+"agency-macos-spatial-metal-engineer": [
+"agency",
+"macos",
+"spatial",
+"리뷰",
+"빌드"
+],
+"agency-mobile-app-builder": [
+"agency",
+"mobile",
+"app",
+"리뷰",
+"빌드"
+],
+"agency-performance-benchmarker": [
+"agency",
+"performance",
+"benchmarker",
+"성능",
+"테스트"
+],
+"agency-project-shepherd": [
+"agency",
+"project",
+"shepherd",
+"리뷰",
+"스킬"
+],
+"agency-rapid-prototyper": [
+"agency",
+"rapid",
+"prototyper",
+"리뷰",
+"스킬"
+],
+"agency-reality-checker": [
+"agency",
+"reality",
+"checker",
+"리뷰",
+"체크"
+],
+"agency-reddit-community-builder": [
+"agency",
+"reddit",
+"community",
+"리뷰",
+"빌드"
+],
+"agency-report-distribution-agent": [
+"agency",
+"report",
+"distribution",
+"리포트",
+"리뷰"
+],
+"agency-roster": [
+"agency",
+"roster",
+"division",
+"overlaps",
+"personalities"
+],
+"agency-sales-data-extraction-agent": [
+"agency",
+"sales",
+"data",
+"데이터",
+"리뷰"
+],
+"agency-security-engineer": [
+"agency",
+"security",
+"engineer",
+"보안",
+"리뷰"
+],
+"agency-senior-developer": [
+"agency",
+"senior",
+"developer",
+"리뷰",
+"스킬"
+],
+"agency-senior-project-manager": [
+"agency",
+"senior",
+"project",
+"리뷰",
+"스킬"
+],
+"agency-social-media-strategist": [
+"agency",
+"social",
+"media",
+"리뷰",
+"빌드"
+],
+"agency-sprint-prioritizer": [
+"agency",
+"sprint",
+"prioritizer",
+"계획",
+"데이터"
+],
+"agency-studio-operations": [
+"agency",
+"studio",
+"operations",
+"리뷰",
+"스킬"
+],
+"agency-studio-producer": [
+"agency",
+"studio",
+"producer",
+"리뷰",
+"스킬"
+],
+"agency-support-responder": [
+"agency",
+"support",
+"responder",
+"리뷰",
+"스킬"
+],
+"agency-technical-writer": [
+"agency",
+"technical",
+"writer",
+"문서",
+"스킬"
+],
+"agency-terminal-integration-specialist": [
+"agency",
+"terminal",
+"integration",
+"리뷰",
+"스킬"
+],
+"agency-test-results-analyzer": [
+"agency",
+"test",
+"results",
+"테스트",
+"리뷰"
+],
+"agency-tiktok-strategist": [
+"agency",
+"tiktok",
+"strategist",
+"리뷰",
+"빌드"
+],
+"agency-tool-evaluator": [
+"agency",
+"tool",
+"evaluator",
+"리뷰",
+"테스트"
+],
+"agency-trend-researcher": [
+"agency",
+"trend",
+"researcher",
+"리뷰",
+"검색"
+],
+"agency-twitter-engager": [
+"agency",
+"twitter",
+"engager",
+"리뷰",
+"빌드"
+],
+"agency-ui-designer": [
+"agency",
+"designer",
+"감사",
+"생성",
+"reflect"
+],
+"agency-ux-architect": [
+"agency",
+"architect",
+"리뷰",
+"스킬",
+"architectux"
+],
+"agency-ux-researcher": [
+"agency",
+"researcher",
+"감사",
+"테스트",
+"satisfaction"
+],
+"agency-visionos-spatial-engineer": [
+"agency",
+"visionos",
+"spatial",
+"리뷰",
+"설계"
+],
+"agency-visual-storyteller": [
+"agency",
+"visual",
+"storyteller",
+"리뷰",
+"설계"
+],
+"agency-wechat-official-account-manager": [
+"agency",
+"wechat",
+"official",
+"리뷰",
+"빌드"
+],
+"agency-whimsy-injector": [
+"agency",
+"whimsy",
+"injector",
+"리뷰",
+"생성"
+],
+"agency-workflow-optimizer": [
+"agency",
+"optimizer",
+"워크플로우",
+"리뷰",
+"automating"
+],
+"agency-xiaohongshu-specialist": [
+"agency",
+"xiaohongshu",
+"specialist",
+"리뷰",
+"시장"
+],
+"agency-xr-cockpit-interaction-specialist": [
+"agency",
+"cockpit",
+"interaction",
+"리뷰",
+"설계"
+],
+"agency-xr-immersive-developer": [
+"agency",
+"immersive",
+"developer",
+"리뷰",
+"스킬"
+],
+"agency-xr-interface-architect": [
+"agency",
+"interface",
+"architect",
+"리뷰",
+"설계"
+],
+"agency-zhihu-strategist": [
+"agency",
+"zhihu",
+"strategist",
+"리뷰",
+"빌드"
+],
+"agent-browser": [
+"browser",
+"브라우저",
+"테스트",
+"allowed",
+"allowlist"
+],
+"ai-chief-of-staff": [
+"chief",
+"staff",
+"assistant",
+"gwcli",
+"combines"
+],
+"ai-quality-evaluator": [
+"quality",
+"evaluator",
+"actionability",
+"completeness",
+"hallucination"
+],
+"ai-workflow-integrator": [
+"integrator",
+"ingestion",
+"seamless",
+"stages",
+"composition"
+],
+"air-gap-orchestrator": [
+"air",
+"gap",
+"orchestrator",
+"compatible",
+"prem"
+],
+"alphaear-deepear-lite": [
+"alphaear",
+"deepear",
+"lite",
+"분석",
+"체크"
+],
+"alphaear-logic-visualizer": [
+"alphaear",
+"logic",
+"visualizer",
+"생성",
+"설계"
+],
+"alphaear-news": [
+"alphaear",
+"news",
+"뉴스",
+"리포트",
+"polymarket"
+],
+"alphaear-predictor": [
+"alphaear",
+"predictor",
+"테스트",
+"체크",
+"adjustments"
+],
+"alphaear-reporter": [
+"alphaear",
+"reporter",
+"생성",
+"체크",
+"assembling"
+],
+"alphaear-search": [
+"alphaear",
+"search",
+"검색",
+"주식",
+"baidu"
+],
+"alphaear-sentiment": [
+"alphaear",
+"sentiment",
+"감성",
+"분석",
+"negative"
+],
+"alphaear-signal-tracker": [
+"alphaear",
+"signal",
+"tracker",
+"체크",
+"리포트"
+],
+"alphaear-stock": [
+"alphaear",
+"stock",
+"주식",
+"체크",
+"codes"
+],
+"alphaxiv-paper-lookup": [
+"alphaxiv",
+"paper",
+"lookup",
+"논문 조회",
+"arXiv 요약"
+],
+"anthropic-algorithmic-art": [
+"anthropic",
+"algorithmic",
+"art",
+"생성 아트",
+"알고리즘 아트"
+],
+"anthropic-brand-guidelines": [
+"anthropic",
+"brand",
+"guidelines",
+"설계",
+"colors"
+],
+"anthropic-canvas-design": [
+"anthropic",
+"canvas",
+"design",
+"포스터",
+"시각 디자인"
+],
+"anthropic-claude-api": [
+"anthropic",
+"claude",
+"api",
+"Claude API",
+"Anthropic SDK"
+],
+"anthropic-doc-coauthoring": [
+"anthropic",
+"doc",
+"coauthoring",
+"문서 공동 작성",
+"스펙 작성"
+],
+"anthropic-docx": [
+"anthropic",
+"docx",
+"워드 문서",
+"문서 생성",
+"headings"
+],
+"anthropic-frontend-design": [
+"anthropic",
+"frontend",
+"design",
+"프론트엔드 디자인",
+"UI 구현"
+],
+"anthropic-internal-comms": [
+"anthropic",
+"internal",
+"comms",
+"사내 공지",
+"3P 업데이트"
+],
+"anthropic-mcp-builder": [
+"anthropic",
+"mcp",
+"builder",
+"MCP 서버",
+"MCP 빌드"
+],
+"anthropic-pdf": [
+"anthropic",
+"pdf",
+"PDF",
+"PDF 편집",
+"PDF 생성"
+],
+"anthropic-pptx": [
+"anthropic",
+"pptx",
+"프레젠테이션",
+"슬라이드",
+"above"
+],
+"anthropic-skill-creator": [
+"anthropic",
+"creator",
+"스킬 생성",
+"스킬 제작",
+"modify"
+],
+"anthropic-slack-gif-creator": [
+"anthropic",
+"slack",
+"gif",
+"GIF",
+"슬랙 GIF"
+],
+"anthropic-theme-factory": [
+"anthropic",
+"theme",
+"factory",
+"생성",
+"설계"
+],
+"anthropic-web-artifacts-builder": [
+"anthropic",
+"web",
+"artifacts",
+"웹 아티팩트",
+"React 컴포넌트"
+],
+"anthropic-webapp-testing": [
+"anthropic",
+"webapp",
+"testing",
+"웹 테스트",
+"Playwright 테스트"
+],
+"anthropic-xlsx": [
+"anthropic",
+"xlsx",
+"엑셀",
+"스프레드시트",
+"tabular"
+],
+"auto-research": [
+"auto",
+"research",
+"literature",
+"researchclaw",
+"autoresearchclaw"
+],
+"auto-research-distribute": [
+"auto",
+"research",
+"distribute",
+"autoresearchclaw",
+"latex"
+],
+"automation-strategist": [
+"automation",
+"strategist",
+"roi",
+"thinker",
+"keep"
+],
+"autoskill-evolve": [
+"autoskill",
+"evolve",
+"discard",
+"manually",
+"recalling"
+],
+"autoskill-extractor": [
+"autoskill",
+"extractor",
+"durable",
+"preferences",
+"corrections"
+],
+"autoskill-judge": [
+"autoskill",
+"judge",
+"discarded",
+"produced",
+"added"
+],
+"autoskill-merger": [
+"autoskill",
+"merger",
+"tags",
+"union",
+"candidate"
+],
+"autoskill-pipeline": [
+"autoskill",
+"pipeline",
+"adaptation",
+"adapt",
+"evolution"
+],
+"backend-expert": [
+"backend",
+"expert",
+"백엔드",
+"리뷰",
+"observability"
+],
+"bespin-news-digest": [
+"bespin",
+"news",
+"digest",
+"clipping",
+"jina"
+],
+"calendar-daily-briefing": [
+"calendar",
+"daily",
+"briefing",
+"staff",
+"chief"
+],
+"ci-quality-gate": [
+"quality",
+"gate",
+"감사",
+"테스트",
+"pushing"
+],
+"code-review-all": [
+"code",
+"review",
+"all",
+"abnormal",
+"adversarial"
+],
+"codebase-archaeologist": [
+"codebase",
+"archaeologist",
+"archaeology",
+"bus",
+"churn"
+],
+"cognee": [
+"cognee",
+"지식 그래프",
+"AI 메모리",
+"cognify",
+"enhanced"
+],
+"commit-to-issue": [
+"commit",
+"issue",
+"커밋",
+"리뷰",
+"boards"
+],
+"compliance-gate": [
+"compliance",
+"gate",
+"aggregates",
+"bandit",
+"cis"
+],
+"compliance-governance": [
+"compliance",
+"governance",
+"감사",
+"리뷰",
+"logging"
+],
+"context-engineer": [
+"context",
+"engineer",
+"during",
+"done",
+"explaining"
+],
+"critical-review": [
+"critical",
+"review",
+"critiques",
+"dual",
+"remediation"
+],
+"cursor-automations": [
+"cursor",
+"automations",
+"webhooks",
+"involving",
+"linear"
+],
+"cursor-sync": [
+"cursor",
+"sync",
+"absorbs",
+"acts",
+"newest"
+],
+"daily-am-orchestrator": [
+"daily",
+"orchestrator",
+"evening",
+"routines",
+"covering"
+],
+"daily-stock-check": [
+"daily",
+"stock",
+"check",
+"주식",
+"체크"
+],
+"daily-strategy-post": [
+"daily",
+"strategy",
+"post",
+"distributed",
+"synthesizes"
+],
+"daiso-mcp": [
+"daiso",
+"mcp",
+"commerce",
+"inventory",
+"megabox"
+],
+"db-expert": [
+"expert",
+"리뷰",
+"설계",
+"alembic",
+"caching"
+],
+"decision-router": [
+"decision",
+"router",
+"partnerships",
+"inline",
+"personal"
+],
+"deep-research-pipeline": [
+"deep",
+"research",
+"pipeline",
+"딥 리서치 파이프라인",
+"종합 리서치"
+],
+"deep-review": [
+"deep",
+"review",
+"리뷰",
+"테스트",
+"scoping"
+],
+"defuddle": [
+"defuddle",
+"검색",
+"데이터",
+"ads",
+"chapter"
+],
+"demo-forge": [
+"demo",
+"forge",
+"animations",
+"captures",
+"showcase"
+],
+"dependency-auditor": [
+"dependency",
+"auditor",
+"감사",
+"리뷰",
+"patch"
+],
+"dependency-radar": [
+"dependency",
+"radar",
+"의존성 분석",
+"의존성 레이더",
+"blocker"
+],
+"design-architect": [
+"design",
+"architect",
+"설계",
+"감사",
+"holistic"
+],
+"design-review": [
+"design",
+"review",
+"fsd",
+"tds",
+"figma"
+],
+"diagnose": [
+"diagnose",
+"진단",
+"리뷰",
+"debug",
+"why"
+],
+"docs-freshness-guardian": [
+"docs",
+"freshness",
+"guardian",
+"문서 최신성",
+"문서 프레시니스"
+],
+"docs-tutor": [
+"docs",
+"tutor",
+"badges",
+"drills",
+"proficiency"
+],
+"docs-tutor-setup": [
+"docs",
+"tutor",
+"setup",
+"학습 노트",
+"StudyVault 생성"
+],
+"docx-template-engine": [
+"docx",
+"template",
+"engine",
+"heading",
+"slot"
+],
+"domain-commit": [
+"domain",
+"commit",
+"커밋",
+"생성",
+"trivial"
+],
+"e2e-overhaul": [
+"e2e",
+"overhaul",
+"E2E 전체 점검",
+"E2E 오버홀",
+"browsers"
+],
+"e2e-testing": [
+"e2e",
+"testing",
+"테스트",
+"생성",
+"debug"
+],
+"ecc-agentic-engineering": [
+"ecc",
+"agentic",
+"engineering",
+"에이전트 엔지니어링",
+"모델 라우팅"
+],
+"ecc-autonomous-loops": [
+"ecc",
+"autonomous",
+"loops",
+"자율 루프",
+"에이전트 루프"
+],
+"ecc-coding-standards": [
+"ecc",
+"coding",
+"standards",
+"코딩 표준",
+"코드 스타일"
+],
+"ecc-configure": [
+"ecc",
+"configure",
+"ECC 설정",
+"ECC 구성",
+"installing"
+],
+"ecc-continuous-learning": [
+"ecc",
+"continuous",
+"learning",
+"지속 학습",
+"인스팅트"
+],
+"ecc-eval-harness": [
+"ecc",
+"eval",
+"harness",
+"에이전트 평가",
+"eval 프레임워크"
+],
+"ecc-iterative-retrieval": [
+"ecc",
+"iterative",
+"retrieval",
+"반복 검색",
+"컨텍스트 빌딩"
+],
+"ecc-search-first": [
+"ecc",
+"search",
+"first",
+"검색 우선",
+"기존 도구 탐색"
+],
+"ecc-strategic-compact": [
+"ecc",
+"strategic",
+"compact",
+"컨텍스트 압축",
+"컴팩션"
+],
+"ecc-verification-loop": [
+"ecc",
+"verification",
+"loop",
+"리뷰",
+"테스트"
+],
+"email-auto-reply": [
+"email",
+"auto",
+"reply",
+"presents",
+"retrieves"
+],
+"email-research-dispatcher": [
+"email",
+"research",
+"dispatcher",
+"bridges",
+"worthy"
+],
+"eod-ship": [
+"eod",
+"ship",
+"scrum",
+"wrap",
+"managed"
+],
+"evals-skills": [
+"evals",
+"skills",
+"LLM 평가",
+"eval 파이프라인",
+"annotation"
+],
+"executive-briefing": [
+"executive",
+"briefing",
+"CEO 종합 보고서",
+"경영진 브리핑",
+"collecting"
+],
+"fe-pipeline": [
+"pipeline",
+"widget",
+"swagger",
+"entity",
+"i18n"
+],
+"feature-intake-router": [
+"feature",
+"intake",
+"router",
+"기능 요청 접수",
+"요청 라우팅"
+],
+"feedback-meeting-scheduler": [
+"feedback",
+"meeting",
+"scheduler",
+"parties",
+"blocked"
+],
+"figma-to-tds": [
+"figma",
+"tds",
+"tsx",
+"thakicloud",
+"shared"
+],
+"frontend-expert": [
+"frontend",
+"expert",
+"프론트엔드",
+"감사",
+"vitals"
+],
+"fsd-development": [
+"fsd",
+"development",
+"widgets",
+"legacy",
+"entities"
+],
+"full-stack-planner": [
+"full",
+"stack",
+"planner",
+"assignments",
+"concurrency"
+],
+"github-sprint-digest": [
+"github",
+"sprint",
+"digest",
+"overnight",
+"comments"
+],
+"github-workflow-automation": [
+"github",
+"automation",
+"webui",
+"fsd",
+"implement"
+],
+"gmail-daily-triage": [
+"gmail",
+"daily",
+"triage",
+"accepts",
+"runpod"
+],
+"google-daily": [
+"google",
+"daily",
+"workspace",
+"individual",
+"drive"
+],
+"gws-calendar": [
+"gws",
+"calendar",
+"캘린더",
+"일정",
+"automatic"
+],
+"gws-chat": [
+"gws",
+"chat",
+"구글 챗",
+"챗 메시지",
+"sms"
+],
+"gws-docs": [
+"gws",
+"docs",
+"구글 문서",
+"문서 작성",
+"append"
+],
+"gws-drive": [
+"gws",
+"drive",
+"구글 드라이브",
+"파일 업로드",
+"folders"
+],
+"gws-email-reply": [
+"gws",
+"email",
+"reply",
+"continuation",
+"han"
+],
+"gws-gmail": [
+"gws",
+"gmail",
+"이메일",
+"메일 보내기",
+"invites"
+],
+"gws-recipe-audit-sharing": [
+"gws",
+"recipe",
+"audit",
+"외부 공유",
+"권한 감사"
+],
+"gws-recipe-doc-from-template": [
+"gws",
+"recipe",
+"doc",
+"템플릿 문서",
+"문서 복사"
+],
+"gws-recipe-events-from-sheet": [
+"gws",
+"recipe",
+"events",
+"일정 일괄 생성",
+"시트에서 일정"
+],
+"gws-recipe-personalized-emails": [
+"gws",
+"recipe",
+"personalized",
+"일괄 이메일",
+"메일 머지"
+],
+"gws-recipe-save-email-to-doc": [
+"gws",
+"recipe",
+"save",
+"이메일 보관",
+"메일 문서화"
+],
+"gws-sheets": [
+"gws",
+"sheets",
+"구글 시트",
+"스프레드시트",
+"disk"
+],
+"gws-workflows": [
+"gws",
+"데일리 스탠드업",
+"주간 요약",
+"announce",
+"announcements"
+],
+"gws-workspace": [
+"gws",
+"workspace",
+"구글 워크스페이스",
+"gws 설정",
+"controlling"
+],
+"helm-validator": [
+"helm",
+"validator",
+"kube",
+"polaris",
+"kubeconform"
+],
+"hf-auto-finetune-planner": [
+"auto",
+"finetune",
+"planner",
+"combination",
+"estimates"
+],
+"hf-buckets": [
+"buckets",
+"HF 버킷",
+"오브젝트 스토리지",
+"bucket",
+"xet"
+],
+"hf-cli": [
+"cli",
+"체크",
+"주식",
+"auth",
+"downloading"
+],
+"hf-collections": [
+"collections",
+"컬렉션 생성",
+"컬렉션 관리",
+"curate",
+"curated"
+],
+"hf-dataset-viewer": [
+"dataset",
+"viewer",
+"데이터셋 탐색",
+"HF 데이터 조회",
+"paginate"
+],
+"hf-datasets": [
+"datasets",
+"데이터셋 생성",
+"HF 데이터셋",
+"initialize",
+"curated"
+],
+"hf-discussions": [
+"discussions",
+"HF 토론",
+"HF PR",
+"허브 풀리퀘스트",
+"comment"
+],
+"hf-endpoints": [
+"endpoints",
+"추론 엔드포인트",
+"모델 배포",
+"pause",
+"deploy"
+],
+"hf-evaluation": [
+"evaluation",
+"모델 평가",
+"벤치마크",
+"artificial",
+"benchmarks"
+],
+"hf-hub": [
+"hub",
+"HF 설정",
+"HF 인증",
+"cache",
+"authenticate"
+],
+"hf-jobs": [
+"jobs",
+"HF Jobs",
+"GPU 작업",
+"workloads",
+"trl"
+],
+"hf-model-arena": [
+"model",
+"arena",
+"competing",
+"deploys",
+"dimensional"
+],
+"hf-model-trainer": [
+"model",
+"trainer",
+"모델 훈련",
+"파인튜닝",
+"dpo"
+],
+"hf-models": [
+"models",
+"모델 검색",
+"모델 다운로드",
+"weights",
+"author"
+],
+"hf-papers": [
+"papers",
+"오늘 논문",
+"트렌딩 논문",
+"publications",
+"scouting"
+],
+"hf-repos": [
+"repos",
+"HF 레포 생성",
+"레포 관리",
+"branches",
+"gating"
+],
+"hf-spaces": [
+"spaces",
+"HF 스페이스",
+"스페이스 검색",
+"gradio",
+"reload"
+],
+"hf-trackio": [
+"trackio",
+"실험 추적",
+"학습 모니터링",
+"diagnostics",
+"fire"
+],
+"hf-trending-intelligence": [
+"trending",
+"intelligence",
+"browsing",
+"mainstream",
+"ecosystem"
+],
+"i18n-sync": [
+"i18n",
+"sync",
+"동기화",
+"감사",
+"locale"
+],
+"iac-review-agent": [
+"iac",
+"review",
+"diffs",
+"appropriate",
+"manifest"
+],
+"implement-screen": [
+"implement",
+"screen",
+"fsd",
+"spec",
+"tds"
+],
+"incident-lifecycle-manager": [
+"incident",
+"lifecycle",
+"manager",
+"인시던트 관리",
+"인시던트 라이프사이클"
+],
+"incident-to-improvement": [
+"incident",
+"improvement",
+"blameless",
+"closed",
+"lasting"
+],
+"infra-drift-detector": [
+"infra",
+"drift",
+"detector",
+"cluster",
+"declared"
+],
+"infra-runbook-generator": [
+"infra",
+"runbook",
+"generator",
+"configs",
+"paths"
+],
+"intent-alignment-tracker": [
+"intent",
+"alignment",
+"tracker",
+"measures",
+"executed"
+],
+"issue-to-code": [
+"issue",
+"code",
+"resolves",
+"specifications",
+"implementations"
+],
+"jira-linear-adapter": [
+"jira",
+"linear",
+"adapter",
+"assignee",
+"bidirectional"
+],
+"k8s-manifest-validator": [
+"k8s",
+"manifest",
+"validator",
+"kubectl",
+"kubelinter"
+],
+"knowledge-daily-aggregator": [
+"knowledge",
+"daily",
+"aggregator",
+"collects",
+"consolidate"
+],
+"knowledge-to-paper": [
+"knowledge",
+"paper",
+"accumulated",
+"indexed",
+"publishable"
+],
+"kwp-apollo-enrich-lead": [
+"kwp",
+"apollo",
+"enrich",
+"이메일",
+"card"
+],
+"kwp-apollo-prospect": [
+"kwp",
+"apollo",
+"prospect",
+"파이프라인",
+"이메일"
+],
+"kwp-apollo-sequence-load": [
+"kwp",
+"apollo",
+"sequence",
+"enrollment",
+"bulk"
+],
+"kwp-bio-research-instrument-data-to-allotrope": [
+"kwp",
+"bio",
+"research",
+"리서치",
+"데이터"
+],
+"kwp-bio-research-nextflow-development": [
+"kwp",
+"bio",
+"research",
+"리서치",
+"파이프라인"
+],
+"kwp-bio-research-scientific-problem-selection": [
+"kwp",
+"bio",
+"research",
+"리서치",
+"검색"
+],
+"kwp-bio-research-scvi-tools": [
+"kwp",
+"bio",
+"research",
+"리서치",
+"스캔"
+],
+"kwp-bio-research-single-cell-rna-qc": [
+"kwp",
+"bio",
+"research",
+"리서치",
+"스캔"
+],
+"kwp-brand-voice-brand-voice-enforcement": [
+"kwp",
+"brand",
+"voice",
+"생성",
+"이메일"
+],
+"kwp-brand-voice-discover-brand": [
+"kwp",
+"brand",
+"voice",
+"감사",
+"검색"
+],
+"kwp-brand-voice-guideline-generation": [
+"kwp",
+"brand",
+"voice",
+"빌드",
+"분석"
+],
+"kwp-common-room-account-research": [
+"kwp",
+"common",
+"room",
+"리서치",
+"검색"
+],
+"kwp-common-room-call-prep": [
+"kwp",
+"common",
+"room",
+"talking",
+"know"
+],
+"kwp-common-room-compose-outreach": [
+"kwp",
+"common",
+"room",
+"생성",
+"이메일"
+],
+"kwp-common-room-contact-research": [
+"kwp",
+"common",
+"room",
+"리서치",
+"검색"
+],
+"kwp-common-room-prospect": [
+"kwp",
+"common",
+"room",
+"빌드",
+"alphabetically"
+],
+"kwp-common-room-weekly-prep-brief": [
+"kwp",
+"common",
+"room",
+"생성",
+"계획"
+],
+"kwp-cowork-cowork-plugin-customizer": [
+"kwp",
+"cowork",
+"plugin",
+"connector",
+"packaging"
+],
+"kwp-cowork-create-cowork-plugin": [
+"kwp",
+"cowork",
+"create",
+"delivers",
+"develop"
+],
+"kwp-cowork-create-plugin": [
+"kwp",
+"cowork",
+"create",
+"생성",
+"빌드"
+],
+"kwp-cowork-plugin-customizer": [
+"kwp",
+"cowork",
+"plugin",
+"워크플로우",
+"스킬"
+],
+"kwp-customer-support-customer-research": [
+"kwp",
+"customer",
+"support",
+"리서치",
+"빌드"
+],
+"kwp-customer-support-escalation": [
+"kwp",
+"customer",
+"support",
+"출시",
+"reproduction"
+],
+"kwp-customer-support-knowledge-management": [
+"kwp",
+"customer",
+"support",
+"문서",
+"documented"
+],
+"kwp-customer-support-response-drafting": [
+"kwp",
+"customer",
+"support",
+"고객 응대",
+"답변 작성"
+],
+"kwp-customer-support-ticket-triage": [
+"kwp",
+"customer",
+"support",
+"assigning",
+"categorizing"
+],
+"kwp-data-data-context-extractor": [
+"kwp",
+"data",
+"context",
+"데이터",
+"생성"
+],
+"kwp-data-data-exploration": [
+"kwp",
+"data",
+"exploration",
+"데이터",
+"분석"
+],
+"kwp-data-data-validation": [
+"kwp",
+"data",
+"validation",
+"데이터",
+"리뷰"
+],
+"kwp-data-data-visualization": [
+"kwp",
+"data",
+"visualization",
+"데이터",
+"빌드"
+],
+"kwp-data-interactive-dashboard-builder": [
+"kwp",
+"data",
+"interactive",
+"데이터",
+"빌드"
+],
+"kwp-data-sql-queries": [
+"kwp",
+"data",
+"sql",
+"데이터",
+"빌드"
+],
+"kwp-data-statistical-analysis": [
+"kwp",
+"data",
+"statistical",
+"데이터",
+"테스트"
+],
+"kwp-design-accessibility-review": [
+"kwp",
+"design",
+"accessibility",
+"설계",
+"리뷰"
+],
+"kwp-design-design-critique": [
+"kwp",
+"design",
+"critique",
+"설계",
+"감사"
+],
+"kwp-design-design-handoff": [
+"kwp",
+"design",
+"handoff",
+"설계",
+"생성"
+],
+"kwp-design-design-system-management": [
+"kwp",
+"design",
+"system",
+"설계",
+"감사"
+],
+"kwp-design-system": [
+"kwp",
+"design",
+"system",
+"디자인 시스템",
+"디자인 토큰"
+],
+"kwp-design-user-research": [
+"kwp",
+"design",
+"user",
+"설계",
+"리서치"
+],
+"kwp-design-ux-writing": [
+"kwp",
+"design",
+"writing",
+"설계",
+"감사"
+],
+"kwp-engineering-code-review": [
+"kwp",
+"engineering",
+"code",
+"코드 리뷰",
+"PR 리뷰"
+],
+"kwp-engineering-documentation": [
+"kwp",
+"engineering",
+"documentation",
+"기술 문서",
+"문서화"
+],
+"kwp-engineering-incident-response": [
+"kwp",
+"engineering",
+"incident",
+"인시던트",
+"장애 대응"
+],
+"kwp-engineering-system-design": [
+"kwp",
+"engineering",
+"system",
+"시스템 설계",
+"아키텍처"
+],
+"kwp-engineering-tech-debt": [
+"kwp",
+"engineering",
+"tech",
+"기술 부채",
+"리팩토링"
+],
+"kwp-engineering-testing-strategy": [
+"kwp",
+"engineering",
+"testing",
+"테스트 전략",
+"테스트 설계"
+],
+"kwp-enterprise-search-knowledge-synthesis": [
+"kwp",
+"enterprise",
+"search",
+"검색",
+"attribution"
+],
+"kwp-enterprise-search-search-strategy": [
+"kwp",
+"enterprise",
+"search",
+"검색",
+"ambiguity"
+],
+"kwp-enterprise-search-source-management": [
+"kwp",
+"enterprise",
+"search",
+"검색",
+"awareness"
+],
+"kwp-finance-audit-support": [
+"kwp",
+"finance",
+"audit",
+"감사",
+"테스트"
+],
+"kwp-finance-close-management": [
+"kwp",
+"finance",
+"close",
+"계획",
+"캘린더"
+],
+"kwp-finance-financial-statements": [
+"kwp",
+"finance",
+"financial",
+"생성",
+"리포트"
+],
+"kwp-finance-journal-entry-prep": [
+"kwp",
+"finance",
+"journal",
+"수정",
+"문서"
+],
+"kwp-finance-reconciliation": [
+"kwp",
+"finance",
+"reconciliation",
+"데이터",
+"balances"
+],
+"kwp-finance-variance-analysis": [
+"kwp",
+"finance",
+"variance",
+"계획",
+"출시"
+],
+"kwp-human-resources-compensation-benchmarking": [
+"kwp",
+"human",
+"resources",
+"시장",
+"데이터"
+],
+"kwp-human-resources-employee-handbook": [
+"kwp",
+"human",
+"resources",
+"perks",
+"pto"
+],
+"kwp-human-resources-interview-prep": [
+"kwp",
+"human",
+"resources",
+"생성",
+"계획"
+],
+"kwp-human-resources-org-planning": [
+"kwp",
+"human",
+"resources",
+"설계",
+"계획"
+],
+"kwp-human-resources-people-analytics": [
+"kwp",
+"human",
+"resources",
+"분석",
+"데이터"
+],
+"kwp-human-resources-recruiting-pipeline": [
+"kwp",
+"human",
+"resources",
+"채용",
+"인사 파이프라인"
+],
+"kwp-legal-canned-responses": [
+"kwp",
+"legal",
+"canned",
+"생성",
+"데이터"
+],
+"kwp-legal-compliance": [
+"kwp",
+"legal",
+"compliance",
+"개인정보",
+"GDPR"
+],
+"kwp-legal-contract-review": [
+"kwp",
+"legal",
+"contract",
+"리뷰",
+"clause"
+],
+"kwp-legal-legal-risk-assessment": [
+"kwp",
+"legal",
+"risk",
+"리뷰",
+"determining"
+],
+"kwp-legal-meeting-briefing": [
+"kwp",
+"legal",
+"meeting",
+"리뷰",
+"검색"
+],
+"kwp-legal-nda-triage": [
+"kwp",
+"legal",
+"nda",
+"리뷰",
+"ndas"
+],
+"kwp-marketing-brand-voice": [
+"kwp",
+"marketing",
+"brand",
+"리뷰",
+"체크"
+],
+"kwp-marketing-campaign-planning": [
+"kwp",
+"marketing",
+"campaign",
+"캠페인",
+"마케팅 계획"
+],
+"kwp-marketing-competitive-analysis": [
+"kwp",
+"marketing",
+"competitive",
+"빌드",
+"검색"
+],
+"kwp-marketing-content-creation": [
+"kwp",
+"marketing",
+"content",
+"최적화",
+"릴리즈"
+],
+"kwp-marketing-performance-analytics": [
+"kwp",
+"marketing",
+"performance",
+"성능",
+"리뷰"
+],
+"kwp-operations-change-management": [
+"kwp",
+"operations",
+"change",
+"변경 관리",
+"조직 변경"
+],
+"kwp-operations-compliance-tracking": [
+"kwp",
+"operations",
+"compliance",
+"감사",
+"문서"
+],
+"kwp-operations-process-optimization": [
+"kwp",
+"operations",
+"optimization",
+"분석",
+"워크플로우"
+],
+"kwp-operations-resource-planning": [
+"kwp",
+"operations",
+"resource",
+"최적화",
+"계획"
+],
+"kwp-operations-risk-assessment": [
+"kwp",
+"operations",
+"risk",
+"보안",
+"스킬"
+],
+"kwp-operations-vendor-management": [
+"kwp",
+"operations",
+"vendor",
+"리뷰",
+"출시"
+],
+"kwp-product-management-competitive-analysis": [
+"kwp",
+"product",
+"management",
+"분석",
+"검색"
+],
+"kwp-product-management-feature-spec": [
+"kwp",
+"product",
+"management",
+"문서",
+"prioritizing"
+],
+"kwp-product-management-metrics-tracking": [
+"kwp",
+"product",
+"management",
+"리뷰",
+"빌드"
+],
+"kwp-product-management-roadmap-management": [
+"kwp",
+"product",
+"management",
+"로드맵",
+"우선순위"
+],
+"kwp-product-management-stakeholder-comms": [
+"kwp",
+"product",
+"management",
+"리포트",
+"문서"
+],
+"kwp-product-management-user-research-synthesis": [
+"kwp",
+"product",
+"management",
+"리서치",
+"빌드"
+],
+"kwp-productivity-memory-management": [
+"kwp",
+"productivity",
+"memory",
+"acronyms",
+"collaborator"
+],
+"kwp-productivity-task-management": [
+"kwp",
+"productivity",
+"management",
+"태스크 관리",
+"할일 목록"
+],
+"kwp-sales-account-research": [
+"kwp",
+"sales",
+"account",
+"리서치",
+"검색"
+],
+"kwp-sales-call-prep": [
+"kwp",
+"sales",
+"call",
+"콜 준비",
+"미팅 준비"
+],
+"kwp-sales-competitive-intelligence": [
+"kwp",
+"sales",
+"competitive",
+"빌드",
+"검색"
+],
+"kwp-sales-create-an-asset": [
+"kwp",
+"sales",
+"create",
+"생성",
+"워크플로우"
+],
+"kwp-sales-daily-briefing": [
+"kwp",
+"sales",
+"daily",
+"이메일",
+"캘린더"
+],
+"kwp-sales-draft-outreach": [
+"kwp",
+"sales",
+"draft",
+"검색",
+"이메일"
+],
+"kwp-slack-slack-messaging": [
+"kwp",
+"slack",
+"messaging",
+"composing",
+"mrkdwn"
+],
+"kwp-slack-slack-search": [
+"kwp",
+"slack",
+"search",
+"슬랙 검색",
+"메시지 찾기"
+],
+"kwp-sync": [
+"kwp",
+"sync",
+"동기화",
+"최적화",
+"plugins"
+],
+"lead-lifecycle-manager": [
+"lead",
+"lifecycle",
+"manager",
+"리드 관리",
+"리드 라이프사이클"
+],
+"local-dev-runner": [
+"local",
+"dev",
+"runner",
+"리뷰",
+"diagnosing"
+],
+"local-dev-setup": [
+"local",
+"dev",
+"setup",
+"nats",
+"rsa"
+],
+"md-enhance-publish": [
+"enhance",
+"publish",
+"문서 보강",
+"마크다운 보강",
+"aids"
+],
+"md-to-notion": [
+"notion",
+"노션 업로드",
+"마크다운 노션",
+"ascii",
+"globs"
+],
+"md-to-slack-canvas": [
+"slack",
+"canvas",
+"슬랙 캔버스",
+"캔버스 업로드",
+"blockquote"
+],
+"meeting-digest": [
+"meeting",
+"digest",
+"basic",
+"parent",
+"under"
+],
+"mirofish": [
+"mirofish",
+"eye",
+"god",
+"digital",
+"graphrag"
+],
+"mirofish-financial-sim": [
+"mirofish",
+"financial",
+"sim",
+"fed",
+"macroeconomic"
+],
+"mirofish-graph-explorer": [
+"mirofish",
+"graph",
+"explorer",
+"topology",
+"built"
+],
+"mirofish-opinion-sim": [
+"mirofish",
+"opinion",
+"sim",
+"consumers",
+"crises"
+],
+"mission-control": [
+"mission",
+"control",
+"감사",
+"리뷰",
+"alone"
+],
+"mission-control copy": [
+"mission",
+"control copy",
+"감사",
+"리뷰",
+"delegate"
+],
+"morning": [
+"morning",
+"notification",
+"sequence",
+"shipping",
+"consolidated"
+],
+"morning-ship": [
+"morning",
+"ship",
+"pulling",
+"tmp",
+"webui"
+],
+"nlm-arxiv-slides": [
+"nlm",
+"arxiv",
+"slides",
+"rewrites",
+"takes"
+],
+"nlm-deep-learn": [
+"nlm",
+"deep",
+"learn",
+"accelerated",
+"deeply"
+],
+"nlm-discovery-lab": [
+"nlm",
+"discovery",
+"lab",
+"cohort",
+"debate"
+],
+"nlm-launch-kit": [
+"nlm",
+"launch",
+"kit",
+"beachhead",
+"enablement"
+],
+"nlm-slides": [
+"nlm",
+"slides",
+"rewrites",
+"splits",
+"sections"
+],
+"nlm-strategy-hub": [
+"nlm",
+"strategy",
+"hub",
+"forces",
+"porter"
+],
+"nlm-video": [
+"nlm",
+"video",
+"mp4",
+"narration",
+"explainers"
+],
+"notebooklm": [
+"notebooklm",
+"infographics",
+"rename",
+"flashcards",
+"mind"
+],
+"notebooklm-research": [
+"notebooklm",
+"research",
+"poll",
+"discovered",
+"querying"
+],
+"notebooklm-studio": [
+"notebooklm",
+"studio",
+"podcasts",
+"explainers",
+"infographics"
+],
+"notion-docs-sync": [
+"notion",
+"docs",
+"sync",
+"yaml",
+"screen"
+],
+"notion-meeting-sync": [
+"notion",
+"meeting",
+"sync",
+"summarizing",
+"powerpoint"
+],
+"office-template-enforcer": [
+"office",
+"template",
+"enforcer",
+"population",
+"preserve"
+],
+"onboarding-accelerator": [
+"onboarding",
+"accelerator",
+"joining",
+"getting",
+"member"
+],
+"overlay-layout-patterns": [
+"overlay",
+"layout",
+"patterns",
+"actionmodal",
+"useoverlay"
+],
+"paper-archive": [
+"paper",
+"archive",
+"central",
+"previously",
+"reviewed"
+],
+"paper-auto-classifier": [
+"paper",
+"auto",
+"classifier",
+"queues",
+"feeds"
+],
+"paper-review": [
+"paper",
+"review",
+"ingests",
+"threaded",
+"distributes"
+],
+"paperclip-agents": [
+"paperclip",
+"inject",
+"budgets",
+"heartbeat",
+"operate"
+],
+"paperclip-control": [
+"paperclip",
+"control",
+"plane",
+"approvals",
+"approve"
+],
+"paperclip-setup": [
+"paperclip",
+"setup",
+"onboard",
+"deploy",
+"instances"
+],
+"paperclip-tasks": [
+"paperclip",
+"tasks",
+"checkout",
+"transitions",
+"atomic"
+],
+"performance-profiler": [
+"performance",
+"profiler",
+"성능",
+"리뷰",
+"latency"
+],
+"pipeline-builder": [
+"pipeline",
+"builder",
+"makefile",
+"repeatable",
+"schedules"
+],
+"planning-meeting-sentinel": [
+"planning",
+"meeting",
+"sentinel",
+"회의 감시",
+"자동 다이제스트"
+],
+"planning-weekly-pulse": [
+"planning",
+"weekly",
+"pulse",
+"주간 현황",
+"위클리 펄스"
+],
+"plans": [
+"plans",
+"delegation",
+"ordering",
+"both",
+"decompose"
+],
+"playwright-runner": [
+"playwright",
+"runner",
+"테스트",
+"설계",
+"executor"
+],
+"pm-data-analytics": [
+"data",
+"analytics",
+"SQL 쿼리",
+"코호트 분석",
+"pms"
+],
+"pm-execution": [
+"execution",
+"PRD 작성",
+"OKR",
+"스프린트 계획",
+"dummy"
+],
+"pm-go-to-market": [
+"market",
+"GTM 전략",
+"출시 계획",
+"motions",
+"plg"
+],
+"pm-market-research": [
+"market",
+"research",
+"사용자 페르소나",
+"시장 세분화",
+"journey"
+],
+"pm-marketing-growth": [
+"marketing",
+"growth",
+"마케팅 아이디어",
+"포지셔닝",
+"north"
+],
+"pm-product-discovery": [
+"product",
+"discovery",
+"아이디에이션",
+"브레인스토밍",
+"brainstorm"
+],
+"pm-product-strategy": [
+"product",
+"strategy",
+"제품 전략",
+"비전",
+"ansoff"
+],
+"pm-sentinel": [
+"sentinel",
+"자율 PM",
+"무한 루프",
+"exploit",
+"forced"
+],
+"pm-toolkit": [
+"toolkit",
+"이력서 검토",
+"PM 이력서",
+"grammar",
+"utility"
+],
+"portfolio-report-generator": [
+"portfolio",
+"report",
+"generator",
+"aggregating",
+"repositories"
+],
+"ppt-template-engine": [
+"ppt",
+"template",
+"engine",
+"master",
+"branding"
+],
+"pr-review-captain": [
+"review",
+"captain",
+"리뷰",
+"생성",
+"checklists"
+],
+"pr-to-issue-linker": [
+"issue",
+"linker",
+"maintain",
+"bidirectional",
+"names"
+],
+"prd-research-factory": [
+"prd",
+"research",
+"factory",
+"미팅 기반 PRD",
+"리서치 PRD"
+],
+"presentation-strategist": [
+"presentation",
+"strategist",
+"blueprint",
+"briefs",
+"closing"
+],
+"proactive-meeting-scheduler": [
+"proactive",
+"meeting",
+"scheduler",
+"agendas",
+"discuss"
+],
+"problem-definition": [
+"problem",
+"definition",
+"리뷰",
+"테스트",
+"frame"
+],
+"prompt-architect": [
+"prompt",
+"architect",
+"density",
+"restructure",
+"rise"
+],
+"prompt-transformer": [
+"prompt",
+"transformer",
+"프롬프트",
+"문서",
+"casual"
+],
+"proposal-factory": [
+"proposal",
+"factory",
+"제안서 생성",
+"제안 팩토리",
+"received"
+],
+"public-apis": [
+"public",
+"apis",
+"cryptocurrency",
+"games",
+"government"
+],
+"qa-test-expert": [
+"test",
+"expert",
+"테스트",
+"분석",
+"pytest"
+],
+"ralph-loop": [
+"ralph",
+"loop",
+"리뷰",
+"설계",
+"completes"
+],
+"recall": [
+"recall",
+"bm25",
+"hybrid",
+"prime",
+"prior"
+],
+"refactor-simulator": [
+"refactor",
+"simulator",
+"blast",
+"consequences",
+"generalpurpose"
+],
+"related-papers-scout": [
+"related",
+"papers",
+"scout",
+"elite",
+"institution"
+],
+"release-commander": [
+"release",
+"commander",
+"changelog",
+"i18n",
+"split"
+],
+"release-ship": [
+"release",
+"ship",
+"included",
+"lightweight",
+"trivial"
+],
+"role-ceo": [
+"role",
+"ceo",
+"CEO 관점",
+"경영진 분석",
+"comms"
+],
+"role-cso": [
+"role",
+"cso",
+"CSO 관점",
+"전략 분석",
+"officer"
+],
+"role-cto": [
+"role",
+"cto",
+"CTO 관점",
+"기술 리더 분석",
+"posture"
+],
+"role-data-scientist": [
+"role",
+"data",
+"scientist",
+"데이터 사이언티스트 관점",
+"DS 분석"
+],
+"role-developer": [
+"role",
+"developer",
+"개발자 관점",
+"구현 영향",
+"diagnosis"
+],
+"role-dispatcher": [
+"role",
+"dispatcher",
+"직무별 분석",
+"종합 분석",
+"batches"
+],
+"role-finance": [
+"role",
+"finance",
+"재무 관점",
+"재무 분석",
+"reconciliation"
+],
+"role-hr": [
+"role",
+"HR 관점",
+"인사 분석",
+"compensation",
+"handbook"
+],
+"role-pm": [
+"role",
+"PM 관점",
+"기획자 분석",
+"story",
+"okr"
+],
+"role-sales": [
+"role",
+"sales",
+"영업 관점",
+"영업 분석",
+"effects"
+],
+"role-security-engineer": [
+"role",
+"security",
+"engineer",
+"보안 관점",
+"보안 엔지니어 분석"
+],
+"role-trading-expert": [
+"role",
+"trading",
+"expert",
+"트레이딩 전문가 관점",
+"매매 전문가 분석"
+],
+"role-ux-designer": [
+"role",
+"designer",
+"UX 관점",
+"디자이너 분석",
+"critique"
+],
+"rtk": [
+"rtk",
+"gain",
+"killer",
+"prefixing",
+"transparently"
+],
+"sales-meeting-pipeline": [
+"sales",
+"meeting",
+"pipeline",
+"미팅 후 처리",
+"미팅 팔로업"
+],
+"sales-weekly-dashboard": [
+"sales",
+"weekly",
+"dashboard",
+"영업 대시보드",
+"세일즈 대시보드"
+],
+"scrapling": [
+"scrapling",
+"웹 스크래핑",
+"크롤링",
+"adaptive",
+"bypass"
+],
+"screen-description": [
+"screen",
+"description",
+"fsd",
+"tds",
+"figma"
+],
+"security-expert": [
+"security",
+"expert",
+"보안",
+"감사",
+"assessments"
+],
+"sefo-federation": [
+"sefo",
+"federation",
+"crdt",
+"federated",
+"forks"
+],
+"sefo-governance": [
+"sefo",
+"governance",
+"cryptographic",
+"ed25519",
+"keypair"
+],
+"sefo-orchestrator": [
+"sefo",
+"orchestrator",
+"compositions",
+"constrained",
+"decomposes"
+],
+"semantic-guard": [
+"semantic",
+"guard",
+"destination",
+"dlp",
+"pii"
+],
+"sentence-polisher": [
+"sentence",
+"polisher",
+"awkward",
+"bilingual",
+"honorific"
+],
+"service-health-doctor": [
+"service",
+"health",
+"doctor",
+"리뷰",
+"분석"
+],
+"setup-doctor": [
+"setup",
+"doctor",
+"diagnostic",
+"variables",
+"groups"
+],
+"ship": [
+"ship",
+"출시",
+"리뷰",
+"linting",
+"opens"
+],
+"simplify": [
+"simplify",
+"리뷰",
+"분석",
+"individually",
+"reuse"
+],
+"skill-autoimprove": [
+"autoimprove",
+"autoresearch",
+"binary",
+"improved",
+"karpathy"
+],
+"skill-composer": [
+"composer",
+"agentos",
+"modular",
+"descriptions",
+"reusable"
+],
+"skill-guide-generator": [
+"guide",
+"generator",
+"ensure",
+"following",
+"readme"
+],
+"skill-optimizer": [
+"optimizer",
+"스킬",
+"감사",
+"effectiveness",
+"assurance"
+],
+"skill-seekers": [
+"seekers",
+"스킬",
+"빌드",
+"registry",
+"built"
+],
+"slack-agent": [
+"slack",
+"슬랙 봇",
+"봇 만들기",
+"bolt",
+"bots"
+],
+"smart-meeting-scheduler": [
+"smart",
+"meeting",
+"scheduler",
+"attendees",
+"book"
+],
+"sod-ship": [
+"sod",
+"ship",
+"along",
+"dirty",
+"resolving"
+],
+"sp-brainstorming": [
+"brainstorming",
+"브레인스토밍",
+"아이디어",
+"explores",
+"modifying"
+],
+"sp-core": [
+"core",
+"스킬 호출",
+"스킬 시작",
+"establishes",
+"invocation"
+],
+"sp-debugging": [
+"debugging",
+"디버깅",
+"버그 추적",
+"proposing",
+"encountering"
+],
+"sp-executing-plans": [
+"executing",
+"plans",
+"계획 실행",
+"구현 플랜",
+"written"
+],
+"sp-finish-branch": [
+"finish",
+"branch",
+"브랜치 완료",
+"작업 마무리",
+"finishing"
+],
+"sp-git-worktrees": [
+"git",
+"worktrees",
+"워크트리",
+"기능 분리",
+"isolation"
+],
+"sp-parallel-agents": [
+"parallel",
+"abort",
+"aborted",
+"adjusting",
+"concurrently"
+],
+"sp-receive-review": [
+"receive",
+"review",
+"리뷰 피드백",
+"코드 리뷰 수정",
+"blind"
+],
+"sp-request-review": [
+"request",
+"review",
+"리뷰 요청",
+"코드 리뷰",
+"receive"
+],
+"sp-subagent-dev": [
+"subagent",
+"dev",
+"서브에이전트",
+"독립 태스크",
+"independent"
+],
+"sp-tdd": [
+"tdd",
+"TDD",
+"테스트 주도",
+"테스트 먼저 작성",
+"bugfix"
+],
+"sp-verification": [
+"verification",
+"검증",
+"완료 확인",
+"assertions",
+"claim"
+],
+"sp-writing-plans": [
+"writing",
+"plans",
+"touching",
+"executing",
+"spec"
+],
+"sp-writing-skills": [
+"writing",
+"skills",
+"스킬 작성",
+"스킬 편집",
+"active"
+],
+"sprint-orchestrator": [
+"sprint",
+"orchestrator",
+"assignees",
+"blame",
+"codeowners"
+],
+"sre-devops-expert": [
+"sre",
+"devops",
+"expert",
+"리뷰",
+"배포"
+],
+"standup-digest": [
+"standup",
+"digest",
+"blocked",
+"member",
+"aggregating"
+],
+"stock-csv-downloader": [
+"stock",
+"csv",
+"downloader",
+"주식",
+"체크"
+],
+"swagger-api-doc-generator": [
+"swagger",
+"api",
+"doc",
+"openapi",
+"fsd"
+],
+"system-thinker": [
+"system",
+"thinker",
+"bottlenecks",
+"interconnected",
+"mechanisms"
+],
+"tab-analysis-run": [
+"tab",
+"analysis",
+"run",
+"car",
+"screening"
+],
+"tab-bollinger-refresh": [
+"tab",
+"bollinger",
+"refresh",
+"methods",
+"bands"
+],
+"tab-dashboard-summary": [
+"tab",
+"dashboard",
+"summary",
+"aggregated",
+"fetching"
+],
+"tab-dualma-refresh": [
+"tab",
+"dualma",
+"refresh",
+"refreshing",
+"backtest"
+],
+"tab-event-detect": [
+"tab",
+"event",
+"detect",
+"detecting",
+"feeds"
+],
+"tab-fundamental-sync": [
+"tab",
+"fundamental",
+"sync",
+"fundamentals",
+"quarterly"
+],
+"tab-genai-features": [
+"tab",
+"genai",
+"features",
+"powered",
+"tracked"
+],
+"tab-glossary": [
+"tab",
+"glossary",
+"terms",
+"import",
+"export"
+],
+"tab-hot-stock-discovery": [
+"tab",
+"hot",
+"stock",
+"hottest",
+"untracked"
+],
+"tab-kiwoom": [
+"tab",
+"kiwoom",
+"brokerage",
+"interacting",
+"placement"
+],
+"tab-llm-agents": [
+"tab",
+"llm",
+"genai",
+"macro",
+"refresh"
+],
+"tab-market-breadth": [
+"tab",
+"market",
+"breadth",
+"composite",
+"alerts"
+],
+"tab-market-environment": [
+"tab",
+"market",
+"environment",
+"regime",
+"details"
+],
+"tab-news-fetch": [
+"tab",
+"news",
+"fetch",
+"aggregated",
+"fetching"
+],
+"tab-patterns": [
+"tab",
+"patterns",
+"car",
+"groups",
+"statistics"
+],
+"tab-report-generate": [
+"tab",
+"report",
+"generate",
+"past",
+"generating"
+],
+"tab-screening": [
+"tab",
+"screening",
+"admin",
+"rsi",
+"combining"
+],
+"tab-stock-sync": [
+"tab",
+"stock",
+"sync",
+"prices",
+"tickers"
+],
+"tab-strategy-comparison": [
+"tab",
+"strategy",
+"comparison",
+"dualma",
+"bands"
+],
+"tab-technical-analysis": [
+"tab",
+"technical",
+"analysis",
+"ticker",
+"computing"
+],
+"tab-turtle-refresh": [
+"tab",
+"turtle",
+"refresh",
+"bands",
+"refreshing"
+],
+"tech-support-brain": [
+"tech",
+"support",
+"brain",
+"기술 지원",
+"테크 지원 브레인"
+],
+"technical-writer": [
+"technical",
+"writer",
+"리뷰",
+"생성",
+"adr"
+],
+"terraform-reviewer": [
+"terraform",
+"reviewer",
+"architected",
+"checkov",
+"hcl"
+],
+"test-suite": [
+"test",
+"suite",
+"테스트",
+"감사",
+"executes"
+],
+"today": [
+"today",
+"adx",
+"crossovers",
+"fcf",
+"macd"
+],
+"trading-backtest-expert": [
+"trading",
+"backtest",
+"expert",
+"beating",
+"death"
+],
+"trading-breadth-chart-analyst": [
+"trading",
+"breadth",
+"chart",
+"tactical",
+"outlook"
+],
+"trading-data-quality-checker": [
+"trading",
+"data",
+"quality",
+"advisory",
+"etf"
+],
+"trading-edge-candidate-agent": [
+"trading",
+"edge",
+"candidate",
+"finder",
+"observations"
+],
+"trading-finviz-screener": [
+"trading",
+"finviz",
+"screener",
+"caps",
+"roe"
+],
+"trading-market-breadth-analyzer": [
+"trading",
+"market",
+"breadth",
+"advance",
+"decline"
+],
+"trading-market-environment-analysis": [
+"trading",
+"market",
+"environment",
+"시장",
+"분석"
+],
+"trading-market-news-analyst": [
+"trading",
+"market",
+"news",
+"cap",
+"fomc"
+],
+"trading-market-top-detector": [
+"trading",
+"market",
+"top",
+"breakdown",
+"deterioration"
+],
+"trading-options-strategy-advisor": [
+"trading",
+"options",
+"strategy",
+"advisor",
+"black"
+],
+"trading-options-theta": [
+"trading",
+"options",
+"theta",
+"buying",
+"condors"
+],
+"trading-position-sizer": [
+"trading",
+"position",
+"sizer",
+"atr",
+"concentration"
+],
+"trading-scenario-analyzer": [
+"trading",
+"scenario",
+"analyzer",
+"headlines",
+"impacts"
+],
+"trading-sector-analyst": [
+"trading",
+"sector",
+"analyst",
+"cyclical",
+"overbought"
+],
+"trading-stanley-druckenmiller-investment": [
+"trading",
+"stanley",
+"druckenmiller",
+"asymmetric",
+"conviction"
+],
+"trading-technical-analyst": [
+"trading",
+"technical",
+"analyst",
+"cryptocurrencies",
+"indices"
+],
+"trading-theme-detector": [
+"trading",
+"theme",
+"detector",
+"bearish",
+"bullish"
+],
+"trading-trade-hypothesis-ideator": [
+"trading",
+"trade",
+"hypothesis",
+"falsifiable",
+"ideator"
+],
+"trading-uptrend-analyzer": [
+"trading",
+"uptrend",
+"analyzer",
+"ratios",
+"healthy"
+],
+"trading-us-market-bubble-detector": [
+"trading",
+"market",
+"bubble",
+"evaluates",
+"impressions"
+],
+"trading-us-stock-analysis": [
+"trading",
+"stock",
+"analysis",
+"aapl",
+"american"
+],
+"transcribee": [
+"transcribee",
+"빌드",
+"비디오",
+"organizing",
+"reels"
+],
+"twitter-timeline-to-slack": [
+"twitter",
+"timeline",
+"slack",
+"타임라인",
+"트위터 타임라인"
+],
+"ui-suite": [
+"suite",
+"감사",
+"리뷰",
+"uis",
+"elements"
+],
+"unified-intel-intake": [
+"unified",
+"intel",
+"intake",
+"entry",
+"tweets"
+],
+"ux-expert": [
+"expert",
+"감사",
+"리뷰",
+"nielsen",
+"conduct"
+],
+"video-compress": [
+"video",
+"compress",
+"비디오",
+"압축",
+"compression"
+],
+"visual-explainer": [
+"visual",
+"explainer",
+"리뷰",
+"생성",
+"recap"
+],
+"weekly-status-report": [
+"weekly",
+"status",
+"report",
+"aggregating",
+"completed"
+],
+"weekly-stock-update": [
+"weekly",
+"stock",
+"update",
+"주식",
+"테스트"
+],
+"workflow-eval-opt": [
+"eval",
+"opt",
+"checkers",
+"deterministic",
+"falls"
+],
+"workflow-miner": [
+"miner",
+"frequent",
+"jsonl",
+"mining",
+"spm"
+],
+"workflow-parallel": [
+"parallel",
+"defer",
+"fan",
+"vote",
+"union"
+],
+"workflow-sequential": [
+"sequential",
+"ordered",
+"skipping",
+"simultaneously",
+"conditional"
+],
+"x-to-slack": [
+"slack",
+"분석",
+"검색",
+"fxtwitter",
+"fetches"
+]
+}

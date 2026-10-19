@@ -1,0 +1,8 @@
+---
+name: "work-with-justfiles"
+description: "Use when the task involves configure pipeline: covers work, justfiles, justfiles., grouping, justfile"
+---
+
+# work-with-justfiles
+
+Guidance for structuring and organizing justfiles. Use when creating, editing, or discussing justfile organization, command grouping, or repo CLI conventions.

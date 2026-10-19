@@ -1,0 +1,40 @@
+{"qid": "MC-0194", "ranked": ["tab-genai-features", "daily-stock-check", "tab-llm-agents", "tab-event-detect"], "read_bytes": 6939}
+{"qid": "DS-0114", "ranked": ["knowledge-to-paper"], "read_bytes": 7232}
+{"qid": "BC-0108", "ranked": ["agency-visual-storyteller", "skill-composer", "workflow-miner", "mission-control", "skill-optimizer"], "read_bytes": 7053}
+{"qid": "OR-0143", "ranked": ["hf-model-trainer"], "read_bytes": 7101}
+{"qid": "SS-0314", "ranked": ["hf-datasets"], "read_bytes": 7204}
+{"qid": "BC-0144", "ranked": ["md-to-notion", "md-to-slack-canvas", "md-enhance-publish", "deep-research-pipeline", "auto-research-distribute"], "read_bytes": 7056}
+{"qid": "OR-0086", "ranked": ["weekly-stock-update"], "read_bytes": 7086}
+{"qid": "DS-0009", "ranked": ["bespin-news-digest"], "read_bytes": 7245}
+{"qid": "SS-0392", "ranked": ["docs-freshness-guardian"], "read_bytes": 7530}
+{"qid": "BC-0125", "ranked": ["workflow-miner", "skill-composer", "mission-control", "autoskill-evolve", "md-to-slack-canvas"], "read_bytes": 7055}
+{"qid": "SS-0230", "ranked": ["kwp-sales-create-an-asset"], "read_bytes": 7155}
+{"qid": "DS-0268", "ranked": ["trading-options-theta"], "read_bytes": 7284}
+{"qid": "BC-0091", "ranked": ["alphaxiv-paper-lookup", "hf-papers", "paper-archive", "related-papers-scout", "auto-research-distribute"], "read_bytes": 7093}
+{"qid": "BC-0186", "ranked": ["release-ship", "release-commander", "eod-ship", "mission-control", "skill-composer"], "read_bytes": 7131}
+{"qid": "SS-0061", "ranked": ["e2e-overhaul"], "read_bytes": 7258}
+{"qid": "SS-0026", "ranked": ["gws-workspace"], "read_bytes": 7215}
+{"qid": "BC-0141", "ranked": ["tab-market-breadth", "trading-uptrend-analyzer", "trading-market-breadth-analyzer", "trading-breadth-chart-analyst", "tab-market-environment"], "read_bytes": 7114}
+{"qid": "MC-0016", "ranked": ["gws-gmail", "gws-drive", "gws-calendar", "gws-workspace"], "read_bytes": 7141}
+{"qid": "SS-0345", "ranked": ["kwp-sales-call-prep", "kwp-common-room-call-prep"], "read_bytes": 7113}
+{"qid": "BC-0195", "ranked": ["hf-cli", "hf-hub", "hf-models", "hf-datasets", "hf-discussions"], "read_bytes": 7054}
+{"qid": "SS-0043", "ranked": ["email-auto-reply", "gws-email-reply", "gws-gmail"], "read_bytes": 7202}
+{"qid": "BC-0127", "ranked": ["kwp-design-design-critique", "role-ux-designer", "skill-composer", "skill-optimizer", "kwp-design-design-system-management"], "read_bytes": 7075}
+{"qid": "SS-0367", "ranked": ["tab-dashboard-summary"], "read_bytes": 7195}
+{"qid": "DS-0060", "ranked": ["notebooklm"], "read_bytes": 7280}
+{"qid": "BC-0130", "ranked": ["kwp-product-management-user-research-synthesis", "pm-product-discovery", "role-ux-designer", "workflow-miner", "skill-composer"], "read_bytes": 7104}
+{"qid": "DS-0281", "ranked": ["fsd-development"], "read_bytes": 7365}
+{"qid": "SS-0384", "ranked": ["compliance-gate", "security-expert", "semantic-guard", "kwp-operations-compliance-tracking", "compliance-governance"], "read_bytes": 7132}
+{"qid": "SS-0399", "ranked": ["anthropic-claude-api"], "read_bytes": 7281}
+{"qid": "OR-0144", "ranked": ["hf-jobs"], "read_bytes": 7104}
+{"qid": "BC-0112", "ranked": ["automation-strategist", "mission-control", "skill-composer", "workflow-miner", "autoskill-evolve"], "read_bytes": 7120}
+{"qid": "DS-0279", "ranked": ["role-hr"], "read_bytes": 7272}
+{"qid": "BC-0104", "ranked": ["kwp-brand-voice-guideline-generation", "skill-composer", "full-stack-planner", "mission-control", "autoskill-evolve"], "read_bytes": 7117}
+{"qid": "DS-0077", "ranked": ["kwp-engineering-documentation"], "read_bytes": 7354}
+{"qid": "SS-0360", "ranked": ["kwp-apollo-prospect", "kwp-common-room-prospect", "kwp-sales-draft-outreach", "kwp-sales-account-research", "kwp-sales-call-prep"], "read_bytes": 7070}
+{"qid": "MC-0121", "ranked": ["pm-product-discovery", "kwp-marketing-campaign-planning", "kwp-product-management-user-research-synthesis", "pm-product-strategy"], "read_bytes": 7154}
+{"qid": "SS-0325", "ranked": ["agency-agentic-identity-trust-architect"], "read_bytes": 7265}
+{"qid": "DS-0047", "ranked": ["kwp-data-data-validation"], "read_bytes": 7287}
+{"qid": "DS-0098", "ranked": ["cognee"], "read_bytes": 7278}
+{"qid": "SS-0375", "ranked": ["related-papers-scout"], "read_bytes": 7134}
+{"qid": "MC-0163", "ranked": ["hf-evaluation", "hf-model-trainer", "daily-stock-check", "ai-quality-evaluator"], "read_bytes": 7208}

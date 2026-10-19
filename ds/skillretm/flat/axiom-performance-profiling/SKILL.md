@@ -1,0 +1,8 @@
+---
+name: "axiom-performance-profiling"
+description: "Use when the task involves analyze code: covers axiom, performance, profiling, time, misinterpreting"
+---
+
+# axiom-performance-profiling
+
+Use when app feels slow, memory grows over time, battery drains fast, or you want to profile proactively - decision trees to choose the right Instruments tool, deep workflows for Time Profiler/Allocations/Core Data, and pressure scenarios for misinterpreting results

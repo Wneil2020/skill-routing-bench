@@ -1,0 +1,300 @@
+{"qid": "BC-0001", "ranked": ["kwp-bio-research-single-cell-rna-qc", "kwp-bio-research-scvi-tools", "skill-composer", "full-stack-planner", "mission-control"], "read_bytes": 7157}
+{"qid": "BC-0016", "ranked": ["cognee", "knowledge-daily-aggregator", "context-engineer", "transcribee", "paper-archive"], "read_bytes": 7007}
+{"qid": "BC-0004", "ranked": ["email-auto-reply", "gws-email-reply", "gws-gmail", "decision-router", "context-engineer"], "read_bytes": 7040}
+{"qid": "BC-0019", "ranked": ["kwp-cowork-create-cowork-plugin", "kwp-cowork-create-plugin", "kwp-cowork-plugin-customizer", "kwp-cowork-cowork-plugin-customizer", "kwp-sync"], "read_bytes": 7132}
+{"qid": "BC-0024", "ranked": ["prd-research-factory", "role-cso", "role-pm", "skill-composer", "mission-control"], "read_bytes": 7055}
+{"qid": "BC-0011", "ranked": ["ecc-eval-harness", "skill-optimizer", "autoskill-judge", "skill-autoimprove", "workflow-miner"], "read_bytes": 7098}
+{"qid": "BC-0026", "ranked": ["agency-ux-architect", "agency-roster", "role-ux-designer", "paperclip-agents", "mission-control"], "read_bytes": 7152}
+{"qid": "BC-0025", "ranked": ["role-ux-designer", "skill-composer", "mission-control", "full-stack-planner", "deep-research-pipeline"], "read_bytes": 7092}
+{"qid": "BC-0053", "ranked": ["nlm-slides", "nlm-arxiv-slides", "nlm-video", "notebooklm-studio", "nlm-strategy-hub"], "read_bytes": 7246}
+{"qid": "BC-0036", "ranked": ["infra-runbook-generator", "incident-lifecycle-manager", "infra-drift-detector", "mission-control", "full-stack-planner"], "read_bytes": 7147}
+{"qid": "BC-0038", "ranked": ["kwp-sales-call-prep", "kwp-common-room-call-prep", "gws-workflows", "sales-meeting-pipeline", "role-sales"], "read_bytes": 6987}
+{"qid": "BC-0065", "ranked": ["mission-control", "full-stack-planner", "skill-composer", "agency-roster", "paperclip-agents"], "read_bytes": 7142}
+{"qid": "BC-0073", "ranked": ["workflow-sequential", "skill-composer", "mission-control", "workflow-miner"], "read_bytes": 7172}
+{"qid": "BC-0056", "ranked": ["skill-optimizer", "autoskill-judge", "role-ux-designer", "autoskill-evolve", "skill-composer"], "read_bytes": 7085}
+{"qid": "BC-0067", "ranked": ["agency-senior-project-manager", "agency-project-shepherd", "mission-control", "agency-agents-orchestrator", "agency-workflow-optimizer"], "read_bytes": 7279}
+{"qid": "BC-0078", "ranked": ["hf-endpoints", "hf-models", "hf-hub", "hf-spaces", "hf-buckets"], "read_bytes": 6952}
+{"qid": "BC-0081", "ranked": ["agency-finance-tracker", "role-finance", "kwp-finance-variance-analysis", "agency-roster", "skill-composer"], "read_bytes": 7130}
+{"qid": "BC-0091", "ranked": ["alphaxiv-paper-lookup", "related-papers-scout", "hf-papers", "paper-archive", "paper-auto-classifier"], "read_bytes": 7093}
+{"qid": "BC-0085", "ranked": ["gws-calendar", "gws-recipe-events-from-sheet", "smart-meeting-scheduler", "gws-workflows", "gws-gmail"], "read_bytes": 6974}
+{"qid": "BC-0099", "ranked": ["eod-ship", "sod-ship", "morning-ship", "release-ship", "mission-control"], "read_bytes": 7216}
+{"qid": "BC-0092", "ranked": ["tab-analysis-run", "tab-patterns", "tab-genai-features", "mission-control", "decision-router"], "read_bytes": 7020}
+{"qid": "BC-0080", "ranked": ["skill-composer", "workflow-miner", "mission-control", "skill-optimizer", "sp-core"], "read_bytes": 7077}
+{"qid": "BC-0103", "ranked": ["video-compress", "transcribee", "skill-composer", "workflow-miner", "mission-control"], "read_bytes": 7089}
+{"qid": "BC-0104", "ranked": ["kwp-brand-voice-guideline-generation", "workflow-miner", "skill-composer", "mission-control"], "read_bytes": 7117}
+{"qid": "BC-0112", "ranked": ["automation-strategist", "mission-control", "skill-composer", "workflow-miner", "autoskill-evolve"], "read_bytes": 7120}
+{"qid": "BC-0108", "ranked": ["agency-visual-storyteller", "role-ux-designer", "agency-roster", "mission-control", "skill-composer"], "read_bytes": 7053}
+{"qid": "BC-0121", "ranked": ["kwp-design-system", "kwp-design-design-system-management", "role-ux-designer", "anthropic-theme-factory", "skill-composer"], "read_bytes": 6977}
+{"qid": "BC-0123", "ranked": ["skill-composer", "full-stack-planner", "mission-control", "agency-roster", "workflow-miner"], "read_bytes": 7043}
+{"qid": "BC-0127", "ranked": ["kwp-design-design-critique", "role-ux-designer", "kwp-design-design-system-management"], "read_bytes": 7075}
+{"qid": "BC-0125", "ranked": ["bespin-news-digest", "twitter-timeline-to-slack", "decision-router", "related-papers-scout", "workflow-miner"], "read_bytes": 7055}
+{"qid": "BC-0130", "ranked": ["kwp-product-management-user-research-synthesis", "pm-product-discovery", "role-ux-designer", "mission-control", "skill-composer"], "read_bytes": 7104}
+{"qid": "BC-0131", "ranked": ["notebooklm-studio", "notebooklm", "notebooklm-research", "nlm-deep-learn", "nlm-slides"], "read_bytes": 7182}
+{"qid": "BC-0134", "ranked": ["incident-to-improvement", "incident-lifecycle-manager", "mission-control", "skill-composer", "workflow-miner"], "read_bytes": 7150}
+{"qid": "BC-0137", "ranked": ["kwp-sales-create-an-asset", "role-sales"], "read_bytes": 7119}
+{"qid": "BC-0114", "ranked": ["md-to-notion", "md-enhance-publish", "planning-weekly-pulse", "auto-research-distribute", "decision-router"], "read_bytes": 7101}
+{"qid": "BC-0142", "ranked": ["agency-legal-compliance-checker", "role-security-engineer", "role-finance", "mission-control", "agency-roster"], "read_bytes": 7120}
+{"qid": "BC-0141", "ranked": ["tab-market-breadth", "tab-market-environment", "tab-dashboard-summary", "trading-market-breadth-analyzer", "trading-uptrend-analyzer"], "read_bytes": 7114}
+{"qid": "BC-0144", "ranked": ["md-to-notion", "md-to-slack-canvas", "md-enhance-publish", "deep-research-pipeline", "auto-research-distribute"], "read_bytes": 7056}
+{"qid": "BC-0155", "ranked": ["gws-recipe-doc-from-template", "gws-docs", "skill-composer", "workflow-miner", "gws-recipe-save-email-to-doc"], "read_bytes": 7170}
+{"qid": "BC-0159", "ranked": ["agency-developer-advocate", "agency-roster", "mission-control", "agency-senior-developer", "skill-composer"], "read_bytes": 7171}
+{"qid": "BC-0150", "ranked": ["agency-image-prompt-engineer", "prompt-transformer", "agency-roster", "skill-composer", "workflow-miner"], "read_bytes": 7096}
+{"qid": "BC-0164", "ranked": ["sp-core", "skill-composer", "workflow-miner", "mission-control", "full-stack-planner"], "read_bytes": 7073}
+{"qid": "BC-0157", "ranked": ["alphaear-deepear-lite", "mission-control", "skill-composer", "agency-roster", "trading-us-stock-analysis"], "read_bytes": 7140}
+{"qid": "BC-0186", "ranked": ["release-ship", "release-commander", "eod-ship", "mission-control", "skill-composer"], "read_bytes": 7131}
+{"qid": "BC-0176", "ranked": ["notion-docs-sync", "md-to-notion", "md-enhance-publish", "notion-meeting-sync", "planning-weekly-pulse"], "read_bytes": 7056}
+{"qid": "BC-0191", "ranked": ["agency-studio-producer", "agency-studio-operations", "mission-control", "agency-workflow-optimizer", "agency-roster"], "read_bytes": 7168}
+{"qid": "BC-0195", "ranked": ["hf-cli", "hf-models", "hf-datasets", "hf-hub", "hf-discussions"], "read_bytes": 7054}
+{"qid": "BC-0196", "ranked": ["workflow-miner", "skill-composer", "mission-control", "full-stack-planner", "sp-core"], "read_bytes": 7103}
+{"qid": "DS-0009", "ranked": ["bespin-news-digest"], "read_bytes": 7245}
+{"qid": "DS-0014", "ranked": ["kwp-bio-research-single-cell-rna-qc"], "read_bytes": 7358}
+{"qid": "DS-0017", "ranked": ["alphaear-sentiment"], "read_bytes": 7270}
+{"qid": "DS-0020", "ranked": ["kwp-data-data-validation"], "read_bytes": 7280}
+{"qid": "DS-0024", "ranked": ["kwp-operations-resource-planning"], "read_bytes": 7303}
+{"qid": "DS-0032", "ranked": ["bespin-news-digest"], "read_bytes": 7280}
+{"qid": "DS-0033", "ranked": ["kwp-engineering-code-review"], "read_bytes": 7308}
+{"qid": "DS-0036", "ranked": ["notion-meeting-sync"], "read_bytes": 7321}
+{"qid": "DS-0038", "ranked": ["kwp-sales-call-prep"], "read_bytes": 7238}
+{"qid": "DS-0042", "ranked": ["kwp-data-sql-queries"], "read_bytes": 7282}
+{"qid": "DS-0043", "ranked": ["kwp-slack-slack-messaging"], "read_bytes": 7091}
+{"qid": "DS-0046", "ranked": ["role-cso"], "read_bytes": 7279}
+{"qid": "DS-0047", "ranked": ["kwp-data-data-validation"], "read_bytes": 7287}
+{"qid": "DS-0052", "ranked": ["role-sales"], "read_bytes": 7297}
+{"qid": "DS-0056", "ranked": ["kwp-engineering-code-review"], "read_bytes": 7224}
+{"qid": "DS-0060", "ranked": ["notebooklm"], "read_bytes": 7280}
+{"qid": "DS-0064", "ranked": ["kwp-marketing-performance-analytics"], "read_bytes": 7301}
+{"qid": "DS-0067", "ranked": [], "read_bytes": 7330}
+{"qid": "DS-0073", "ranked": ["kwp-design-ux-writing"], "read_bytes": 7278}
+{"qid": "DS-0075", "ranked": ["alphaear-stock"], "read_bytes": 7284}
+{"qid": "DS-0077", "ranked": ["kwp-engineering-documentation"], "read_bytes": 7354}
+{"qid": "DS-0088", "ranked": ["local-dev-runner"], "read_bytes": 7173}
+{"qid": "DS-0095", "ranked": ["kwp-legal-contract-review"], "read_bytes": 7287}
+{"qid": "DS-0096", "ranked": ["sp-finish-branch"], "read_bytes": 7246}
+{"qid": "DS-0097", "ranked": ["gws-recipe-doc-from-template"], "read_bytes": 7327}
+{"qid": "DS-0098", "ranked": ["cognee"], "read_bytes": 7278}
+{"qid": "DS-0105", "ranked": ["playwright-runner"], "read_bytes": 7269}
+{"qid": "DS-0111", "ranked": ["hf-hub"], "read_bytes": 7145}
+{"qid": "DS-0113", "ranked": ["agency-roster"], "read_bytes": 7318}
+{"qid": "DS-0114", "ranked": ["knowledge-to-paper"], "read_bytes": 7232}
+{"qid": "DS-0121", "ranked": ["cursor-sync", "anthropic-skill-creator", "kwp-engineering-code-review", "ecc-configure", "setup-doctor"], "read_bytes": 7257}
+{"qid": "DS-0123", "ranked": ["public-apis"], "read_bytes": 7228}
+{"qid": "DS-0124", "ranked": ["design-architect"], "read_bytes": 7306}
+{"qid": "DS-0125", "ranked": ["automation-strategist"], "read_bytes": 7203}
+{"qid": "DS-0134", "ranked": ["hf-trackio"], "read_bytes": 7128}
+{"qid": "DS-0139", "ranked": ["workflow-sequential"], "read_bytes": 7365}
+{"qid": "DS-0141", "ranked": ["planning-meeting-sentinel"], "read_bytes": 7313}
+{"qid": "DS-0142", "ranked": ["paper-archive"], "read_bytes": 7226}
+{"qid": "DS-0148", "ranked": ["hf-buckets"], "read_bytes": 7275}
+{"qid": "DS-0149", "ranked": ["knowledge-to-paper"], "read_bytes": 7155}
+{"qid": "DS-0150", "ranked": ["pm-go-to-market"], "read_bytes": 7281}
+{"qid": "DS-0155", "ranked": ["kwp-legal-nda-triage"], "read_bytes": 7221}
+{"qid": "DS-0163", "ranked": ["hf-trackio"], "read_bytes": 7128}
+{"qid": "DS-0164", "ranked": ["alphaxiv-paper-lookup"], "read_bytes": 7260}
+{"qid": "DS-0167", "ranked": ["kwp-sales-call-prep"], "read_bytes": 7238}
+{"qid": "DS-0171", "ranked": ["kwp-operations-vendor-management"], "read_bytes": 7308}
+{"qid": "DS-0172", "ranked": ["sales-weekly-dashboard"], "read_bytes": 7301}
+{"qid": "DS-0183", "ranked": ["ecc-autonomous-loops"], "read_bytes": 7321}
+{"qid": "DS-0191", "ranked": ["anthropic-brand-guidelines"], "read_bytes": 7232}
+{"qid": "DS-0198", "ranked": ["kwp-engineering-code-review"], "read_bytes": 7224}
+{"qid": "DS-0201", "ranked": ["tab-report-generate"], "read_bytes": 7266}
+{"qid": "DS-0215", "ranked": ["agency-analytics-reporter"], "read_bytes": 7312}
+{"qid": "DS-0219", "ranked": ["hf-datasets"], "read_bytes": 7238}
+{"qid": "DS-0228", "ranked": ["anthropic-skill-creator"], "read_bytes": 7257}
+{"qid": "DS-0230", "ranked": ["md-enhance-publish"], "read_bytes": 7324}
+{"qid": "DS-0231", "ranked": ["agency-content-creator"], "read_bytes": 7318}
+{"qid": "DS-0244", "ranked": ["kwp-human-resources-recruiting-pipeline"], "read_bytes": 7298}
+{"qid": "DS-0250", "ranked": ["kwp-cowork-plugin-customizer"], "read_bytes": 7266}
+{"qid": "DS-0251", "ranked": ["kwp-design-design-system-management"], "read_bytes": 7258}
+{"qid": "DS-0253", "ranked": ["alphaear-signal-tracker"], "read_bytes": 7315}
+{"qid": "DS-0261", "ranked": ["kwp-product-management-roadmap-management"], "read_bytes": 7337}
+{"qid": "DS-0268", "ranked": ["trading-options-theta"], "read_bytes": 7284}
+{"qid": "DS-0269", "ranked": ["agency-lsp-index-engineer"], "read_bytes": 7329}
+{"qid": "DS-0274", "ranked": ["proposal-factory"], "read_bytes": 7299}
+{"qid": "DS-0277", "ranked": ["tab-turtle-refresh"], "read_bytes": 7293}
+{"qid": "DS-0279", "ranked": ["role-hr"], "read_bytes": 7272}
+{"qid": "DS-0281", "ranked": ["fsd-development"], "read_bytes": 7365}
+{"qid": "DS-0283", "ranked": ["alphaear-stock"], "read_bytes": 7284}
+{"qid": "DS-0291", "ranked": ["agency-mobile-app-builder"], "read_bytes": 7342}
+{"qid": "DS-0294", "ranked": ["lead-lifecycle-manager"], "read_bytes": 7217}
+{"qid": "DS-0295", "ranked": ["incident-to-improvement"], "read_bytes": 7325}
+{"qid": "DS-0297", "ranked": ["agency-finance-tracker"], "read_bytes": 7312}
+{"qid": "MC-0006", "ranked": ["tab-market-breadth", "tab-turtle-refresh", "tab-market-environment", "tab-stock-sync"], "read_bytes": 7007}
+{"qid": "MC-0010", "ranked": ["github-sprint-digest", "workflow-sequential", "weekly-status-report"], "read_bytes": 7312}
+{"qid": "MC-0011", "ranked": ["performance-profiler", "backend-expert", "sre-devops-expert", "db-expert"], "read_bytes": 7127}
+{"qid": "MC-0016", "ranked": ["gws-gmail", "gws-drive", "gws-calendar", "gws-workspace"], "read_bytes": 7141}
+{"qid": "MC-0018", "ranked": ["trading-breadth-chart-analyst", "trading-market-breadth-analyzer", "workflow-sequential"], "read_bytes": 7352}
+{"qid": "MC-0019", "ranked": ["morning", "today", "ai-chief-of-staff", "decision-router", "morning-ship"], "read_bytes": 7256}
+{"qid": "MC-0024", "ranked": ["morning", "gws-workspace", "gws-docs", "gws-drive", "ai-chief-of-staff"], "read_bytes": 7150}
+{"qid": "MC-0026", "ranked": ["workflow-sequential", "issue-to-code", "domain-commit"], "read_bytes": 7251}
+{"qid": "MC-0030", "ranked": ["morning", "morning-ship", "ai-chief-of-staff", "workflow-sequential", "daily-am-orchestrator"], "read_bytes": 7259}
+{"qid": "MC-0031", "ranked": ["morning", "ai-chief-of-staff", "mission-control", "workflow-sequential", "daily-am-orchestrator"], "read_bytes": 7097}
+{"qid": "MC-0032", "ranked": ["hf-spaces", "hf-repos", "hf-jobs", "hf-endpoints"], "read_bytes": 7217}
+{"qid": "MC-0044", "ranked": ["daily-am-orchestrator", "morning", "morning-ship", "gmail-daily-triage", "sod-ship"], "read_bytes": 7166}
+{"qid": "MC-0047", "ranked": ["morning"], "read_bytes": 7019}
+{"qid": "MC-0048", "ranked": ["alphaear-sentiment", "alphaear-signal-tracker", "workflow-sequential"], "read_bytes": 7204}
+{"qid": "MC-0049", "ranked": ["morning", "ai-chief-of-staff", "related-papers-scout", "nlm-arxiv-slides", "paper-archive"], "read_bytes": 7164}
+{"qid": "MC-0050", "ranked": ["ppt-template-engine", "docx-template-engine", "anthropic-pptx", "office-template-enforcer"], "read_bytes": 7325}
+{"qid": "MC-0052", "ranked": ["gws-email-reply", "kwp-slack-slack-messaging", "gws-calendar", "recall"], "read_bytes": 6931}
+{"qid": "MC-0054", "ranked": ["codebase-archaeologist", "simplify", "domain-commit", "diagnose"], "read_bytes": 7324}
+{"qid": "MC-0057", "ranked": ["workflow-sequential", "tab-event-detect", "tab-patterns"], "read_bytes": 7136}
+{"qid": "MC-0067", "ranked": ["morning", "ai-chief-of-staff", "daily-am-orchestrator", "meeting-digest", "notion-meeting-sync"], "read_bytes": 7016}
+{"qid": "MC-0078", "ranked": ["morning", "ai-chief-of-staff", "daily-am-orchestrator", "mission-control"], "read_bytes": 7918}
+{"qid": "MC-0090", "ranked": ["morning", "ai-chief-of-staff", "alphaear-deepear-lite", "daily-stock-check"], "read_bytes": 7214}
+{"qid": "MC-0092", "ranked": ["deep-research-pipeline"], "read_bytes": 7316}
+{"qid": "MC-0095", "ranked": ["morning"], "read_bytes": 7022}
+{"qid": "MC-0101", "ranked": ["morning", "tab-technical-analysis", "tab-turtle-refresh", "tab-bollinger-refresh"], "read_bytes": 7077}
+{"qid": "MC-0109", "ranked": ["morning", "office-template-enforcer", "ppt-template-engine", "anthropic-docx"], "read_bytes": 7175}
+{"qid": "MC-0112", "ranked": ["pr-review-captain", "cursor-automations"], "read_bytes": 7298}
+{"qid": "MC-0120", "ranked": ["release-commander", "ship", "i18n-sync", "critical-review"], "read_bytes": 7428}
+{"qid": "MC-0121", "ranked": ["pm-product-discovery", "kwp-marketing-campaign-planning", "kwp-product-management-user-research-synthesis", "pm-product-strategy"], "read_bytes": 7154}
+{"qid": "MC-0123", "ranked": ["trading-backtest-expert", "alphaear-deepear-lite", "daily-stock-check", "weekly-stock-update"], "read_bytes": 7169}
+{"qid": "MC-0129", "ranked": ["alphaxiv-paper-lookup", "paper-review", "related-papers-scout"], "read_bytes": 7269}
+{"qid": "MC-0140", "ranked": ["morning", "sprint-orchestrator", "release-ship", "jira-linear-adapter"], "read_bytes": 7265}
+{"qid": "MC-0146", "ranked": ["full-stack-planner", "mission-control", "plans", "sp-writing-plans"], "read_bytes": 7020}
+{"qid": "MC-0148", "ranked": ["setup-doctor", "today", "workflow-sequential"], "read_bytes": 7347}
+{"qid": "MC-0153", "ranked": ["sefo-governance", "sefo-federation", "workflow-sequential"], "read_bytes": 7249}
+{"qid": "MC-0156", "ranked": ["tab-llm-agents", "tab-stock-sync", "tab-genai-features"], "read_bytes": 7002}
+{"qid": "MC-0159", "ranked": ["skill-composer", "workflow-sequential", "trading-market-top-detector", "trading-uptrend-analyzer"], "read_bytes": 7314}
+{"qid": "MC-0163", "ranked": ["hf-evaluation", "hf-model-trainer", "daily-stock-check", "ai-quality-evaluator", "workflow-sequential"], "read_bytes": 7208}
+{"qid": "MC-0166", "ranked": ["ecc-autonomous-loops", "morning", "ralph-loop"], "read_bytes": 7217}
+{"qid": "MC-0174", "ranked": ["performance-profiler", "db-expert", "workflow-sequential"], "read_bytes": 7298}
+{"qid": "MC-0175", "ranked": ["demo-forge", "transcribee", "pr-review-captain", "visual-explainer", "workflow-sequential"], "read_bytes": 7164}
+{"qid": "MC-0180", "ranked": ["i18n-sync", "anthropic-frontend-design", "workflow-sequential"], "read_bytes": 7352}
+{"qid": "MC-0181", "ranked": ["paperclip-control", "paperclip-setup", "paperclip-tasks", "paperclip-agents"], "read_bytes": 7389}
+{"qid": "MC-0184", "ranked": ["morning", "ai-chief-of-staff", "hf-trending-intelligence", "md-to-notion", "kwp-slack-slack-messaging"], "read_bytes": 6885}
+{"qid": "MC-0188", "ranked": ["paperclip-tasks", "paperclip-agents", "paperclip-setup"], "read_bytes": 7355}
+{"qid": "MC-0194", "ranked": ["tab-genai-features", "tab-llm-agents", "tab-event-detect"], "read_bytes": 6939}
+{"qid": "MC-0197", "ranked": ["morning", "morning-ship", "ai-chief-of-staff", "daily-am-orchestrator", "workflow-sequential"], "read_bytes": 7312}
+{"qid": "MC-0200", "ranked": ["automation-strategist", "ai-quality-evaluator", "pipeline-builder", "compliance-governance", "sre-devops-expert"], "read_bytes": 7192}
+{"qid": "OR-0004", "ranked": ["kwp-bio-research-single-cell-rna-qc"], "read_bytes": 7196}
+{"qid": "OR-0006", "ranked": ["autoskill-pipeline"], "read_bytes": 7287}
+{"qid": "OR-0015", "ranked": ["sprint-orchestrator"], "read_bytes": 7230}
+{"qid": "OR-0018", "ranked": ["kwp-customer-support-response-drafting"], "read_bytes": 7170}
+{"qid": "OR-0021", "ranked": ["kwp-product-management-user-research-synthesis", "pm-product-discovery", "kwp-design-user-research"], "read_bytes": 7242}
+{"qid": "OR-0031", "ranked": ["google-daily"], "read_bytes": 7210}
+{"qid": "OR-0036", "ranked": ["e2e-testing"], "read_bytes": 7212}
+{"qid": "OR-0037", "ranked": ["kwp-design-design-system-management"], "read_bytes": 7158}
+{"qid": "OR-0040", "ranked": ["gws-drive"], "read_bytes": 7110}
+{"qid": "OR-0041", "ranked": ["ecc-iterative-retrieval"], "read_bytes": 7291}
+{"qid": "OR-0042", "ranked": ["kwp-engineering-documentation"], "read_bytes": 7200}
+{"qid": "OR-0045", "ranked": ["hf-evaluation"], "read_bytes": 7127}
+{"qid": "OR-0046", "ranked": ["tab-market-breadth"], "read_bytes": 7231}
+{"qid": "OR-0053", "ranked": ["kwp-engineering-incident-response"], "read_bytes": 7356}
+{"qid": "OR-0062", "ranked": ["agency-security-engineer"], "read_bytes": 7376}
+{"qid": "OR-0065", "ranked": ["agency-xiaohongshu-specialist"], "read_bytes": 7389}
+{"qid": "OR-0070", "ranked": ["kwp-product-management-competitive-analysis"], "read_bytes": 7147}
+{"qid": "OR-0079", "ranked": ["trading-data-quality-checker"], "read_bytes": 7212}
+{"qid": "OR-0080", "ranked": ["agency-growth-hacker"], "read_bytes": 7314}
+{"qid": "OR-0086", "ranked": ["weekly-stock-update"], "read_bytes": 7086}
+{"qid": "OR-0087", "ranked": ["knowledge-to-paper"], "read_bytes": 7247}
+{"qid": "OR-0088", "ranked": ["kwp-productivity-task-management"], "read_bytes": 7339}
+{"qid": "OR-0092", "ranked": ["agency-frontend-developer"], "read_bytes": 7349}
+{"qid": "OR-0095", "ranked": ["agency-zhihu-strategist"], "read_bytes": 7395}
+{"qid": "OR-0098", "ranked": ["gws-recipe-save-email-to-doc"], "read_bytes": 7141}
+{"qid": "OR-0100", "ranked": ["kwp-engineering-system-design"], "read_bytes": 7075}
+{"qid": "OR-0105", "ranked": ["planning-meeting-sentinel"], "read_bytes": 7071}
+{"qid": "OR-0114", "ranked": ["trading-breadth-chart-analyst"], "read_bytes": 7228}
+{"qid": "OR-0118", "ranked": ["alphaxiv-paper-lookup"], "read_bytes": 7145}
+{"qid": "OR-0119", "ranked": ["agency-inclusive-visuals-specialist"], "read_bytes": 7389}
+{"qid": "OR-0121", "ranked": ["sp-request-review"], "read_bytes": 7221}
+{"qid": "OR-0131", "ranked": ["trading-market-breadth-analyzer"], "read_bytes": 7271}
+{"qid": "OR-0136", "ranked": ["nlm-video"], "read_bytes": 7355}
+{"qid": "OR-0140", "ranked": ["ai-quality-evaluator"], "read_bytes": 7211}
+{"qid": "OR-0143", "ranked": ["hf-model-trainer", "hf-auto-finetune-planner"], "read_bytes": 7101}
+{"qid": "OR-0144", "ranked": ["hf-jobs"], "read_bytes": 7104}
+{"qid": "SS-0001", "ranked": ["deep-research-pipeline"], "read_bytes": 7272}
+{"qid": "SS-0002", "ranked": ["role-dispatcher"], "read_bytes": 7088}
+{"qid": "SS-0008", "ranked": ["critical-review"], "read_bytes": 7366}
+{"qid": "SS-0010", "ranked": ["nlm-video", "notebooklm-studio"], "read_bytes": 7347}
+{"qid": "SS-0012", "ranked": ["skill-seekers"], "read_bytes": 7136}
+{"qid": "SS-0017", "ranked": ["gws-email-reply", "email-auto-reply"], "read_bytes": 7116}
+{"qid": "SS-0020", "ranked": ["kwp-customer-support-knowledge-management"], "read_bytes": 7118}
+{"qid": "SS-0021", "ranked": ["gws-recipe-audit-sharing", "compliance-governance"], "read_bytes": 7314}
+{"qid": "SS-0022", "ranked": ["anthropic-mcp-builder"], "read_bytes": 7276}
+{"qid": "SS-0024", "ranked": ["ecc-iterative-retrieval"], "read_bytes": 7161}
+{"qid": "SS-0026", "ranked": ["gws-workspace"], "read_bytes": 7215}
+{"qid": "SS-0033", "ranked": ["anthropic-xlsx"], "read_bytes": 6914}
+{"qid": "SS-0042", "ranked": ["sefo-governance", "role-security-engineer"], "read_bytes": 7192}
+{"qid": "SS-0043", "ranked": ["email-auto-reply"], "read_bytes": 7202}
+{"qid": "SS-0051", "ranked": ["anthropic-docx", "docx-template-engine"], "read_bytes": 7460}
+{"qid": "SS-0052", "ranked": ["setup-doctor"], "read_bytes": 7162}
+{"qid": "SS-0059", "ranked": ["hf-trackio"], "read_bytes": 7353}
+{"qid": "SS-0060", "ranked": ["pr-to-issue-linker"], "read_bytes": 7278}
+{"qid": "SS-0061", "ranked": ["e2e-overhaul"], "read_bytes": 7258}
+{"qid": "SS-0067", "ranked": ["office-template-enforcer"], "read_bytes": 7239}
+{"qid": "SS-0068", "ranked": ["e2e-overhaul", "e2e-testing", "ecc-verification-loop"], "read_bytes": 7209}
+{"qid": "SS-0069", "ranked": ["trading-position-sizer"], "read_bytes": 7108}
+{"qid": "SS-0080", "ranked": ["trading-breadth-chart-analyst"], "read_bytes": 7217}
+{"qid": "SS-0081", "ranked": ["kwp-sales-create-an-asset", "kwp-data-data-context-extractor", "kwp-common-room-compose-outreach"], "read_bytes": 7657}
+{"qid": "SS-0082", "ranked": ["agency-app-store-optimizer"], "read_bytes": 7268}
+{"qid": "SS-0085", "ranked": ["kwp-operations-process-optimization"], "read_bytes": 7258}
+{"qid": "SS-0094", "ranked": ["kwp-engineering-testing-strategy", "qa-test-expert"], "read_bytes": 7142}
+{"qid": "SS-0097", "ranked": ["anthropic-skill-creator", "skill-optimizer", "ecc-eval-harness", "skill-autoimprove"], "read_bytes": 7086}
+{"qid": "SS-0098", "ranked": ["notebooklm-research"], "read_bytes": 7312}
+{"qid": "SS-0099", "ranked": ["feedback-meeting-scheduler"], "read_bytes": 7259}
+{"qid": "SS-0102", "ranked": ["sales-weekly-dashboard"], "read_bytes": 7280}
+{"qid": "SS-0106", "ranked": ["hf-jobs", "hf-hub"], "read_bytes": 7141}
+{"qid": "SS-0110", "ranked": ["role-security-engineer", "security-expert"], "read_bytes": 7158}
+{"qid": "SS-0115", "ranked": ["e2e-overhaul", "e2e-testing"], "read_bytes": 7226}
+{"qid": "SS-0123", "ranked": ["agency-backend-architect"], "read_bytes": 7210}
+{"qid": "SS-0132", "ranked": ["frontend-expert", "performance-profiler"], "read_bytes": 7105}
+{"qid": "SS-0133", "ranked": ["agency-agents-orchestrator"], "read_bytes": 7418}
+{"qid": "SS-0141", "ranked": ["pm-marketing-growth", "pm-product-strategy"], "read_bytes": 7290}
+{"qid": "SS-0143", "ranked": ["tab-llm-agents"], "read_bytes": 7193}
+{"qid": "SS-0144", "ranked": ["agency-xr-immersive-developer"], "read_bytes": 7362}
+{"qid": "SS-0155", "ranked": ["kwp-brand-voice-brand-voice-enforcement"], "read_bytes": 7185}
+{"qid": "SS-0159", "ranked": ["agency-devops-automator"], "read_bytes": 7323}
+{"qid": "SS-0160", "ranked": ["tab-kiwoom"], "read_bytes": 7073}
+{"qid": "SS-0162", "ranked": ["kwp-engineering-code-review", "deep-review"], "read_bytes": 7247}
+{"qid": "SS-0167", "ranked": ["trading-backtest-expert", "trading-us-market-bubble-detector", "kwp-data-data-validation"], "read_bytes": 7099}
+{"qid": "SS-0172", "ranked": ["automation-strategist"], "read_bytes": 7198}
+{"qid": "SS-0178", "ranked": ["kwp-apollo-enrich-lead"], "read_bytes": 7073}
+{"qid": "SS-0194", "ranked": ["planning-meeting-sentinel", "meeting-digest", "notion-meeting-sync"], "read_bytes": 7286}
+{"qid": "SS-0199", "ranked": ["agency-visual-storyteller"], "read_bytes": 7245}
+{"qid": "SS-0204", "ranked": ["role-cso"], "read_bytes": 7162}
+{"qid": "SS-0206", "ranked": ["github-workflow-automation"], "read_bytes": 7500}
+{"qid": "SS-0213", "ranked": ["portfolio-report-generator"], "read_bytes": 7202}
+{"qid": "SS-0214", "ranked": ["automation-strategist"], "read_bytes": 7161}
+{"qid": "SS-0215", "ranked": ["kwp-cowork-create-plugin", "kwp-cowork-create-cowork-plugin"], "read_bytes": 7065}
+{"qid": "SS-0229", "ranked": ["agency-image-prompt-engineer"], "read_bytes": 7287}
+{"qid": "SS-0230", "ranked": ["kwp-sales-create-an-asset"], "read_bytes": 7155}
+{"qid": "SS-0232", "ranked": ["tab-market-breadth"], "read_bytes": 7303}
+{"qid": "SS-0240", "ranked": ["tab-news-fetch"], "read_bytes": 7094}
+{"qid": "SS-0244", "ranked": ["agency-support-responder"], "read_bytes": 7323}
+{"qid": "SS-0250", "ranked": ["md-to-notion", "notion-docs-sync"], "read_bytes": 7210}
+{"qid": "SS-0254", "ranked": ["notion-meeting-sync"], "read_bytes": 7171}
+{"qid": "SS-0267", "ranked": ["screen-description"], "read_bytes": 7944}
+{"qid": "SS-0271", "ranked": ["sp-writing-skills", "anthropic-skill-creator", "sp-core", "skill-autoimprove"], "read_bytes": 7021}
+{"qid": "SS-0281", "ranked": ["tab-strategy-comparison"], "read_bytes": 7301}
+{"qid": "SS-0288", "ranked": ["trading-market-news-analyst"], "read_bytes": 7266}
+{"qid": "SS-0291", "ranked": ["kwp-customer-support-ticket-triage"], "read_bytes": 7208}
+{"qid": "SS-0303", "ranked": ["eod-ship"], "read_bytes": 7189}
+{"qid": "SS-0305", "ranked": ["prd-research-factory"], "read_bytes": 7270}
+{"qid": "SS-0310", "ranked": ["agency-accessibility-auditor"], "read_bytes": 7298}
+{"qid": "SS-0312", "ranked": ["kwp-human-resources-org-planning"], "read_bytes": 7218}
+{"qid": "SS-0314", "ranked": ["hf-datasets"], "read_bytes": 7204}
+{"qid": "SS-0318", "ranked": ["mirofish", "mirofish-financial-sim", "mirofish-opinion-sim", "sefo-orchestrator", "refactor-simulator"], "read_bytes": 7148}
+{"qid": "SS-0325", "ranked": ["agency-agentic-identity-trust-architect"], "read_bytes": 7265}
+{"qid": "SS-0327", "ranked": ["alphaear-sentiment"], "read_bytes": 7186}
+{"qid": "SS-0334", "ranked": ["stock-csv-downloader"], "read_bytes": 7060}
+{"qid": "SS-0338", "ranked": ["decision-router"], "read_bytes": 7264}
+{"qid": "SS-0340", "ranked": ["feature-intake-router"], "read_bytes": 7246}
+{"qid": "SS-0342", "ranked": ["hf-hub"], "read_bytes": 7134}
+{"qid": "SS-0345", "ranked": ["kwp-sales-call-prep"], "read_bytes": 7113}
+{"qid": "SS-0358", "ranked": ["hf-trending-intelligence"], "read_bytes": 7191}
+{"qid": "SS-0359", "ranked": ["kwp-product-management-metrics-tracking"], "read_bytes": 7172}
+{"qid": "SS-0360", "ranked": ["kwp-common-room-prospect", "kwp-apollo-prospect"], "read_bytes": 7070}
+{"qid": "SS-0363", "ranked": ["kwp-human-resources-interview-prep"], "read_bytes": 7010}
+{"qid": "SS-0364", "ranked": ["trading-options-strategy-advisor"], "read_bytes": 7136}
+{"qid": "SS-0365", "ranked": ["daiso-mcp"], "read_bytes": 7243}
+{"qid": "SS-0367", "ranked": ["tab-dashboard-summary"], "read_bytes": 7195}
+{"qid": "SS-0372", "ranked": ["kwp-design-system"], "read_bytes": 7095}
+{"qid": "SS-0373", "ranked": ["notebooklm"], "read_bytes": 7104}
+{"qid": "SS-0375", "ranked": ["related-papers-scout"], "read_bytes": 7134}
+{"qid": "SS-0376", "ranked": ["sp-request-review", "code-review-all", "critical-review", "sp-receive-review", "design-review"], "read_bytes": 7393}
+{"qid": "SS-0378", "ranked": ["autoskill-pipeline"], "read_bytes": 7357}
+{"qid": "SS-0384", "ranked": ["compliance-gate"], "read_bytes": 7132}
+{"qid": "SS-0389", "ranked": ["kwp-marketing-brand-voice"], "read_bytes": 7171}
+{"qid": "SS-0390", "ranked": ["planning-meeting-sentinel", "notion-meeting-sync"], "read_bytes": 7246}
+{"qid": "SS-0392", "ranked": ["docs-freshness-guardian"], "read_bytes": 7530}
+{"qid": "SS-0399", "ranked": ["anthropic-claude-api"], "read_bytes": 7281}

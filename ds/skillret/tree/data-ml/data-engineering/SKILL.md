@@ -1,0 +1,158 @@
+---
+name: "data-engineering"
+description: "Use when the task involves Data Engineering: covers data, engineering"
+---
+
+# Data Engineering
+
+Building data pipelines, schemas, and data transformation systems.
+
+<!-- sub-skills -->
+## Sub-skills (auto-generated, do not edit by hand)
+
+- **acsets-algebraic-databases** (`acsets-algebraic-databases/`): Use when the task involves implement database: covers acsets, algebraic, databases, formalism, frames.
+- **aind-infrastructure** (`aind-infrastructure/`): Use when the task involves implement database: covers aind, infrastructure, documentdb, accessing, assets.
+- **arc-collection** (`arc-collection/`): Use when the task involves implement database: covers arc, collection, collections, qdrant, qdrant.
+- **atproto-ingest** (`atproto-ingest/`): Use when the task involves implement data: covers atproto, ingest, bluesky, acquisition, graph
+- **blockchain-data-collection-validation** (`blockchain-data-collection-validation/`): Use when the task involves test pipeline: covers blockchain, data, collection, validation, pipelines
+- **bq-query-optimization** (`bq-query-optimization/`): Use when the task involves analyze database: covers query, optimization, performance, sql, functions
+- **bsl-model-builder** (`bsl-model-builder/`): Use when the task involves implement database: covers bsl, model, builder, joins, measures
+- **busco-phylogeny** (`busco-phylogeny/`): Use when the task involves generate pipeline: covers busco, phylogeny, compleasm-based, genome, orthologs
+- **carbon-report-gen** (`carbon-report-gen/`): Use when the task involves generate data: covers carbon, report, gen, pulling, acx
+- **check-metadata-typos** (`check-metadata-typos/`): Use when the task involves review documentation: covers check, metadata, typos, spelling, codespell.
+- **classdiagram-to-neo4j** (`classdiagram-to-neo4j/`): Use when the task involves implement database: covers classdiagram, neo4j, uml, diagrams, class
+- **clickhouse-architect** (`clickhouse-architect/`): Use when the task involves design database: covers clickhouse, architect, schema, key., mergetree
+- **config-seeder** (`config-seeder/`): Use when the task involves configure database: covers config, seeder, pm., bazinga, seed
+- **count-dataset-tokens** (`count-dataset-tokens/`): Use when the task involves analyze data: covers count, dataset, tokens, datasets, specific
+- **create-migration** (`create-migration/`): Use when the task involves implement database: covers create, migration, database, owid, database.
+- **csv-parser** (`csv-parser/`): Use when the task involves analyze data: covers csv, parser, parse, analyze, validation
+- **curve-construction** (`curve-construction/`): Use when the task involves implement code: covers curve, construction, curves, bond, spread
+- **dag-failure-analyzer** (`dag-failure-analyzer/`): Use when the task involves analyze pipeline: covers dag, failure, analyzer, cause, root
+- **dagster-local** (`dagster-local/`): Use when the task involves orchestrate pipeline: covers dagster, local, assets, jobs, run
+- **data-architecture** (`data-architecture/`): Use when the task involves design database: covers data, architecture, relationships., structures., models
+- **data-architecture-f8b2a375** (`data-architecture-f8b2a375/`): Use when the task involves design infrastructure: covers data, architecture, lakehouses, lakes, warehouses
+- **data-cleaner** (`data-cleaner/`): Use when the task involves analyze data: covers data, cleaner, datasets., cleaning, ordinal
+- **data-cleaning-pipeline** (`data-cleaning-pipeline/`): Use when the task involves implement pipeline: covers data, cleaning, pipeline, outlier, imputation
+- **data-designer** (`data-designer/`): Use when the task involves generate data: covers data, designer, synthetic, datasets, generate
+- **data-engineer** (`data-engineer/`): Use when the task involves implement pipeline: covers data, engineer, etl, processes, pipelines
+- **data-engineering-data-driven-feature** (`data-engineering-data-driven-feature/`): Use when the task involves implement data: covers data, engineering, driven, feature, experimentation.
+- **data-freshness-and-latency** (`data-freshness-and-latency/`): Use when the task involves analyze pipeline: covers data, freshness, latency, timeliness, meets
+- **data-integrity-auditor** (`data-integrity-auditor/`): Use when the task involves analyze database: covers data, integrity, auditor, orphaned, broken
+- **data-lineage** (`data-lineage/`): Use when the task involves analyze data: covers data, lineage, destination, transparency, troubleshooting.
+- **data-pipeline-processor** (`data-pipeline-processor/`): Use when the task involves implement pipeline: covers data, pipeline, processor, transformation, export.
+- **data-products** (`data-products/`): Use when the task involves design data: covers data, products, self-serve, slas, mesh
+- **data-quality-frameworks** (`data-quality-frameworks/`): Use when the task involves implement pipeline: covers data, quality, frameworks, contracts., validation
+- **data-querying** (`data-querying/`): Use when the task involves analyze database: covers data, querying, sql, queries, bigquery.
+- **data-retention-archiving-planner** (`data-retention-archiving-planner/`): Use when the task involves implement database: covers data, retention, archiving, planner, archival
+- **data-sql-optimization** (`data-sql-optimization/`): Use when the task involves analyze database: covers data, sql, optimization, oltp, sqlite.
+- **data-validation-rules** (`data-validation-rules/`): Use when the task involves implement database: covers data, validation, rules, integrity., layers
+- **data-validator** (`data-validator/`): Use when the task involves analyze data: covers data, validator, standards., schemas, business
+- **data-wrangler** (`data-wrangler/`): Use when the task involves analyze data: covers data, wrangler, datasets, parquet, csv
+- **database-analyzer** (`database-analyzer/`): Use when the task involves analyze database: covers database, analyzer, improvements., indexes, suggest
+- **database-connection** (`database-connection/`): Use when the task involves configure database: covers database, connection, staging, database., inspect
+- **database-management-operations** (`database-management-operations/`): Use when the task involves implement database: covers database, management, operations, chuukese, linguistic
+- **database-migration** (`database-migration/`): Use when the task involves implement database: covers database, migration, alembic., safely, migrations
+- **database-optimization** (`database-optimization/`): Use when the task involves analyze database: covers database, optimization, partitioning, tuning, scaling
+- **database-schema-design** (`database-schema-design/`): Use when the task involves design database: covers database, schema, design, nosql, databases
+- **database-schema-validator** (`database-schema-validator/`): Use when the task involves review database: covers database, schema, validator, kysely, safety.
+- **databricks-query** (`databricks-query/`): Use when the task involves implement database: covers databricks, query, sql, catalog, unity
+- **dbcli-index** (`dbcli-index/`): Use when the task involves implement database: covers dbcli, index, drop, indexes, database
+- **dbt-commands** (`dbt-commands/`): Use when the task involves debug pipeline: covers dbt, commands, jinja, troubleshooting, macros
+- **dbt-modeling** (`dbt-modeling/`): Use when the task involves implement database: covers dbt, modeling, cte, models, sql
+- **dbt-patterns** (`dbt-patterns/`): Use when the task involves implement pipeline: covers dbt, patterns, data, transformation, modeling
+- **dbt-projects-snowflake-setup** (`dbt-projects-snowflake-setup/`): Use when the task involves configure infrastructure: covers dbt, projects, snowflake, setup, scheduling.
+- **dc-cube-definition** (`dc-cube-definition/`): Use when the task involves implement database: covers cube, definition, joins., measures, dimensions
+- **designing-dynamodb-tables** (`designing-dynamodb-tables/`): Use when the task involves design database: covers designing, dynamodb, tables, single-table, table
+- **digital-archive** (`digital-archive/`): Use when the task involves implement data: covers digital, archive, jay, rosen, construction.
+- **doc-to-vector-dataset-generator** (`doc-to-vector-dataset-generator/`): Use when the task involves generate data: covers doc, vector, dataset, generator, chunked
+- **duck-agent** (`duck-agent/`): Use when the task involves search data: covers duck, agent, absolute, verified, duckdb
+- **duckdb-quadruple-interleave** (`duckdb-quadruple-interleave/`): Use when the task involves analyze database: covers duckdb, quadruple, interleave, databases, coupled
+- **duckdb-timetravel** (`duckdb-timetravel/`): Use when the task involves implement database: covers duckdb, timetravel, acset, temporal, versioning
+- **entity-resolution** (`entity-resolution/`): Use when the task involves analyze data: covers entity, resolution, merges, entities, duplicate
+- **etl-designer** (`etl-designer/`): Use when the task involves design pipeline: covers etl, designer, data, pipelines, elt
+- **etl-sync-job-builder** (`etl-sync-job-builder/`): Use when the task involves design pipeline: covers etl, sync, job, builder, incremental
+- **extract-moves-from-video** (`extract-moves-from-video/`): Use when the task involves analyze data: covers extract, moves, video, text-based, recordings
+- **faber-coordinator** (`faber-coordinator/`): Use when the task involves orchestrate database: covers faber, coordinator, faber-db, coordinate, within
+- **financial-document-processor** (`financial-document-processor/`): Use when the task involves implement agent_skill: covers financial, document, processor, data, catastrophic
+- **forensic-data-engineer** (`forensic-data-engineer/`): Use when the task involves analyze data: covers forensic, data, engineer, detection, fraud
+- **freshness-latency-slos** (`freshness-latency-slos/`): Use when the task involves analyze pipeline: covers freshness, latency, slos, slo, tracking.
+- **fuzzy-match** (`fuzzy-match/`): Use when the task involves implement code: covers fuzzy, match, matching, exist., reconciliation.
+- **gapless-crypto-clickhouse-onboarding** (`gapless-crypto-clickhouse-onboarding/`): Use when the task involves configure infrastructure: covers gapless, crypto, clickhouse, onboarding, cloud
+- **graph-grafting** (`graph-grafting/`): Use when the task involves implement code: covers graph, grafting, skill
+- **healthsim** (`healthsim/`): Use when the task involves generate data: covers healthsim, healthcare, pharmacy, synthetic, claims
+- **healthsim-rxmembersim** (`healthsim-rxmembersim/`): Use when the task involves generate data: covers healthsim, rxmembersim, pharmacy, drug, claims
+- **hybrid-search-implementation** (`hybrid-search-implementation/`): Use when the task involves implement api: covers hybrid, search, implementation, alone, neither
+- **insightpulse-deepnote-data-lab** (`insightpulse-deepnote-data-lab/`): Use when the task involves design data: covers insightpulse, deepnote, data, lab, superset-ready
+- **investment-results-collector** (`investment-results-collector/`): Use when the task involves implement data: covers investment, results, collector, collects, according
+- **json-transformer** (`json-transformer/`): Use when the task involves analyze data: covers json, transformer, manipulate, transform, structures
+- **kafka-streaming** (`kafka-streaming/`): Use when the task involves implement pipeline: covers kafka, streaming, consumers, producers, apache
+- **koan-vector-migration** (`koan-vector-migration/`): Use when the task involves implement database: covers koan, vector, migration, embedding, provider
+- **lab-unit-harmonization** (`lab-unit-harmonization/`): Use when the task involves implement data: covers lab, unit, harmonization, units, clinical
+- **lakehouse-patterns** (`lakehouse-patterns/`): Use when the task involves design data: covers lakehouse, patterns, lake, data, hudi
+- **lifesciences-graph-builder** (`lifesciences-graph-builder/`): Use when the task involves orchestrate data: covers lifesciences, graph, builder, drug, graphs
+- **load-data** (`load-data/`): Use when the task involves analyze data: covers load, data, discovery, feather, ultra-fast
+- **manage-concepts-db** (`manage-concepts-db/`): Use when the task involves configure database: covers manage, concepts, concepts., duplicates, concept
+- **market-data** (`market-data/`): Use when the task involves implement api: covers market, data, ohlcv, openalgo, quotes
+- **materials-export** (`materials-export/`): Use when the task involves generate data: covers materials, export, auto-styling, materials-search, ordering.
+- **medallion-architecture** (`medallion-architecture/`): Use when the task involves design database: covers medallion, architecture, bronze, silver, lakehouse
+- **meeting-transcription** (`meeting-transcription/`): Use when the task involves implement data: covers meeting, transcription, transcribe, m4a, mp3
+- **meteor-sync-specialist** (`meteor-sync-specialist/`): Use when the task involves implement database: covers meteor, sync, specialist, mappers, syncs
+- **migrate-postgres-tables-to-hypertables** (`migrate-postgres-tables-to-hypertables/`): Use when the task involves implement database: covers migrate, postgres, tables, hypertables, timescaledb
+- **millmax** (`millmax/`): Use when the task involves implement code: covers millmax, mill-max, millmaxhandler., connectors, mpn
+- **mithril-dedup-agent** (`mithril-dedup-agent/`): Use when the task involves implement code: covers mithril, dedup, agent, deduplication., lsh
+- **moai-formats-data** (`moai-formats-data/`): Use when the task involves implement data: covers moai, formats, data, serialization, transmission
+- **mongodb-usage** (`mongodb-usage/`): Use when the task involves search database: covers mongodb, usage, database, collections, indexes
+- **multi-language-document-processing** (`multi-language-document-processing/`): Use when the task involves implement data: covers multi, language, document, processing, languages
+- **multi-query** (`multi-query/`): Use when the task involves implement api: covers multi, query, queries, fuses, rrf
+- **multi-source-data-merger** (`multi-source-data-merger/`): Use when the task involves implement data: covers multi, source, data, merger, dataset.
+- **neon-database-manager** (`neon-database-manager/`): Use when the task involves implement database: covers neon, database, manager, postgres, inspecting
+- **ontology-query** (`ontology-query/`): Use when the task involves search data: covers ontology, query, sparql, queries, persons
+- **ontology-sync** (`ontology-sync/`): Use when the task involves implement data: covers ontology, sync, vault, ontology-engine, around
+- **openmetadata-dev** (`openmetadata-dev/`): Use when the task involves implement api: covers openmetadata, dev, automations., ingestion, connectors
+- **parse-ad-requirements** (`parse-ad-requirements/`): Use when the task involves analyze data: covers parse, requirements, campaign, advertising, campaigns
+- **parse-bank-statement-pdf** (`parse-bank-statement-pdf/`): Use when the task involves analyze data: covers parse, bank, statement, pdf, transactions
+- **pdf-processing** (`pdf-processing/`): Use when the task involves analyze data: covers pdf, processing, extract, documents., read
+- **pdf-reader** (`pdf-reader/`): Use when the task involves analyze data: covers pdf, reader, pdfplumber, pymupdf., preservation
+- **phenoml-workflow** (`phenoml-workflow/`): Use when the task involves implement pipeline: covers phenoml, workflow, condition, patient, deduplication
+- **pkg-memory-bridge** (`pkg-memory-bridge/`): Use when the task involves implement data: covers pkg, memory, bridge, graphiti, individuated
+- **pltr-cli** (`pltr-cli/`): Use when the task involves orchestrate data: covers pltr, cli, foundry, datasets, sql
+- **policyengine-core** (`policyengine-core/`): Use when the task involves implement code: covers policyengine, core, powering, foundation, simulation
+- **postgres-pro** (`postgres-pro/`): Use when the task involves implement database: covers postgres, pro, jsonb, replication, explain
+- **postgresql-performance-optimization** (`postgresql-performance-optimization/`): Use when the task involves analyze database: covers postgresql, performance, optimization, query, pgvector
+- **processing-documents** (`processing-documents/`): Use when the task involves implement pipeline: covers processing, documents, docx, xlsx, files
+- **pv-mapping** (`pv-mapping/`): Use when the task involves implement data: covers mapping, ontology, curie, permissible, enums
+- **pyspark-test-generator** (`pyspark-test-generator/`): Use when the task involves test test_suite: covers pyspark, test, generator, data, conformity
+- **python-pipeline** (`python-pipeline/`): Use when the task involves implement pipeline: covers python, pipeline, processing, dispatcher, image-analyzer
+- **query-builder** (`query-builder/`): Use when the task involves generate database: covers query, builder, nosql, queries., optimized
+- **query-supabase-database** (`query-supabase-database/`): Use when the task involves search database: covers query, supabase, database, psql, credential
+- **rag-curator** (`rag-curator/`): Use when the task involves configure data: covers rag, curator, acessibilidade., conhecimento, curador
+- **schema-designer** (`schema-designer/`): Use when the task involves design database: covers schema, designer, tables, schemas, data
+- **schema-drift-detection** (`schema-drift-detection/`): Use when the task involves analyze database: covers schema, drift, detection, consumers., downstream
+- **schema-exploration** (`schema-exploration/`): Use when the task involves analyze database: covers schema, exploration, columns, discovering, tables
+- **schema-management** (`schema-management/`): Use when the task involves design database: covers schema, management, evolutions, streams., versioning
+- **scientific-workflows** (`scientific-workflows/`): Use when the task involves design pipeline: covers scientific, workflows, fireworks, joblib, parsl
+- **seongjin-book-prep** (`seongjin-book-prep/`): Use when the task involves analyze documentation: covers seongjin, book, prep, splitting, pdf
+- **setup-timescaledb-hypertables** (`setup-timescaledb-hypertables/`): Use when the task involves configure database: covers setup, timescaledb, hypertables, columns, instructions
+- **sf-data** (`sf-data/`): Use when the task involves implement database: covers data, operations, soql, scoring., importing
+- **sgmicro** (`sgmicro/`): Use when the task involves analyze code: covers sgmicro, micro, corp, ics., analog
+- **signal-taxonomy** (`signal-taxonomy/`): Use when the task involves design data: covers signal, taxonomy, enriched, lineage, topic
+- **similarity-sensor** (`similarity-sensor/`): Use when the task involves analyze code: covers similarity, sensor, mpns, sensor-specific, accelerometer
+- **skill-ollama-deepseek-ocr-tool** (`skill-ollama-deepseek-ocr-tool/`): Use when the task involves implement data: covers skill, ollama, deepseek, ocr, tool
+- **snowflake-cli** (`snowflake-cli/`): Use when the task involves orchestrate pipeline: covers snowflake, cli, sql, pipelines, templating.
+- **sodir-data-extractor** (`sodir-data-extractor/`): Use when the task involves analyze data: covers sodir, data, extractor
+- **spark-engineer** (`spark-engineer/`): Use when the task involves implement pipeline: covers spark, engineer, rdd, dataframe, big
+- **splynx-mysql** (`splynx-mysql/`): Use when the task involves analyze database: covers splynx, mysql, splynx_mysql, tariffs, customers
+- **sql-quality-fix** (`sql-quality-fix/`): Use when the task involves debug database: covers sql, quality, fix, ineffective, percentages.
+- **stream-processing** (`stream-processing/`): Use when the task involves design pipeline: covers stream, processing, flink, kafka, architectures.
+- **student-database** (`student-database/`): Use when the task involves analyze data: covers student, database, toefl, grade, letter
+- **sync-all-channels** (`sync-all-channels/`): Use when the task involves orchestrate pipeline: covers sync, channels, lists, video, channels.yaml.
+- **transcription** (`transcription/`): Use when the task involves implement data: covers transcription, diarization., srt, subtitles., transcribing
+- **user-journey-tracking** (`user-journey-tracking/`): Use when the task involves implement code: covers journey, tracking, instrumenting, fail., signals.
+- **using-weaviate** (`using-weaviate/`): Use when the task involves implement database: covers weaviate, search, ai-native, multi-modal, retrieval.
+- **vikingtech** (`vikingtech/`): Use when the task involves implement code: covers vikingtech, viking, tech, anti-sulfur, chip
+- **weaviate-collection-manager** (`weaviate-collection-manager/`): Use when the task involves implement database: covers weaviate, collection, manager, collections, delete
+- **whodb** (`whodb/`): Use when the task involves analyze database: covers whodb, mariadb, elasticsearch, clickhouse, databases.
+
+Routing rule: when the task matches one of the sub-skills above, read the SKILL.md in that subdirectory for detailed instructions before acting;
+if that sub-skill lists deeper sub-skills, repeat the descent. Load only the documents on the matching path.
+<!-- /sub-skills -->

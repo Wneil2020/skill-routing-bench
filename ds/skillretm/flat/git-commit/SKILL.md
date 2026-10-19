@@ -1,0 +1,8 @@
+---
+name: "git-commit"
+description: "Use when the task involves implement code: covers git, commit, commits, subject., closure"
+---
+
+# git-commit
+
+Creates git commits following Conventional Commits format with type/scope/subject. Use when user wants to commit changes, create commit, save work, or stage and commit. Handles regular branch commits (development) and merge commits (PR closure). Enforces project-specific conventions from CLAUDE.md.

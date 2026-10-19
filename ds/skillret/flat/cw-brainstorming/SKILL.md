@@ -1,0 +1,8 @@
+---
+name: "cw-brainstorming"
+description: "Use when the task involves generate content: covers brainstorming, creative, story, freedom, possibilities."
+---
+
+# cw-brainstorming
+
+Creative writing skill for capturing story brainstorming. Use when the user is exploring narrative ideas, discussing characters, planning episodes, or thinking through story possibilities. Creates minimal working notes that preserve creative freedom by recording only what was stated and marking sour

@@ -1,0 +1,11 @@
+---
+name: "git-safety-guard"
+description: "Use when the task involves review security: covers git, safety, guard, destructive, fail-open"
+---
+
+# git-safety-guard
+
+Blocks destructive git and filesystem commands before execution.
+Prevents accidental loss of uncommitted work from git checkout --,
+git reset --hard, rm -rf, and similar destructive operations.
+Works as a Claude Code PreToolUse hook with fail-open semantics.

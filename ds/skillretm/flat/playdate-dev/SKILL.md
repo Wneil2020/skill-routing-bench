@@ -1,0 +1,8 @@
+---
+name: "playdate-dev"
+description: "Use when the task involves implement code: covers playdate, dev, game, crank, pdxinfo"
+---
+
+# playdate-dev
+
+Playdate game development in Lua with the Playdate SDK, including game loop, sprites, graphics, input (crank, buttons, accelerometer), UI, performance, metadata (pdxinfo), and simulator/device workflow. Use when asked to make a Playdate game, implement Playdate-specific mechanics, or apply Playdate

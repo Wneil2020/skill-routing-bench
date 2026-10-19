@@ -1,0 +1,8 @@
+---
+name: "macos-spm-app-packaging"
+description: "Use when the task involves deploy infrastructure: covers macos, spm, app, packaging, appcast"
+---
+
+# macos-spm-app-packaging
+
+Scaffold, build, and package SwiftPM-based macOS apps without an Xcode project. Use when you need a from-scratch macOS app layout, SwiftPM targets/resources, a custom .app bundle assembly script, or signing/notarization/appcast steps outside Xcode.

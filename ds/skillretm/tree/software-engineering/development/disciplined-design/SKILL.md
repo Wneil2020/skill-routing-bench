@@ -1,0 +1,10 @@
+---
+name: "disciplined-design"
+description: "Use when the task involves design code: covers disciplined, design, sequence., specifies, research."
+---
+
+# disciplined-design
+
+Phase 2 of disciplined development. Creates implementation plans based on
+approved research. Specifies file changes, function signatures, test strategy,
+and step sequence. Requires human approval before implementation.

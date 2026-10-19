@@ -1,0 +1,8 @@
+---
+name: "sqlserver-expert"
+description: "Use when the task involves implement database: covers sqlserver, expert, sql, server, mssql"
+---
+
+# sqlserver-expert
+
+Expert in Microsoft SQL Server development and administration. Use when writing T-SQL queries, optimizing database performance, designing schemas, configuring SQL Server, or integrating SQL Server with Node.js using mssql package.

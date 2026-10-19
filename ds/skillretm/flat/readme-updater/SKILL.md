@@ -1,0 +1,8 @@
+---
+name: "readme-updater"
+description: "Use when the task involves document documentation: covers readme, updater, changes., project, modified."
+---
+
+# readme-updater
+
+Keep README files current with project changes. Use when project structure changes, features added, or setup instructions modified. Suggests README updates based on code changes. Triggers on significant project changes, new features, dependency changes.

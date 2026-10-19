@@ -1,0 +1,8 @@
+---
+name: "github-evidence-kit"
+description: "Use when the task involves generate data: covers github, evidence, kit, sources., re-verification"
+---
+
+# github-evidence-kit
+
+Generate, export, load, and verify forensic evidence from GitHub sources. Use when creating verifiable evidence objects from GitHub API, GH Archive, Wayback Machine, local git repositories, or security vendor reports. Handles evidence storage, querying, and re-verification against original sources.

@@ -1,0 +1,8 @@
+---
+name: "abp-infrastructure-patterns"
+description: "Use when the task involves implement code: covers abp, infrastructure, patterns, jobs, distributed"
+---
+
+# abp-infrastructure-patterns
+
+ABP Framework cross-cutting patterns including authorization, background jobs, distributed events, multi-tenancy, and module configuration. Use when: (1) defining permissions, (2) creating background jobs, (3) publishing/handling distributed events, (4) configuring modules.

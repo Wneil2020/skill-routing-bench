@@ -1,0 +1,8 @@
+---
+name: "dynamic-instrumentation"
+description: "Use when the task involves implement code: covers dynamic, instrumentation, runtime, monitors., profilers"
+---
+
+# dynamic-instrumentation
+
+Expertise in LLVM-based dynamic binary instrumentation, runtime tracing, and program monitoring. Use this skill when implementing runtime analysis tools, code coverage systems, profilers, or dynamic security monitors.

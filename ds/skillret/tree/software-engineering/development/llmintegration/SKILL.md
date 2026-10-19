@@ -1,0 +1,8 @@
+---
+name: "llmintegration"
+description: "Use when the task involves implement api: covers llmintegration, integration, ollama., gpt, multi-model"
+---
+
+# llmintegration
+
+LLM integration patterns for Claude, GPT, Gemini, and Ollama. Activate for AI API integration, prompt engineering, token management, extended thinking, and multi-model orchestration.

@@ -1,0 +1,8 @@
+---
+name: "mlir-development"
+description: "Use when the task involves implement code: covers mlir, development, multi-level, domain-specific, compilation"
+---
+
+# mlir-development
+
+Expertise in MLIR (Multi-Level Intermediate Representation) and CIR (Clang IR) development for domain-specific compilation and high-level optimizations. Use this skill when building ML compilers, domain-specific languages, or working with multi-level compilation pipelines.

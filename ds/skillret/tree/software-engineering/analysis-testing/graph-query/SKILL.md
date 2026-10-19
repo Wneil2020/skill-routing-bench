@@ -1,0 +1,8 @@
+---
+name: "graph-query"
+description: "Use when the task involves search database: covers graph, query, relationships, understand, dependencies"
+---
+
+# graph-query
+
+Query the code graph database to understand component relationships, dependencies, and change impact. Use when the user asks to "find callers", "check dependencies", "what uses this", "show relationships", "find serializers", or when reading code and needing to understand what depends on a component

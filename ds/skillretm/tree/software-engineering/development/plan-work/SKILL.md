@@ -1,0 +1,8 @@
+---
+name: "plan-work"
+description: "Use when the task involves design project: covers plan, work, implementation, proposing, clarifying"
+---
+
+# plan-work
+
+Plan work before coding: do repo research, analyze options/risks, and ask clarifying questions before proposing an implementation plan. Use when the user asks for a plan, design/approach, scope breakdown, or implementation steps.

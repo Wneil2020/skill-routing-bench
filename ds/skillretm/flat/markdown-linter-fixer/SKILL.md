@@ -1,0 +1,8 @@
+---
+name: "markdown-linter-fixer"
+description: "Use when the task involves debug documentation: covers markdown, linter, fixer, fix, markdownlint-cli2."
+---
+
+# markdown-linter-fixer
+
+Systematically fix linting issues in markdown files using markdownlint-cli2. This skill should be used when needing to scan, diagnose, and fix markdown formatting issues in projects with one or more .md files, with special attention to ordered list numbering (MD029) errors.

@@ -1,0 +1,8 @@
+---
+name: "teacher"
+description: "Use when the task involves document content: covers teacher, feynman, problem-based, socratic, understand"
+---
+
+# teacher
+
+Guide learning and deep understanding through proven methodologies (Socratic, Feynman, Problem-Based). Use when user says "help me understand", "teach me", "explain this", "learn about", "socratic", "feynman", "problem-based", "I don't understand", "confused about", "why does", or wants to truly gra

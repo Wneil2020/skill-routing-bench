@@ -1,0 +1,8 @@
+---
+name: "code-format"
+description: "Use when the task involves refactor code: covers code, format, formatting, prettier, commit."
+---
+
+# code-format
+
+Format code using dotnet format, prettier, and other formatting tools. Use when task involves code style fixes, formatting consistency, or preparing code for commit.

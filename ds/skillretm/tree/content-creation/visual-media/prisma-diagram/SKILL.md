@@ -1,0 +1,8 @@
+---
+name: "prisma-diagram"
+description: "Use when the task involves generate data: covers prisma, diagram, systematic, publications, demonstrating"
+---
+
+# prisma-diagram
+
+Generate PRISMA 2020 flow diagrams for systematic reviews. Use when: (1) Conducting systematic literature reviews, (2) Documenting screening process, (3) Reporting study selection for publications, (4) Demonstrating PRISMA compliance, (5) Creating transparent review methodology documentation.

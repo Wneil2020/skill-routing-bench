@@ -1,0 +1,8 @@
+---
+name: "baseline-ui"
+description: "Use when the task involves review ui_component: covers baseline, css, durations, enforcing, utilities"
+---
+
+# baseline-ui
+
+Validates animation durations, enforces typography scale, checks component accessibility, and prevents layout anti-patterns in Tailwind CSS projects. Use when building UI components, reviewing CSS utilities, styling React views, or enforcing design consistency.

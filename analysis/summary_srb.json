@@ -1,0 +1,1560 @@
+{
+ "summary": {
+  "dataset": "srb",
+  "n": 1250,
+  "hit1": 0.0056,
+  "classes": {
+   "ambiguous_root": {
+    "n": 1212,
+    "pct": 0.9696
+   },
+   "no_match_root": {
+    "n": 9,
+    "pct": 0.0072
+   },
+   "stop_group": {
+    "n": 15,
+    "pct": 0.012
+   },
+   "ambiguous_group": {
+    "n": 6,
+    "pct": 0.0048
+   },
+   "wrong_branch": {
+    "n": 1,
+    "pct": 0.0008
+   },
+   "leaf_wrong": {
+    "n": 0,
+    "pct": 0.0
+   },
+   "leaf": {
+    "n": 7,
+    "pct": 0.0056
+   }
+  },
+  "oracle": {
+   "ambiguity_only": {
+    "n": 928,
+    "pct": 0.7424
+   },
+   "group_cover_miss": {
+    "n": 210,
+    "pct": 0.168
+   },
+   "leaf_cover_miss": {
+    "n": 112,
+    "pct": 0.0896
+   }
+  },
+  "root_hits": {
+   "mean": 7.2448,
+   "max": 19,
+   "ge2": 1212,
+   "hist": {
+    "0": 9,
+    "1": 29,
+    "2": 58,
+    "3": 88,
+    "4": 91,
+    "5": 140,
+    "6": 157,
+    "7": 122,
+    "8": 121,
+    "9": 119,
+    "10": 94,
+    "11": 77,
+    "12": 42,
+    "13": 42,
+    "14": 34,
+    "15": 9,
+    "16": 10,
+    "17": 5,
+    "18": 2,
+    "19": 1
+   }
+  },
+  "ambiguity": {
+   "n": 1212,
+   "one_word_explains_all": 51,
+   "top_bridge_words": [
+    {
+     "word": "skills",
+     "queries": 580,
+     "groups": 46
+    },
+    {
+     "word": "candidate",
+     "queries": 202,
+     "groups": 44
+    },
+    {
+     "word": "docs",
+     "queries": 157,
+     "groups": 41
+    },
+    {
+     "word": "automation",
+     "queries": 125,
+     "groups": 46
+    },
+    {
+     "word": "calendar",
+     "queries": 82,
+     "groups": 45
+    },
+    {
+     "word": "email",
+     "queries": 81,
+     "groups": 45
+    },
+    {
+     "word": "stock",
+     "queries": 48,
+     "groups": 31
+    },
+    {
+     "word": "daily",
+     "queries": 47,
+     "groups": 36
+    },
+    {
+     "word": "review",
+     "queries": 42,
+     "groups": 38
+    },
+    {
+     "word": "analysis",
+     "queries": 41,
+     "groups": 32
+    },
+    {
+     "word": "pipeline",
+     "queries": 33,
+     "groups": 37
+    },
+    {
+     "word": "market",
+     "queries": 32,
+     "groups": 31
+    },
+    {
+     "word": "research",
+     "queries": 31,
+     "groups": 29
+    },
+    {
+     "word": "expert",
+     "queries": 30,
+     "groups": 40
+    },
+    {
+     "word": "generator",
+     "queries": 25,
+     "groups": 36
+    },
+    {
+     "word": "design",
+     "queries": 24,
+     "groups": 29
+    },
+    {
+     "word": "data",
+     "queries": 24,
+     "groups": 26
+    },
+    {
+     "word": "sync",
+     "queries": 23,
+     "groups": 35
+    },
+    {
+     "word": "스킬",
+     "queries": 22,
+     "groups": 19
+    },
+    {
+     "word": "orchestrator",
+     "queries": 22,
+     "groups": 36
+    }
+   ]
+  },
+  "llm_cross": {
+   "llm_hit__holon_miss": 153,
+   "llm_miss__holon_miss": 144,
+   "llm_hit__holon_hit": 2,
+   "llm_miss__holon_hit": 1
+  },
+  "llm_n": 300,
+  "llm_right_holon_wrong": {
+   "n": 153,
+   "oracle": {
+    "ambiguity_only": 125,
+    "group_cover_miss": 21,
+    "leaf_cover_miss": 7
+   },
+   "exact": {
+    "cover_recall": 0.3104575163398693,
+    "query_token_coverage": 0.1432957686193164,
+    "any_cover": 0.8235294117647058
+   },
+   "stem": {
+    "cover_recall": 0.334640522875817,
+    "query_token_coverage": 0.14799465581373744,
+    "any_cover": 0.8366013071895425
+   },
+   "stem_syn": {
+    "cover_recall": 0.3333333333333333,
+    "query_token_coverage": 0.1471224332863823,
+    "any_cover": 0.8300653594771242
+   }
+  },
+  "holon_wrong_all_overlap": {
+   "exact": {
+    "cover_recall": 0.278828104049343,
+    "query_token_coverage": 0.10652888993000252,
+    "any_cover": 0.7506033789219629
+   },
+   "stem_syn": {
+    "cover_recall": 0.3045588629659426,
+    "query_token_coverage": 0.11219581178102274,
+    "any_cover": 0.7771520514883347
+   }
+  },
+  "examples": {
+   "ambiguous_root": [
+    {
+     "qid": "SS-0081",
+     "setting": "single_skill",
+     "lang": "ko",
+     "query": "다음 요청과 맞는 워크플로우를 찾아줘: 생성 관련.",
+     "gold": [
+      "agency-content-creator"
+     ],
+     "class": "ambiguous_root",
+     "hit1": false,
+     "path": [
+      "AMBIG:agency,alphaear,anthropic,e2e,kwp,misc,pr,standalone"
+     ],
+     "leaf_id": null,
+     "n_root_hits": 8,
+     "root_hit_rels": [
+      "agency",
+      "alphaear",
+      "anthropic",
+      "e2e",
+      "kwp",
+      "misc",
+      "pr",
+      "standalone"
+     ],
+     "oracle": "leaf_cover_miss",
+     "bridge": {
+      "shared_words": [
+       "생성",
+       "워크플로우"
+      ],
+      "all_hit_by_one_word": [
+       "생성"
+      ]
+     },
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem_syn": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      }
+     }
+    },
+    {
+     "qid": "SS-0206",
+     "setting": "single_skill",
+     "lang": "ko",
+     "query": "다음 요청과 맞는 워크플로우를 찾아줘: 빌드 관련.",
+     "gold": [
+      "kwp-brand-voice-guideline-generation"
+     ],
+     "class": "ambiguous_root",
+     "hit1": false,
+     "path": [
+      "AMBIG:agency,kwp,misc,skill"
+     ],
+     "leaf_id": null,
+     "n_root_hits": 4,
+     "root_hit_rels": [
+      "agency",
+      "kwp",
+      "misc",
+      "skill"
+     ],
+     "oracle": "ambiguity_only",
+     "bridge": {
+      "shared_words": [
+       "빌드",
+       "워크플로우"
+      ],
+      "all_hit_by_one_word": [
+       "빌드"
+      ]
+     },
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.0,
+       "any_cover": 1
+      },
+      "stem": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.0,
+       "any_cover": 1
+      },
+      "stem_syn": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.0,
+       "any_cover": 1
+      }
+     }
+    },
+    {
+     "qid": "SS-0296",
+     "setting": "single_skill",
+     "lang": "ko",
+     "query": "다음 요청과 맞는 워크플로우를 찾아줘: 빌드 관련.",
+     "gold": [
+      "kwp-data-interactive-dashboard-builder"
+     ],
+     "class": "ambiguous_root",
+     "hit1": false,
+     "path": [
+      "AMBIG:agency,kwp,misc,skill"
+     ],
+     "leaf_id": null,
+     "n_root_hits": 4,
+     "root_hit_rels": [
+      "agency",
+      "kwp",
+      "misc",
+      "skill"
+     ],
+     "oracle": "ambiguity_only",
+     "bridge": {
+      "shared_words": [
+       "빌드",
+       "워크플로우"
+      ],
+      "all_hit_by_one_word": [
+       "빌드"
+      ]
+     },
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.0,
+       "any_cover": 1
+      },
+      "stem": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.0,
+       "any_cover": 1
+      },
+      "stem_syn": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.0,
+       "any_cover": 1
+      }
+     }
+    }
+   ],
+   "stop_group": [
+    {
+     "qid": "SS-0148",
+     "setting": "single_skill",
+     "lang": "ko",
+     "query": "I need to 문장 다듬기—which skill should handle this?",
+     "gold": [
+      "sentence-polisher"
+     ],
+     "class": "stop_group",
+     "hit1": false,
+     "path": [
+      ".",
+      "skill"
+     ],
+     "leaf_id": null,
+     "n_root_hits": 1,
+     "root_hit_rels": [
+      "skill"
+     ],
+     "oracle": "group_cover_miss",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem_syn": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      }
+     }
+    },
+    {
+     "qid": "SS-0015",
+     "setting": "single_skill",
+     "lang": "ko",
+     "query": "I need to 에이전트 승인—which skill should handle this?",
+     "gold": [
+      "paperclip-control"
+     ],
+     "class": "stop_group",
+     "hit1": false,
+     "path": [
+      ".",
+      "skill"
+     ],
+     "leaf_id": null,
+     "n_root_hits": 1,
+     "root_hit_rels": [
+      "skill"
+     ],
+     "oracle": "group_cover_miss",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem_syn": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      }
+     }
+    },
+    {
+     "qid": "SS-0365",
+     "setting": "single_skill",
+     "lang": "ko",
+     "query": "I need to 올리브영 재고—which skill should handle this?",
+     "gold": [
+      "daiso-mcp"
+     ],
+     "class": "stop_group",
+     "hit1": false,
+     "path": [
+      ".",
+      "skill"
+     ],
+     "leaf_id": null,
+     "n_root_hits": 1,
+     "root_hit_rels": [
+      "skill"
+     ],
+     "oracle": "group_cover_miss",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem_syn": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      }
+     }
+    }
+   ],
+   "no_match_root": [
+    {
+     "qid": "SS-0216",
+     "setting": "single_skill",
+     "lang": "ko",
+     "query": "한국어로 '모델' 키워드로 시작하는 작업을 맡기고 싶어.",
+     "gold": [
+      "kwp-operations-risk-assessment"
+     ],
+     "class": "no_match_root",
+     "hit1": false,
+     "path": [
+      "."
+     ],
+     "leaf_id": null,
+     "n_root_hits": 0,
+     "root_hit_rels": [],
+     "oracle": "group_cover_miss",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem_syn": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      }
+     }
+    },
+    {
+     "qid": "SS-0141",
+     "setting": "single_skill",
+     "lang": "ko",
+     "query": "한국어로 '가치 제안' 키워드로 시작하는 작업을 맡기고 싶어.",
+     "gold": [
+      "pm-product-strategy"
+     ],
+     "class": "no_match_root",
+     "hit1": false,
+     "path": [
+      "."
+     ],
+     "leaf_id": null,
+     "n_root_hits": 0,
+     "root_hit_rels": [],
+     "oracle": "group_cover_miss",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem_syn": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      }
+     }
+    },
+    {
+     "qid": "SS-0017",
+     "setting": "single_skill",
+     "lang": "ko",
+     "query": "I'm trying to 메일 답장; route me to the right capability.",
+     "gold": [
+      "gws-email-reply"
+     ],
+     "class": "no_match_root",
+     "hit1": false,
+     "path": [
+      "."
+     ],
+     "leaf_id": null,
+     "n_root_hits": 0,
+     "root_hit_rels": [],
+     "oracle": "group_cover_miss",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem_syn": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      }
+     }
+    }
+   ],
+   "ambiguous_group": [
+    {
+     "qid": "SS-0061",
+     "setting": "single_skill",
+     "lang": "ko",
+     "query": "한국어로 'E2E 오버홀' 키워드로 시작하는 작업을 맡기고 싶어.",
+     "gold": [
+      "e2e-overhaul"
+     ],
+     "class": "ambiguous_group",
+     "hit1": false,
+     "path": [
+      ".",
+      "e2e"
+     ],
+     "leaf_id": null,
+     "n_root_hits": 1,
+     "root_hit_rels": [
+      "e2e"
+     ],
+     "oracle": "ambiguity_only",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.4,
+       "query_token_coverage": 0.2857142857142857,
+       "any_cover": 1
+      },
+      "stem": {
+       "cover_recall": 0.4,
+       "query_token_coverage": 0.2857142857142857,
+       "any_cover": 1
+      },
+      "stem_syn": {
+       "cover_recall": 0.4,
+       "query_token_coverage": 0.2857142857142857,
+       "any_cover": 1
+      }
+     }
+    },
+    {
+     "qid": "SS-0171",
+     "setting": "single_skill",
+     "lang": "en",
+     "query": "I'm trying to /morning; route me to the right capability.",
+     "gold": [
+      "morning"
+     ],
+     "class": "ambiguous_group",
+     "hit1": false,
+     "path": [
+      ".",
+      "morning"
+     ],
+     "leaf_id": null,
+     "n_root_hits": 1,
+     "root_hit_rels": [
+      "morning"
+     ],
+     "oracle": "ambiguity_only",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.2,
+       "any_cover": 1
+      },
+      "stem": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.2,
+       "any_cover": 1
+      },
+      "stem_syn": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.2,
+       "any_cover": 1
+      }
+     }
+    },
+    {
+     "qid": "SS-0255",
+     "setting": "single_skill",
+     "lang": "en",
+     "query": "I'm trying to Task Management; route me to the right capability.",
+     "gold": [
+      "kwp-productivity-task-management"
+     ],
+     "class": "ambiguous_group",
+     "hit1": false,
+     "path": [
+      ".",
+      "kwp"
+     ],
+     "leaf_id": null,
+     "n_root_hits": 1,
+     "root_hit_rels": [
+      "kwp"
+     ],
+     "oracle": "ambiguity_only",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.2,
+       "any_cover": 1
+      },
+      "stem": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.2,
+       "any_cover": 1
+      },
+      "stem_syn": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.2,
+       "any_cover": 1
+      }
+     }
+    }
+   ],
+   "leaf": [
+    {
+     "qid": "SS-0066",
+     "setting": "single_skill",
+     "lang": "ko",
+     "query": "한국어로 '슬라이드' 키워드로 시작하는 작업을 맡기고 싶어.",
+     "gold": [
+      "anthropic-pptx"
+     ],
+     "class": "leaf",
+     "hit1": true,
+     "path": [
+      ".",
+      "anthropic",
+      "anthropic/anthropic-pptx"
+     ],
+     "leaf_id": "anthropic-pptx",
+     "n_root_hits": 1,
+     "root_hit_rels": [
+      "anthropic"
+     ],
+     "oracle": "ambiguity_only",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.16666666666666666,
+       "any_cover": 1
+      },
+      "stem": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.16666666666666666,
+       "any_cover": 1
+      },
+      "stem_syn": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.16666666666666666,
+       "any_cover": 1
+      }
+     }
+    },
+    {
+     "qid": "SS-0251",
+     "setting": "single_skill",
+     "lang": "ko",
+     "query": "한국어로 '코드 스타일' 키워드로 시작하는 작업을 맡기고 싶어.",
+     "gold": [
+      "ecc-coding-standards"
+     ],
+     "class": "leaf",
+     "hit1": true,
+     "path": [
+      ".",
+      "ecc",
+      "ecc/ecc-coding-standards"
+     ],
+     "leaf_id": "ecc-coding-standards",
+     "n_root_hits": 1,
+     "root_hit_rels": [
+      "ecc"
+     ],
+     "oracle": "ambiguity_only",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.16666666666666666,
+       "any_cover": 1
+      },
+      "stem": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.16666666666666666,
+       "any_cover": 1
+      },
+      "stem_syn": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.16666666666666666,
+       "any_cover": 1
+      }
+     }
+    },
+    {
+     "qid": "SS-0106",
+     "setting": "single_skill",
+     "lang": "ko",
+     "query": "한국어로 'HF Jobs' 키워드로 시작하는 작업을 맡기고 싶어.",
+     "gold": [
+      "hf-jobs"
+     ],
+     "class": "leaf",
+     "hit1": true,
+     "path": [
+      ".",
+      "hf",
+      "hf/hf-jobs"
+     ],
+     "leaf_id": "hf-jobs",
+     "n_root_hits": 1,
+     "root_hit_rels": [
+      "hf"
+     ],
+     "oracle": "ambiguity_only",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.5,
+       "query_token_coverage": 0.16666666666666666,
+       "any_cover": 1
+      },
+      "stem": {
+       "cover_recall": 0.5,
+       "query_token_coverage": 0.16666666666666666,
+       "any_cover": 1
+      },
+      "stem_syn": {
+       "cover_recall": 0.5,
+       "query_token_coverage": 0.16666666666666666,
+       "any_cover": 1
+      }
+     }
+    }
+   ],
+   "wrong_branch": [
+    {
+     "qid": "SS-0269",
+     "setting": "single_skill",
+     "lang": "en",
+     "query": "I'm trying to automating form interactions; route me to the right capability.",
+     "gold": [
+      "playwright-runner"
+     ],
+     "class": "wrong_branch",
+     "hit1": false,
+     "path": [
+      ".",
+      "agency",
+      "agency/agency-workflow-optimizer"
+     ],
+     "leaf_id": "agency-workflow-optimizer",
+     "n_root_hits": 1,
+     "root_hit_rels": [
+      "agency"
+     ],
+     "oracle": "group_cover_miss",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem_syn": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      }
+     }
+    }
+   ]
+  }
+ },
+ "examples": {
+  "ambiguous_root": [
+   {
+    "qid": "SS-0081",
+    "setting": "single_skill",
+    "lang": "ko",
+    "query": "다음 요청과 맞는 워크플로우를 찾아줘: 생성 관련.",
+    "gold": [
+     "agency-content-creator"
+    ],
+    "class": "ambiguous_root",
+    "hit1": false,
+    "path": [
+     "AMBIG:agency,alphaear,anthropic,e2e,kwp,misc,pr,standalone"
+    ],
+    "leaf_id": null,
+    "n_root_hits": 8,
+    "root_hit_rels": [
+     "agency",
+     "alphaear",
+     "anthropic",
+     "e2e",
+     "kwp",
+     "misc",
+     "pr",
+     "standalone"
+    ],
+    "oracle": "leaf_cover_miss",
+    "bridge": {
+     "shared_words": [
+      "생성",
+      "워크플로우"
+     ],
+     "all_hit_by_one_word": [
+      "생성"
+     ]
+    },
+    "overlap": {
+     "exact": {
+      "cover_recall": 0.0,
+      "query_token_coverage": 0.0,
+      "any_cover": 0
+     },
+     "stem": {
+      "cover_recall": 0.0,
+      "query_token_coverage": 0.0,
+      "any_cover": 0
+     },
+     "stem_syn": {
+      "cover_recall": 0.0,
+      "query_token_coverage": 0.0,
+      "any_cover": 0
+     }
+    }
+   },
+   {
+    "qid": "SS-0206",
+    "setting": "single_skill",
+    "lang": "ko",
+    "query": "다음 요청과 맞는 워크플로우를 찾아줘: 빌드 관련.",
+    "gold": [
+     "kwp-brand-voice-guideline-generation"
+    ],
+    "class": "ambiguous_root",
+    "hit1": false,
+    "path": [
+     "AMBIG:agency,kwp,misc,skill"
+    ],
+    "leaf_id": null,
+    "n_root_hits": 4,
+    "root_hit_rels": [
+     "agency",
+     "kwp",
+     "misc",
+     "skill"
+    ],
+    "oracle": "ambiguity_only",
+    "bridge": {
+     "shared_words": [
+      "빌드",
+      "워크플로우"
+     ],
+     "all_hit_by_one_word": [
+      "빌드"
+     ]
+    },
+    "overlap": {
+     "exact": {
+      "cover_recall": 0.2,
+      "query_token_coverage": 0.0,
+      "any_cover": 1
+     },
+     "stem": {
+      "cover_recall": 0.2,
+      "query_token_coverage": 0.0,
+      "any_cover": 1
+     },
+     "stem_syn": {
+      "cover_recall": 0.2,
+      "query_token_coverage": 0.0,
+      "any_cover": 1
+     }
+    }
+   },
+   {
+    "qid": "SS-0296",
+    "setting": "single_skill",
+    "lang": "ko",
+    "query": "다음 요청과 맞는 워크플로우를 찾아줘: 빌드 관련.",
+    "gold": [
+     "kwp-data-interactive-dashboard-builder"
+    ],
+    "class": "ambiguous_root",
+    "hit1": false,
+    "path": [
+     "AMBIG:agency,kwp,misc,skill"
+    ],
+    "leaf_id": null,
+    "n_root_hits": 4,
+    "root_hit_rels": [
+     "agency",
+     "kwp",
+     "misc",
+     "skill"
+    ],
+    "oracle": "ambiguity_only",
+    "bridge": {
+     "shared_words": [
+      "빌드",
+      "워크플로우"
+     ],
+     "all_hit_by_one_word": [
+      "빌드"
+     ]
+    },
+    "overlap": {
+     "exact": {
+      "cover_recall": 0.2,
+      "query_token_coverage": 0.0,
+      "any_cover": 1
+     },
+     "stem": {
+      "cover_recall": 0.2,
+      "query_token_coverage": 0.0,
+      "any_cover": 1
+     },
+     "stem_syn": {
+      "cover_recall": 0.2,
+      "query_token_coverage": 0.0,
+      "any_cover": 1
+     }
+    }
+   }
+  ],
+  "stop_group": [
+   {
+    "qid": "SS-0148",
+    "setting": "single_skill",
+    "lang": "ko",
+    "query": "I need to 문장 다듬기—which skill should handle this?",
+    "gold": [
+     "sentence-polisher"
+    ],
+    "class": "stop_group",
+    "hit1": false,
+    "path": [
+     ".",
+     "skill"
+    ],
+    "leaf_id": null,
+    "n_root_hits": 1,
+    "root_hit_rels": [
+     "skill"
+    ],
+    "oracle": "group_cover_miss",
+    "bridge": {},
+    "overlap": {
+     "exact": {
+      "cover_recall": 0.0,
+      "query_token_coverage": 0.0,
+      "any_cover": 0
+     },
+     "stem": {
+      "cover_recall": 0.0,
+      "query_token_coverage": 0.0,
+      "any_cover": 0
+     },
+     "stem_syn": {
+      "cover_recall": 0.0,
+      "query_token_coverage": 0.0,
+      "any_cover": 0
+     }
+    }
+   },
+   {
+    "qid": "SS-0015",
+    "setting": "single_skill",
+    "lang": "ko",
+    "query": "I need to 에이전트 승인—which skill should handle this?",
+    "gold": [
+     "paperclip-control"
+    ],
+    "class": "stop_group",
+    "hit1": false,
+    "path": [
+     ".",
+     "skill"
+    ],
+    "leaf_id": null,
+    "n_root_hits": 1,
+    "root_hit_rels": [
+     "skill"
+    ],
+    "oracle": "group_cover_miss",
+    "bridge": {},
+    "overlap": {
+     "exact": {
+      "cover_recall": 0.0,
+      "query_token_coverage": 0.0,
+      "any_cover": 0
+     },
+     "stem": {
+      "cover_recall": 0.0,
+      "query_token_coverage": 0.0,
+      "any_cover": 0
+     },
+     "stem_syn": {
+      "cover_recall": 0.0,
+      "query_token_coverage": 0.0,
+      "any_cover": 0
+     }
+    }
+   },
+   {
+    "qid": "SS-0365",
+    "setting": "single_skill",
+    "lang": "ko",
+    "query": "I need to 올리브영 재고—which skill should handle this?",
+    "gold": [
+     "daiso-mcp"
+    ],
+    "class": "stop_group",
+    "hit1": false,
+    "path": [
+     ".",
+     "skill"
+    ],
+    "leaf_id": null,
+    "n_root_hits": 1,
+    "root_hit_rels": [
+     "skill"
+    ],
+    "oracle": "group_cover_miss",
+    "bridge": {},
+    "overlap": {
+     "exact": {
+      "cover_recall": 0.0,
+      "query_token_coverage": 0.0,
+      "any_cover": 0
+     },
+     "stem": {
+      "cover_recall": 0.0,
+      "query_token_coverage": 0.0,
+      "any_cover": 0
+     },
+     "stem_syn": {
+      "cover_recall": 0.0,
+      "query_token_coverage": 0.0,
+      "any_cover": 0
+     }
+    }
+   }
+  ],
+  "no_match_root": [
+   {
+    "qid": "SS-0216",
+    "setting": "single_skill",
+    "lang": "ko",
+    "query": "한국어로 '모델' 키워드로 시작하는 작업을 맡기고 싶어.",
+    "gold": [
+     "kwp-operations-risk-assessment"
+    ],
+    "class": "no_match_root",
+    "hit1": false,
+    "path": [
+     "."
+    ],
+    "leaf_id": null,
+    "n_root_hits": 0,
+    "root_hit_rels": [],
+    "oracle": "group_cover_miss",
+    "bridge": {},
+    "overlap": {
+     "exact": {
+      "cover_recall": 0.0,
+      "query_token_coverage": 0.0,
+      "any_cover": 0
+     },
+     "stem": {
+      "cover_recall": 0.0,
+      "query_token_coverage": 0.0,
+      "any_cover": 0
+     },
+     "stem_syn": {
+      "cover_recall": 0.0,
+      "query_token_coverage": 0.0,
+      "any_cover": 0
+     }
+    }
+   },
+   {
+    "qid": "SS-0141",
+    "setting": "single_skill",
+    "lang": "ko",
+    "query": "한국어로 '가치 제안' 키워드로 시작하는 작업을 맡기고 싶어.",
+    "gold": [
+     "pm-product-strategy"
+    ],
+    "class": "no_match_root",
+    "hit1": false,
+    "path": [
+     "."
+    ],
+    "leaf_id": null,
+    "n_root_hits": 0,
+    "root_hit_rels": [],
+    "oracle": "group_cover_miss",
+    "bridge": {},
+    "overlap": {
+     "exact": {
+      "cover_recall": 0.0,
+      "query_token_coverage": 0.0,
+      "any_cover": 0
+     },
+     "stem": {
+      "cover_recall": 0.0,
+      "query_token_coverage": 0.0,
+      "any_cover": 0
+     },
+     "stem_syn": {
+      "cover_recall": 0.0,
+      "query_token_coverage": 0.0,
+      "any_cover": 0
+     }
+    }
+   },
+   {
+    "qid": "SS-0017",
+    "setting": "single_skill",
+    "lang": "ko",
+    "query": "I'm trying to 메일 답장; route me to the right capability.",
+    "gold": [
+     "gws-email-reply"
+    ],
+    "class": "no_match_root",
+    "hit1": false,
+    "path": [
+     "."
+    ],
+    "leaf_id": null,
+    "n_root_hits": 0,
+    "root_hit_rels": [],
+    "oracle": "group_cover_miss",
+    "bridge": {},
+    "overlap": {
+     "exact": {
+      "cover_recall": 0.0,
+      "query_token_coverage": 0.0,
+      "any_cover": 0
+     },
+     "stem": {
+      "cover_recall": 0.0,
+      "query_token_coverage": 0.0,
+      "any_cover": 0
+     },
+     "stem_syn": {
+      "cover_recall": 0.0,
+      "query_token_coverage": 0.0,
+      "any_cover": 0
+     }
+    }
+   }
+  ],
+  "ambiguous_group": [
+   {
+    "qid": "SS-0061",
+    "setting": "single_skill",
+    "lang": "ko",
+    "query": "한국어로 'E2E 오버홀' 키워드로 시작하는 작업을 맡기고 싶어.",
+    "gold": [
+     "e2e-overhaul"
+    ],
+    "class": "ambiguous_group",
+    "hit1": false,
+    "path": [
+     ".",
+     "e2e"
+    ],
+    "leaf_id": null,
+    "n_root_hits": 1,
+    "root_hit_rels": [
+     "e2e"
+    ],
+    "oracle": "ambiguity_only",
+    "bridge": {},
+    "overlap": {
+     "exact": {
+      "cover_recall": 0.4,
+      "query_token_coverage": 0.2857142857142857,
+      "any_cover": 1
+     },
+     "stem": {
+      "cover_recall": 0.4,
+      "query_token_coverage": 0.2857142857142857,
+      "any_cover": 1
+     },
+     "stem_syn": {
+      "cover_recall": 0.4,
+      "query_token_coverage": 0.2857142857142857,
+      "any_cover": 1
+     }
+    }
+   },
+   {
+    "qid": "SS-0171",
+    "setting": "single_skill",
+    "lang": "en",
+    "query": "I'm trying to /morning; route me to the right capability.",
+    "gold": [
+     "morning"
+    ],
+    "class": "ambiguous_group",
+    "hit1": false,
+    "path": [
+     ".",
+     "morning"
+    ],
+    "leaf_id": null,
+    "n_root_hits": 1,
+    "root_hit_rels": [
+     "morning"
+    ],
+    "oracle": "ambiguity_only",
+    "bridge": {},
+    "overlap": {
+     "exact": {
+      "cover_recall": 0.2,
+      "query_token_coverage": 0.2,
+      "any_cover": 1
+     },
+     "stem": {
+      "cover_recall": 0.2,
+      "query_token_coverage": 0.2,
+      "any_cover": 1
+     },
+     "stem_syn": {
+      "cover_recall": 0.2,
+      "query_token_coverage": 0.2,
+      "any_cover": 1
+     }
+    }
+   },
+   {
+    "qid": "SS-0255",
+    "setting": "single_skill",
+    "lang": "en",
+    "query": "I'm trying to Task Management; route me to the right capability.",
+    "gold": [
+     "kwp-productivity-task-management"
+    ],
+    "class": "ambiguous_group",
+    "hit1": false,
+    "path": [
+     ".",
+     "kwp"
+    ],
+    "leaf_id": null,
+    "n_root_hits": 1,
+    "root_hit_rels": [
+     "kwp"
+    ],
+    "oracle": "ambiguity_only",
+    "bridge": {},
+    "overlap": {
+     "exact": {
+      "cover_recall": 0.2,
+      "query_token_coverage": 0.2,
+      "any_cover": 1
+     },
+     "stem": {
+      "cover_recall": 0.2,
+      "query_token_coverage": 0.2,
+      "any_cover": 1
+     },
+     "stem_syn": {
+      "cover_recall": 0.2,
+      "query_token_coverage": 0.2,
+      "any_cover": 1
+     }
+    }
+   }
+  ],
+  "leaf": [
+   {
+    "qid": "SS-0066",
+    "setting": "single_skill",
+    "lang": "ko",
+    "query": "한국어로 '슬라이드' 키워드로 시작하는 작업을 맡기고 싶어.",
+    "gold": [
+     "anthropic-pptx"
+    ],
+    "class": "leaf",
+    "hit1": true,
+    "path": [
+     ".",
+     "anthropic",
+     "anthropic/anthropic-pptx"
+    ],
+    "leaf_id": "anthropic-pptx",
+    "n_root_hits": 1,
+    "root_hit_rels": [
+     "anthropic"
+    ],
+    "oracle": "ambiguity_only",
+    "bridge": {},
+    "overlap": {
+     "exact": {
+      "cover_recall": 0.2,
+      "query_token_coverage": 0.16666666666666666,
+      "any_cover": 1
+     },
+     "stem": {
+      "cover_recall": 0.2,
+      "query_token_coverage": 0.16666666666666666,
+      "any_cover": 1
+     },
+     "stem_syn": {
+      "cover_recall": 0.2,
+      "query_token_coverage": 0.16666666666666666,
+      "any_cover": 1
+     }
+    }
+   },
+   {
+    "qid": "SS-0251",
+    "setting": "single_skill",
+    "lang": "ko",
+    "query": "한국어로 '코드 스타일' 키워드로 시작하는 작업을 맡기고 싶어.",
+    "gold": [
+     "ecc-coding-standards"
+    ],
+    "class": "leaf",
+    "hit1": true,
+    "path": [
+     ".",
+     "ecc",
+     "ecc/ecc-coding-standards"
+    ],
+    "leaf_id": "ecc-coding-standards",
+    "n_root_hits": 1,
+    "root_hit_rels": [
+     "ecc"
+    ],
+    "oracle": "ambiguity_only",
+    "bridge": {},
+    "overlap": {
+     "exact": {
+      "cover_recall": 0.2,
+      "query_token_coverage": 0.16666666666666666,
+      "any_cover": 1
+     },
+     "stem": {
+      "cover_recall": 0.2,
+      "query_token_coverage": 0.16666666666666666,
+      "any_cover": 1
+     },
+     "stem_syn": {
+      "cover_recall": 0.2,
+      "query_token_coverage": 0.16666666666666666,
+      "any_cover": 1
+     }
+    }
+   },
+   {
+    "qid": "SS-0106",
+    "setting": "single_skill",
+    "lang": "ko",
+    "query": "한국어로 'HF Jobs' 키워드로 시작하는 작업을 맡기고 싶어.",
+    "gold": [
+     "hf-jobs"
+    ],
+    "class": "leaf",
+    "hit1": true,
+    "path": [
+     ".",
+     "hf",
+     "hf/hf-jobs"
+    ],
+    "leaf_id": "hf-jobs",
+    "n_root_hits": 1,
+    "root_hit_rels": [
+     "hf"
+    ],
+    "oracle": "ambiguity_only",
+    "bridge": {},
+    "overlap": {
+     "exact": {
+      "cover_recall": 0.5,
+      "query_token_coverage": 0.16666666666666666,
+      "any_cover": 1
+     },
+     "stem": {
+      "cover_recall": 0.5,
+      "query_token_coverage": 0.16666666666666666,
+      "any_cover": 1
+     },
+     "stem_syn": {
+      "cover_recall": 0.5,
+      "query_token_coverage": 0.16666666666666666,
+      "any_cover": 1
+     }
+    }
+   }
+  ],
+  "wrong_branch": [
+   {
+    "qid": "SS-0269",
+    "setting": "single_skill",
+    "lang": "en",
+    "query": "I'm trying to automating form interactions; route me to the right capability.",
+    "gold": [
+     "playwright-runner"
+    ],
+    "class": "wrong_branch",
+    "hit1": false,
+    "path": [
+     ".",
+     "agency",
+     "agency/agency-workflow-optimizer"
+    ],
+    "leaf_id": "agency-workflow-optimizer",
+    "n_root_hits": 1,
+    "root_hit_rels": [
+     "agency"
+    ],
+    "oracle": "group_cover_miss",
+    "bridge": {},
+    "overlap": {
+     "exact": {
+      "cover_recall": 0.0,
+      "query_token_coverage": 0.0,
+      "any_cover": 0
+     },
+     "stem": {
+      "cover_recall": 0.0,
+      "query_token_coverage": 0.0,
+      "any_cover": 0
+     },
+     "stem_syn": {
+      "cover_recall": 0.0,
+      "query_token_coverage": 0.0,
+      "any_cover": 0
+     }
+    }
+   }
+  ]
+ }
+}

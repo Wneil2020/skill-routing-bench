@@ -1,0 +1,8 @@
+---
+name: "binary-lifting"
+description: "Use when the task involves analyze code: covers binary, lifting, converting, decompilation, deobfuscation"
+---
+
+# binary-lifting
+
+Expertise in binary lifting techniques - converting machine code to LLVM IR for analysis, decompilation, and recompilation. Use this skill when working on reverse engineering, binary analysis, deobfuscation, or converting binaries to higher-level representations.

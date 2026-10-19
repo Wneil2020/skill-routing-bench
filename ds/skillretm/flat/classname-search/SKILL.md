@@ -1,0 +1,8 @@
+---
+name: "classname-search"
+description: "Use when the task involves search code: covers classname, search, class, individually., names."
+---
+
+# classname-search
+
+A CLI tool that searches inside class and className attributes and matches against each class name individually. Use this instead of grep when searching or replacing class names.

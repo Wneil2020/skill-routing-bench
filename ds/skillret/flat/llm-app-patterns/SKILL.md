@@ -1,0 +1,8 @@
+---
+name: "llm-app-patterns"
+description: "Use when the task involves design agent_skill: covers llm, app, patterns, rag, ides"
+---
+
+# llm-app-patterns
+
+Production-ready patterns for building LLM applications. Covers RAG pipelines, agent architectures, prompt IDEs, and LLMOps monitoring. Use when designing AI applications, implementing RAG, building agents, or setting up LLM observability.

@@ -1,0 +1,8 @@
+---
+name: "test-reporting-analytics"
+description: "Use when the task involves analyze test_suite: covers test, reporting, analytics, predictive, quality"
+---
+
+# test-reporting-analytics
+
+Advanced test reporting, quality dashboards, predictive analytics, trend analysis, and executive reporting for QE metrics. Use when communicating quality status, tracking trends, or making data-driven decisions.

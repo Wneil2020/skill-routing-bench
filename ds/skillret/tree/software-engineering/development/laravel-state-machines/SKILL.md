@@ -1,0 +1,8 @@
+---
+name: "laravel-state-machines"
+description: "Use when the task involves implement code: covers laravel, state, machines, spatie, transitions"
+---
+
+# laravel-state-machines
+
+State machines using Spatie Model States for complex state transitions. Use when working with complex state management, state transitions, or when user mentions state machines, Spatie Model States, state transitions, transition validation.

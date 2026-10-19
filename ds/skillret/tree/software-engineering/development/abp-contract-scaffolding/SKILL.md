@@ -1,0 +1,8 @@
+---
+name: "abp-contract-scaffolding"
+description: "Use when the task involves generate code: covers abp, contract, scaffolding, contracts, parallel"
+---
+
+# abp-contract-scaffolding
+
+Generate ABP Application.Contracts layer scaffolding (interfaces, DTOs, permissions) from technical design. Enables parallel development by abp-developer and qa-engineer. Use when: (1) backend-architect needs to generate contracts, (2) preparing for parallel implementation workflow, (3) creating API

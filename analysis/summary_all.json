@@ -1,0 +1,1788 @@
+{
+ "srb": {
+  "dataset": "srb",
+  "n": 1250,
+  "hit1": 0.0056,
+  "classes": {
+   "ambiguous_root": {
+    "n": 1212,
+    "pct": 0.9696
+   },
+   "no_match_root": {
+    "n": 9,
+    "pct": 0.0072
+   },
+   "stop_group": {
+    "n": 15,
+    "pct": 0.012
+   },
+   "ambiguous_group": {
+    "n": 6,
+    "pct": 0.0048
+   },
+   "wrong_branch": {
+    "n": 1,
+    "pct": 0.0008
+   },
+   "leaf_wrong": {
+    "n": 0,
+    "pct": 0.0
+   },
+   "leaf": {
+    "n": 7,
+    "pct": 0.0056
+   }
+  },
+  "oracle": {
+   "ambiguity_only": {
+    "n": 928,
+    "pct": 0.7424
+   },
+   "group_cover_miss": {
+    "n": 210,
+    "pct": 0.168
+   },
+   "leaf_cover_miss": {
+    "n": 112,
+    "pct": 0.0896
+   }
+  },
+  "root_hits": {
+   "mean": 7.2448,
+   "max": 19,
+   "ge2": 1212,
+   "hist": {
+    "0": 9,
+    "1": 29,
+    "2": 58,
+    "3": 88,
+    "4": 91,
+    "5": 140,
+    "6": 157,
+    "7": 122,
+    "8": 121,
+    "9": 119,
+    "10": 94,
+    "11": 77,
+    "12": 42,
+    "13": 42,
+    "14": 34,
+    "15": 9,
+    "16": 10,
+    "17": 5,
+    "18": 2,
+    "19": 1
+   }
+  },
+  "ambiguity": {
+   "n": 1212,
+   "one_word_explains_all": 51,
+   "top_bridge_words": [
+    {
+     "word": "skills",
+     "queries": 580,
+     "groups": 46
+    },
+    {
+     "word": "candidate",
+     "queries": 202,
+     "groups": 44
+    },
+    {
+     "word": "docs",
+     "queries": 157,
+     "groups": 41
+    },
+    {
+     "word": "automation",
+     "queries": 125,
+     "groups": 46
+    },
+    {
+     "word": "calendar",
+     "queries": 82,
+     "groups": 45
+    },
+    {
+     "word": "email",
+     "queries": 81,
+     "groups": 45
+    },
+    {
+     "word": "stock",
+     "queries": 48,
+     "groups": 31
+    },
+    {
+     "word": "daily",
+     "queries": 47,
+     "groups": 36
+    },
+    {
+     "word": "review",
+     "queries": 42,
+     "groups": 38
+    },
+    {
+     "word": "analysis",
+     "queries": 41,
+     "groups": 32
+    },
+    {
+     "word": "pipeline",
+     "queries": 33,
+     "groups": 37
+    },
+    {
+     "word": "market",
+     "queries": 32,
+     "groups": 31
+    },
+    {
+     "word": "research",
+     "queries": 31,
+     "groups": 29
+    },
+    {
+     "word": "expert",
+     "queries": 30,
+     "groups": 40
+    },
+    {
+     "word": "generator",
+     "queries": 25,
+     "groups": 36
+    },
+    {
+     "word": "design",
+     "queries": 24,
+     "groups": 29
+    },
+    {
+     "word": "data",
+     "queries": 24,
+     "groups": 26
+    },
+    {
+     "word": "sync",
+     "queries": 23,
+     "groups": 35
+    },
+    {
+     "word": "스킬",
+     "queries": 22,
+     "groups": 19
+    },
+    {
+     "word": "orchestrator",
+     "queries": 22,
+     "groups": 36
+    }
+   ]
+  },
+  "llm_cross": {
+   "llm_hit__holon_miss": 153,
+   "llm_miss__holon_miss": 144,
+   "llm_hit__holon_hit": 2,
+   "llm_miss__holon_hit": 1
+  },
+  "llm_n": 300,
+  "llm_right_holon_wrong": {
+   "n": 153,
+   "oracle": {
+    "ambiguity_only": 125,
+    "group_cover_miss": 21,
+    "leaf_cover_miss": 7
+   },
+   "exact": {
+    "cover_recall": 0.3104575163398693,
+    "query_token_coverage": 0.1432957686193164,
+    "any_cover": 0.8235294117647058
+   },
+   "stem": {
+    "cover_recall": 0.334640522875817,
+    "query_token_coverage": 0.14799465581373744,
+    "any_cover": 0.8366013071895425
+   },
+   "stem_syn": {
+    "cover_recall": 0.3333333333333333,
+    "query_token_coverage": 0.1471224332863823,
+    "any_cover": 0.8300653594771242
+   }
+  },
+  "holon_wrong_all_overlap": {
+   "exact": {
+    "cover_recall": 0.278828104049343,
+    "query_token_coverage": 0.10652888993000252,
+    "any_cover": 0.7506033789219629
+   },
+   "stem_syn": {
+    "cover_recall": 0.3045588629659426,
+    "query_token_coverage": 0.11219581178102274,
+    "any_cover": 0.7771520514883347
+   }
+  },
+  "examples": {
+   "ambiguous_root": [
+    {
+     "qid": "SS-0081",
+     "setting": "single_skill",
+     "lang": "ko",
+     "query": "다음 요청과 맞는 워크플로우를 찾아줘: 생성 관련.",
+     "gold": [
+      "agency-content-creator"
+     ],
+     "class": "ambiguous_root",
+     "hit1": false,
+     "path": [
+      "AMBIG:agency,alphaear,anthropic,e2e,kwp,misc,pr,standalone"
+     ],
+     "leaf_id": null,
+     "n_root_hits": 8,
+     "root_hit_rels": [
+      "agency",
+      "alphaear",
+      "anthropic",
+      "e2e",
+      "kwp",
+      "misc",
+      "pr",
+      "standalone"
+     ],
+     "oracle": "leaf_cover_miss",
+     "bridge": {
+      "shared_words": [
+       "생성",
+       "워크플로우"
+      ],
+      "all_hit_by_one_word": [
+       "생성"
+      ]
+     },
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem_syn": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      }
+     }
+    },
+    {
+     "qid": "SS-0206",
+     "setting": "single_skill",
+     "lang": "ko",
+     "query": "다음 요청과 맞는 워크플로우를 찾아줘: 빌드 관련.",
+     "gold": [
+      "kwp-brand-voice-guideline-generation"
+     ],
+     "class": "ambiguous_root",
+     "hit1": false,
+     "path": [
+      "AMBIG:agency,kwp,misc,skill"
+     ],
+     "leaf_id": null,
+     "n_root_hits": 4,
+     "root_hit_rels": [
+      "agency",
+      "kwp",
+      "misc",
+      "skill"
+     ],
+     "oracle": "ambiguity_only",
+     "bridge": {
+      "shared_words": [
+       "빌드",
+       "워크플로우"
+      ],
+      "all_hit_by_one_word": [
+       "빌드"
+      ]
+     },
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.0,
+       "any_cover": 1
+      },
+      "stem": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.0,
+       "any_cover": 1
+      },
+      "stem_syn": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.0,
+       "any_cover": 1
+      }
+     }
+    },
+    {
+     "qid": "SS-0296",
+     "setting": "single_skill",
+     "lang": "ko",
+     "query": "다음 요청과 맞는 워크플로우를 찾아줘: 빌드 관련.",
+     "gold": [
+      "kwp-data-interactive-dashboard-builder"
+     ],
+     "class": "ambiguous_root",
+     "hit1": false,
+     "path": [
+      "AMBIG:agency,kwp,misc,skill"
+     ],
+     "leaf_id": null,
+     "n_root_hits": 4,
+     "root_hit_rels": [
+      "agency",
+      "kwp",
+      "misc",
+      "skill"
+     ],
+     "oracle": "ambiguity_only",
+     "bridge": {
+      "shared_words": [
+       "빌드",
+       "워크플로우"
+      ],
+      "all_hit_by_one_word": [
+       "빌드"
+      ]
+     },
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.0,
+       "any_cover": 1
+      },
+      "stem": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.0,
+       "any_cover": 1
+      },
+      "stem_syn": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.0,
+       "any_cover": 1
+      }
+     }
+    }
+   ],
+   "stop_group": [
+    {
+     "qid": "SS-0148",
+     "setting": "single_skill",
+     "lang": "ko",
+     "query": "I need to 문장 다듬기—which skill should handle this?",
+     "gold": [
+      "sentence-polisher"
+     ],
+     "class": "stop_group",
+     "hit1": false,
+     "path": [
+      ".",
+      "skill"
+     ],
+     "leaf_id": null,
+     "n_root_hits": 1,
+     "root_hit_rels": [
+      "skill"
+     ],
+     "oracle": "group_cover_miss",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem_syn": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      }
+     }
+    },
+    {
+     "qid": "SS-0015",
+     "setting": "single_skill",
+     "lang": "ko",
+     "query": "I need to 에이전트 승인—which skill should handle this?",
+     "gold": [
+      "paperclip-control"
+     ],
+     "class": "stop_group",
+     "hit1": false,
+     "path": [
+      ".",
+      "skill"
+     ],
+     "leaf_id": null,
+     "n_root_hits": 1,
+     "root_hit_rels": [
+      "skill"
+     ],
+     "oracle": "group_cover_miss",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem_syn": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      }
+     }
+    },
+    {
+     "qid": "SS-0365",
+     "setting": "single_skill",
+     "lang": "ko",
+     "query": "I need to 올리브영 재고—which skill should handle this?",
+     "gold": [
+      "daiso-mcp"
+     ],
+     "class": "stop_group",
+     "hit1": false,
+     "path": [
+      ".",
+      "skill"
+     ],
+     "leaf_id": null,
+     "n_root_hits": 1,
+     "root_hit_rels": [
+      "skill"
+     ],
+     "oracle": "group_cover_miss",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem_syn": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      }
+     }
+    }
+   ],
+   "no_match_root": [
+    {
+     "qid": "SS-0216",
+     "setting": "single_skill",
+     "lang": "ko",
+     "query": "한국어로 '모델' 키워드로 시작하는 작업을 맡기고 싶어.",
+     "gold": [
+      "kwp-operations-risk-assessment"
+     ],
+     "class": "no_match_root",
+     "hit1": false,
+     "path": [
+      "."
+     ],
+     "leaf_id": null,
+     "n_root_hits": 0,
+     "root_hit_rels": [],
+     "oracle": "group_cover_miss",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem_syn": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      }
+     }
+    },
+    {
+     "qid": "SS-0141",
+     "setting": "single_skill",
+     "lang": "ko",
+     "query": "한국어로 '가치 제안' 키워드로 시작하는 작업을 맡기고 싶어.",
+     "gold": [
+      "pm-product-strategy"
+     ],
+     "class": "no_match_root",
+     "hit1": false,
+     "path": [
+      "."
+     ],
+     "leaf_id": null,
+     "n_root_hits": 0,
+     "root_hit_rels": [],
+     "oracle": "group_cover_miss",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem_syn": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      }
+     }
+    },
+    {
+     "qid": "SS-0017",
+     "setting": "single_skill",
+     "lang": "ko",
+     "query": "I'm trying to 메일 답장; route me to the right capability.",
+     "gold": [
+      "gws-email-reply"
+     ],
+     "class": "no_match_root",
+     "hit1": false,
+     "path": [
+      "."
+     ],
+     "leaf_id": null,
+     "n_root_hits": 0,
+     "root_hit_rels": [],
+     "oracle": "group_cover_miss",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem_syn": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      }
+     }
+    }
+   ],
+   "ambiguous_group": [
+    {
+     "qid": "SS-0061",
+     "setting": "single_skill",
+     "lang": "ko",
+     "query": "한국어로 'E2E 오버홀' 키워드로 시작하는 작업을 맡기고 싶어.",
+     "gold": [
+      "e2e-overhaul"
+     ],
+     "class": "ambiguous_group",
+     "hit1": false,
+     "path": [
+      ".",
+      "e2e"
+     ],
+     "leaf_id": null,
+     "n_root_hits": 1,
+     "root_hit_rels": [
+      "e2e"
+     ],
+     "oracle": "ambiguity_only",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.4,
+       "query_token_coverage": 0.2857142857142857,
+       "any_cover": 1
+      },
+      "stem": {
+       "cover_recall": 0.4,
+       "query_token_coverage": 0.2857142857142857,
+       "any_cover": 1
+      },
+      "stem_syn": {
+       "cover_recall": 0.4,
+       "query_token_coverage": 0.2857142857142857,
+       "any_cover": 1
+      }
+     }
+    },
+    {
+     "qid": "SS-0171",
+     "setting": "single_skill",
+     "lang": "en",
+     "query": "I'm trying to /morning; route me to the right capability.",
+     "gold": [
+      "morning"
+     ],
+     "class": "ambiguous_group",
+     "hit1": false,
+     "path": [
+      ".",
+      "morning"
+     ],
+     "leaf_id": null,
+     "n_root_hits": 1,
+     "root_hit_rels": [
+      "morning"
+     ],
+     "oracle": "ambiguity_only",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.2,
+       "any_cover": 1
+      },
+      "stem": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.2,
+       "any_cover": 1
+      },
+      "stem_syn": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.2,
+       "any_cover": 1
+      }
+     }
+    },
+    {
+     "qid": "SS-0255",
+     "setting": "single_skill",
+     "lang": "en",
+     "query": "I'm trying to Task Management; route me to the right capability.",
+     "gold": [
+      "kwp-productivity-task-management"
+     ],
+     "class": "ambiguous_group",
+     "hit1": false,
+     "path": [
+      ".",
+      "kwp"
+     ],
+     "leaf_id": null,
+     "n_root_hits": 1,
+     "root_hit_rels": [
+      "kwp"
+     ],
+     "oracle": "ambiguity_only",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.2,
+       "any_cover": 1
+      },
+      "stem": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.2,
+       "any_cover": 1
+      },
+      "stem_syn": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.2,
+       "any_cover": 1
+      }
+     }
+    }
+   ],
+   "leaf": [
+    {
+     "qid": "SS-0066",
+     "setting": "single_skill",
+     "lang": "ko",
+     "query": "한국어로 '슬라이드' 키워드로 시작하는 작업을 맡기고 싶어.",
+     "gold": [
+      "anthropic-pptx"
+     ],
+     "class": "leaf",
+     "hit1": true,
+     "path": [
+      ".",
+      "anthropic",
+      "anthropic/anthropic-pptx"
+     ],
+     "leaf_id": "anthropic-pptx",
+     "n_root_hits": 1,
+     "root_hit_rels": [
+      "anthropic"
+     ],
+     "oracle": "ambiguity_only",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.16666666666666666,
+       "any_cover": 1
+      },
+      "stem": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.16666666666666666,
+       "any_cover": 1
+      },
+      "stem_syn": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.16666666666666666,
+       "any_cover": 1
+      }
+     }
+    },
+    {
+     "qid": "SS-0251",
+     "setting": "single_skill",
+     "lang": "ko",
+     "query": "한국어로 '코드 스타일' 키워드로 시작하는 작업을 맡기고 싶어.",
+     "gold": [
+      "ecc-coding-standards"
+     ],
+     "class": "leaf",
+     "hit1": true,
+     "path": [
+      ".",
+      "ecc",
+      "ecc/ecc-coding-standards"
+     ],
+     "leaf_id": "ecc-coding-standards",
+     "n_root_hits": 1,
+     "root_hit_rels": [
+      "ecc"
+     ],
+     "oracle": "ambiguity_only",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.16666666666666666,
+       "any_cover": 1
+      },
+      "stem": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.16666666666666666,
+       "any_cover": 1
+      },
+      "stem_syn": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.16666666666666666,
+       "any_cover": 1
+      }
+     }
+    },
+    {
+     "qid": "SS-0106",
+     "setting": "single_skill",
+     "lang": "ko",
+     "query": "한국어로 'HF Jobs' 키워드로 시작하는 작업을 맡기고 싶어.",
+     "gold": [
+      "hf-jobs"
+     ],
+     "class": "leaf",
+     "hit1": true,
+     "path": [
+      ".",
+      "hf",
+      "hf/hf-jobs"
+     ],
+     "leaf_id": "hf-jobs",
+     "n_root_hits": 1,
+     "root_hit_rels": [
+      "hf"
+     ],
+     "oracle": "ambiguity_only",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.5,
+       "query_token_coverage": 0.16666666666666666,
+       "any_cover": 1
+      },
+      "stem": {
+       "cover_recall": 0.5,
+       "query_token_coverage": 0.16666666666666666,
+       "any_cover": 1
+      },
+      "stem_syn": {
+       "cover_recall": 0.5,
+       "query_token_coverage": 0.16666666666666666,
+       "any_cover": 1
+      }
+     }
+    }
+   ],
+   "wrong_branch": [
+    {
+     "qid": "SS-0269",
+     "setting": "single_skill",
+     "lang": "en",
+     "query": "I'm trying to automating form interactions; route me to the right capability.",
+     "gold": [
+      "playwright-runner"
+     ],
+     "class": "wrong_branch",
+     "hit1": false,
+     "path": [
+      ".",
+      "agency",
+      "agency/agency-workflow-optimizer"
+     ],
+     "leaf_id": "agency-workflow-optimizer",
+     "n_root_hits": 1,
+     "root_hit_rels": [
+      "agency"
+     ],
+     "oracle": "group_cover_miss",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem_syn": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      }
+     }
+    }
+   ]
+  }
+ },
+ "toolret": {
+  "dataset": "toolret",
+  "n": 200,
+  "hit1": 0.045,
+  "classes": {
+   "ambiguous_root": {
+    "n": 147,
+    "pct": 0.735
+   },
+   "no_match_root": {
+    "n": 12,
+    "pct": 0.06
+   },
+   "stop_group": {
+    "n": 0,
+    "pct": 0.0
+   },
+   "ambiguous_group": {
+    "n": 13,
+    "pct": 0.065
+   },
+   "wrong_branch": {
+    "n": 16,
+    "pct": 0.08
+   },
+   "leaf_wrong": {
+    "n": 3,
+    "pct": 0.015
+   },
+   "leaf": {
+    "n": 9,
+    "pct": 0.045
+   }
+  },
+  "oracle": {
+   "ambiguity_only": {
+    "n": 108,
+    "pct": 0.54
+   },
+   "leaf_cover_miss": {
+    "n": 27,
+    "pct": 0.135
+   },
+   "group_cover_miss": {
+    "n": 65,
+    "pct": 0.325
+   }
+  },
+  "root_hits": {
+   "mean": 2.53,
+   "max": 9,
+   "ge2": 147,
+   "hist": {
+    "0": 12,
+    "1": 41,
+    "2": 51,
+    "3": 51,
+    "4": 27,
+    "5": 11,
+    "6": 4,
+    "7": 2,
+    "9": 1
+   }
+  },
+  "ambiguity": {
+   "n": 147,
+   "one_word_explains_all": 6,
+   "top_bridge_words": [
+    {
+     "word": "research",
+     "queries": 10,
+     "groups": 10
+    },
+    {
+     "word": "website",
+     "queries": 6,
+     "groups": 8
+    },
+    {
+     "word": "pdf",
+     "queries": 6,
+     "groups": 8
+    },
+    {
+     "word": "search",
+     "queries": 6,
+     "groups": 7
+    },
+    {
+     "word": "create",
+     "queries": 5,
+     "groups": 7
+    },
+    {
+     "word": "product",
+     "queries": 4,
+     "groups": 9
+    },
+    {
+     "word": "media",
+     "queries": 2,
+     "groups": 9
+    },
+    {
+     "word": "image",
+     "queries": 2,
+     "groups": 5
+    },
+    {
+     "word": "ai",
+     "queries": 2,
+     "groups": 9
+    },
+    {
+     "word": "anything",
+     "queries": 1,
+     "groups": 3
+    }
+   ]
+  },
+  "llm_cross": {
+   "llm_hit__holon_miss": 123,
+   "llm_hit__holon_hit": 9,
+   "llm_miss__holon_miss": 68
+  },
+  "llm_n": 200,
+  "llm_right_holon_wrong": {
+   "n": 123,
+   "oracle": {
+    "ambiguity_only": 81,
+    "leaf_cover_miss": 9,
+    "group_cover_miss": 33
+   },
+   "exact": {
+    "cover_recall": 0.15712349980642662,
+    "query_token_coverage": 0.07992124306563675,
+    "any_cover": 0.6585365853658537
+   },
+   "stem": {
+    "cover_recall": 0.21790553619821912,
+    "query_token_coverage": 0.10847358993520341,
+    "any_cover": 0.7560975609756098
+   },
+   "stem_syn": {
+    "cover_recall": 0.22185443283004258,
+    "query_token_coverage": 0.11146838747449621,
+    "any_cover": 0.7723577235772358
+   }
+  },
+  "holon_wrong_all_overlap": {
+   "exact": {
+    "cover_recall": 0.11786337571677886,
+    "query_token_coverage": 0.06063427961631076,
+    "any_cover": 0.5235602094240838
+   },
+   "stem_syn": {
+    "cover_recall": 0.1726377461979556,
+    "query_token_coverage": 0.08813455711898771,
+    "any_cover": 0.643979057591623
+   }
+  },
+  "examples": {
+   "ambiguous_root": [
+    {
+     "qid": "metatool_which_query_177",
+     "setting": "all",
+     "lang": "en",
+     "query": "How does one create an android app?",
+     "gold": [
+      "metatool_which_tool_199"
+     ],
+     "class": "ambiguous_root",
+     "hit1": false,
+     "path": [
+      "AMBIG:ai2sql-box,aus-notes,trip-urltool"
+     ],
+     "leaf_id": null,
+     "n_root_hits": 3,
+     "root_hit_rels": [
+      "ai2sql-box",
+      "aus-notes",
+      "trip-urltool"
+     ],
+     "oracle": "leaf_cover_miss",
+     "bridge": {
+      "shared_words": [
+       "create"
+      ],
+      "all_hit_by_one_word": []
+     },
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem_syn": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      }
+     }
+    },
+    {
+     "qid": "metatool_which_query_9",
+     "setting": "all",
+     "lang": "en",
+     "query": "Write a knock knock joke about bananas.",
+     "gold": [
+      "metatool_which_tool_199"
+     ],
+     "class": "ambiguous_root",
+     "hit1": false,
+     "path": [
+      "AMBIG:aus-notes,house-clearbit"
+     ],
+     "leaf_id": null,
+     "n_root_hits": 2,
+     "root_hit_rels": [
+      "aus-notes",
+      "house-clearbit"
+     ],
+     "oracle": "leaf_cover_miss",
+     "bridge": {
+      "shared_words": [],
+      "all_hit_by_one_word": []
+     },
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem_syn": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      }
+     }
+    },
+    {
+     "qid": "metatool_which_query_164",
+     "setting": "all",
+     "lang": "en",
+     "query": "I need help creating an AI-Powered Form.",
+     "gold": [
+      "metatool_which_tool_164"
+     ],
+     "class": "ambiguous_root",
+     "hit1": false,
+     "path": [
+      "AMBIG:ads-book,ai2sql-box,aus-notes"
+     ],
+     "leaf_id": null,
+     "n_root_hits": 3,
+     "root_hit_rels": [
+      "ads-book",
+      "ai2sql-box",
+      "aus-notes"
+     ],
+     "oracle": "ambiguity_only",
+     "bridge": {
+      "shared_words": [
+       "ai"
+      ],
+      "all_hit_by_one_word": [
+       "ai"
+      ]
+     },
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.14285714285714285,
+       "query_token_coverage": 0.3333333333333333,
+       "any_cover": 1
+      },
+      "stem": {
+       "cover_recall": 0.14285714285714285,
+       "query_token_coverage": 0.3333333333333333,
+       "any_cover": 1
+      },
+      "stem_syn": {
+       "cover_recall": 0.14285714285714285,
+       "query_token_coverage": 0.3333333333333333,
+       "any_cover": 1
+      }
+     }
+    }
+   ],
+   "leaf": [
+    {
+     "qid": "metatool_which_query_34",
+     "setting": "all",
+     "lang": "en",
+     "query": "I need to memorize the periodic table, can you help me make flashcards?",
+     "gold": [
+      "metatool_which_tool_10"
+     ],
+     "class": "leaf",
+     "hit1": true,
+     "path": [
+      ".",
+      "trip-urltool",
+      "trip-urltool/memory-tool"
+     ],
+     "leaf_id": "metatool_which_tool_10",
+     "n_root_hits": 1,
+     "root_hit_rels": [
+      "trip-urltool"
+     ],
+     "oracle": "ambiguity_only",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.14285714285714285,
+       "query_token_coverage": 0.2,
+       "any_cover": 1
+      },
+      "stem": {
+       "cover_recall": 0.14285714285714285,
+       "query_token_coverage": 0.2,
+       "any_cover": 1
+      },
+      "stem_syn": {
+       "cover_recall": 0.14285714285714285,
+       "query_token_coverage": 0.2,
+       "any_cover": 1
+      }
+     }
+    },
+    {
+     "qid": "metatool_which_query_153",
+     "setting": "all",
+     "lang": "en",
+     "query": "This Magic: The Gathering rule is so confusing! Can you clarify it for me?",
+     "gold": [
+      "metatool_which_tool_69"
+     ],
+     "class": "leaf",
+     "hit1": true,
+     "path": [
+      ".",
+      "house-clearbit",
+      "house-clearbit/magi-codex"
+     ],
+     "leaf_id": "metatool_which_tool_69",
+     "n_root_hits": 1,
+     "root_hit_rels": [
+      "house-clearbit"
+     ],
+     "oracle": "ambiguity_only",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.2857142857142857,
+       "query_token_coverage": 0.4,
+       "any_cover": 1
+      },
+      "stem": {
+       "cover_recall": 0.42857142857142855,
+       "query_token_coverage": 0.6,
+       "any_cover": 1
+      },
+      "stem_syn": {
+       "cover_recall": 0.42857142857142855,
+       "query_token_coverage": 0.6,
+       "any_cover": 1
+      }
+     }
+    },
+    {
+     "qid": "metatool_which_query_23",
+     "setting": "all",
+     "lang": "en",
+     "query": "I need the analysis of COVID-19's impact on global economy from academic sources.",
+     "gold": [
+      "metatool_which_tool_39"
+     ],
+     "class": "leaf",
+     "hit1": true,
+     "path": [
+      ".",
+      "research-finder",
+      "research-finder/research-finder"
+     ],
+     "leaf_id": "metatool_which_tool_39",
+     "n_root_hits": 1,
+     "root_hit_rels": [
+      "research-finder"
+     ],
+     "oracle": "ambiguity_only",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.14285714285714285,
+       "any_cover": 1
+      },
+      "stem": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.14285714285714285,
+       "any_cover": 1
+      },
+      "stem_syn": {
+       "cover_recall": 0.2,
+       "query_token_coverage": 0.14285714285714285,
+       "any_cover": 1
+      }
+     }
+    }
+   ],
+   "wrong_branch": [
+    {
+     "qid": "metatool_which_query_146",
+     "setting": "all",
+     "lang": "en",
+     "query": "Rate my recall of the last flashcard as",
+     "gold": [
+      "metatool_which_tool_10"
+     ],
+     "class": "wrong_branch",
+     "hit1": false,
+     "path": [
+      ".",
+      "aus-notes",
+      "aus-notes/supercharge-my-ev"
+     ],
+     "leaf_id": "metatool_which_tool_95",
+     "n_root_hits": 1,
+     "root_hit_rels": [
+      "aus-notes"
+     ],
+     "oracle": "group_cover_miss",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem": {
+       "cover_recall": 0.14285714285714285,
+       "query_token_coverage": 0.25,
+       "any_cover": 1
+      },
+      "stem_syn": {
+       "cover_recall": 0.14285714285714285,
+       "query_token_coverage": 0.25,
+       "any_cover": 1
+      }
+     }
+    },
+    {
+     "qid": "metatool_which_query_151",
+     "setting": "all",
+     "lang": "en",
+     "query": "Do you have any cooking tips I can use?",
+     "gold": [
+      "metatool_which_tool_190"
+     ],
+     "class": "wrong_branch",
+     "hit1": false,
+     "path": [
+      ".",
+      "aus-notes",
+      "aus-notes/notes-tool"
+     ],
+     "leaf_id": "metatool_which_tool_9",
+     "n_root_hits": 1,
+     "root_hit_rels": [
+      "aus-notes"
+     ],
+     "oracle": "group_cover_miss",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem_syn": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      }
+     }
+    },
+    {
+     "qid": "metatool_which_query_141",
+     "setting": "all",
+     "lang": "en",
+     "query": "What is the best performing stock this month?",
+     "gold": [
+      "metatool_which_tool_0"
+     ],
+     "class": "wrong_branch",
+     "hit1": false,
+     "path": [
+      ".",
+      "ads-book",
+      "ads-book/what-to-watch"
+     ],
+     "leaf_id": "metatool_which_tool_109",
+     "n_root_hits": 1,
+     "root_hit_rels": [
+      "ads-book"
+     ],
+     "oracle": "group_cover_miss",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem": {
+       "cover_recall": 0.14285714285714285,
+       "query_token_coverage": 0.25,
+       "any_cover": 1
+      },
+      "stem_syn": {
+       "cover_recall": 0.14285714285714285,
+       "query_token_coverage": 0.25,
+       "any_cover": 1
+      }
+     }
+    }
+   ],
+   "no_match_root": [
+    {
+     "qid": "metatool_which_query_150",
+     "setting": "all",
+     "lang": "en",
+     "query": "Certainly!",
+     "gold": [
+      "metatool_which_tool_7"
+     ],
+     "class": "no_match_root",
+     "hit1": false,
+     "path": [
+      "."
+     ],
+     "leaf_id": null,
+     "n_root_hits": 0,
+     "root_hit_rels": [],
+     "oracle": "group_cover_miss",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem_syn": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      }
+     }
+    },
+    {
+     "qid": "metatool_which_query_51",
+     "setting": "all",
+     "lang": "en",
+     "query": "Give me the definition of the word. Word: scarce.",
+     "gold": [
+      "metatool_which_tool_199"
+     ],
+     "class": "no_match_root",
+     "hit1": false,
+     "path": [
+      "."
+     ],
+     "leaf_id": null,
+     "n_root_hits": 0,
+     "root_hit_rels": [],
+     "oracle": "group_cover_miss",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem_syn": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      }
+     }
+    },
+    {
+     "qid": "metatool_which_query_176",
+     "setting": "all",
+     "lang": "en",
+     "query": "Can you help me find a good pair of running shoes?",
+     "gold": [
+      "metatool_which_tool_42"
+     ],
+     "class": "no_match_root",
+     "hit1": false,
+     "path": [
+      "."
+     ],
+     "leaf_id": null,
+     "n_root_hits": 0,
+     "root_hit_rels": [],
+     "oracle": "group_cover_miss",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem_syn": {
+       "cover_recall": 0.14285714285714285,
+       "query_token_coverage": 0.2,
+       "any_cover": 1
+      }
+     }
+    }
+   ],
+   "leaf_wrong": [
+    {
+     "qid": "metatool_which_query_38",
+     "setting": "all",
+     "lang": "en",
+     "query": "Make a list of salty snacks with a soft texture.",
+     "gold": [
+      "metatool_which_tool_199"
+     ],
+     "class": "leaf_wrong",
+     "hit1": false,
+     "path": [
+      ".",
+      "aus-notes",
+      "aus-notes/mbti"
+     ],
+     "leaf_id": "metatool_which_tool_71",
+     "n_root_hits": 1,
+     "root_hit_rels": [
+      "aus-notes"
+     ],
+     "oracle": "leaf_cover_miss",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem_syn": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      }
+     }
+    },
+    {
+     "qid": "metatool_which_query_154",
+     "setting": "all",
+     "lang": "en",
+     "query": "I have a business advertising flyer template. Can you generate a marketing visual from this?",
+     "gold": [
+      "metatool_which_tool_103"
+     ],
+     "class": "leaf_wrong",
+     "hit1": false,
+     "path": [
+      ".",
+      "aus-notes",
+      "aus-notes/photorealistic"
+     ],
+     "leaf_id": "metatool_which_tool_157",
+     "n_root_hits": 1,
+     "root_hit_rels": [
+      "aus-notes"
+     ],
+     "oracle": "leaf_cover_miss",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem": {
+       "cover_recall": 0.2857142857142857,
+       "query_token_coverage": 0.2857142857142857,
+       "any_cover": 1
+      },
+      "stem_syn": {
+       "cover_recall": 0.2857142857142857,
+       "query_token_coverage": 0.2857142857142857,
+       "any_cover": 1
+      }
+     }
+    },
+    {
+     "qid": "metatool_which_query_18",
+     "setting": "all",
+     "lang": "en",
+     "query": "Can you recommend some popular tourist attractions in Paris such as the Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, and the Champs-鑴lys鑼卐s?",
+     "gold": [
+      "metatool_which_tool_88"
+     ],
+     "class": "leaf_wrong",
+     "hit1": false,
+     "path": [
+      ".",
+      "aus-notes",
+      "aus-notes/game-tool"
+     ],
+     "leaf_id": "metatool_which_tool_31",
+     "n_root_hits": 1,
+     "root_hit_rels": [
+      "aus-notes"
+     ],
+     "oracle": "leaf_cover_miss",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem_syn": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      }
+     }
+    }
+   ],
+   "ambiguous_group": [
+    {
+     "qid": "metatool_which_query_110",
+     "setting": "all",
+     "lang": "en",
+     "query": "Can you recommend a suitable opponent for me to play chess with?",
+     "gold": [
+      "metatool_which_tool_173"
+     ],
+     "class": "ambiguous_group",
+     "hit1": false,
+     "path": [
+      ".",
+      "aus-notes"
+     ],
+     "leaf_id": null,
+     "n_root_hits": 1,
+     "root_hit_rels": [
+      "aus-notes"
+     ],
+     "oracle": "ambiguity_only",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.14285714285714285,
+       "query_token_coverage": 0.2,
+       "any_cover": 1
+      },
+      "stem": {
+       "cover_recall": 0.14285714285714285,
+       "query_token_coverage": 0.2,
+       "any_cover": 1
+      },
+      "stem_syn": {
+       "cover_recall": 0.14285714285714285,
+       "query_token_coverage": 0.2,
+       "any_cover": 1
+      }
+     }
+    },
+    {
+     "qid": "metatool_which_query_199",
+     "setting": "all",
+     "lang": "en",
+     "query": "Can you please provide me with the current circulating supply of Cardano?",
+     "gold": [
+      "metatool_which_tool_0"
+     ],
+     "class": "ambiguous_group",
+     "hit1": false,
+     "path": [
+      ".",
+      "house-clearbit"
+     ],
+     "leaf_id": null,
+     "n_root_hits": 1,
+     "root_hit_rels": [
+      "house-clearbit"
+     ],
+     "oracle": "group_cover_miss",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem_syn": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      }
+     }
+    },
+    {
+     "qid": "metatool_which_query_79",
+     "setting": "all",
+     "lang": "en",
+     "query": "I want to unlock the power of my PDFs, can you help me find answers in them?",
+     "gold": [
+      "metatool_which_tool_19"
+     ],
+     "class": "ambiguous_group",
+     "hit1": false,
+     "path": [
+      ".",
+      "aus-notes"
+     ],
+     "leaf_id": null,
+     "n_root_hits": 1,
+     "root_hit_rels": [
+      "aus-notes"
+     ],
+     "oracle": "group_cover_miss",
+     "bridge": {},
+     "overlap": {
+      "exact": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      },
+      "stem_syn": {
+       "cover_recall": 0.0,
+       "query_token_coverage": 0.0,
+       "any_cover": 0
+      }
+     }
+    }
+   ]
+  }
+ }
+}

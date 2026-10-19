@@ -1,0 +1,8 @@
+---
+name: "github-pr-merge"
+description: "Use when the task involves orchestrate code: covers github, merge, pre-merge, merges, confirms"
+---
+
+# github-pr-merge
+
+Merges GitHub Pull Requests after validating pre-merge checklist. Use when user wants to merge PR, close PR, finalize PR, complete merge, approve and merge, or execute merge. Runs pre-merge validation (tests, lint, CI, comments), confirms with user, merges with proper format, handles post-merge clea

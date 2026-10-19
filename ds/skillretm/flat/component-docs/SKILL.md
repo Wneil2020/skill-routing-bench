@@ -1,0 +1,8 @@
+---
+name: "component-docs"
+description: "Use when the task involves document ui_component: covers component, docs, stories., storybook, props"
+---
+
+# component-docs
+
+Generate or update component documentation with usage examples, props tables, and Storybook stories. Use when documenting new components or improving existing component docs.

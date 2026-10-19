@@ -1,0 +1,8 @@
+---
+name: "silvan-best-practices"
+description: "Use when the task involves document documentation: covers silvan, best, practices, onboarding, json"
+---
+
+# silvan-best-practices
+
+Guidelines for Silvan CLI and UI UX consistency, output conventions, JSON and verbosity behavior, error recovery, onboarding, and operator workflows. Use when implementing or reviewing CLI output, help or onboarding flows, error handling, JSON schemas, run lifecycle UX, or dashboard features in this

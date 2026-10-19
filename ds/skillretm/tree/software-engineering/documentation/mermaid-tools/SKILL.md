@@ -1,0 +1,8 @@
+---
+name: "mermaid-tools"
+description: "Use when the task involves generate content: covers mermaid, tools, diagrams, markdown, png"
+---
+
+# mermaid-tools
+
+Extracts Mermaid diagrams from markdown files and generates high-quality PNG images using bundled scripts. Activates when working with Mermaid diagrams, converting diagrams to PNG, extracting diagrams from markdown, or processing markdown files with embedded Mermaid code.

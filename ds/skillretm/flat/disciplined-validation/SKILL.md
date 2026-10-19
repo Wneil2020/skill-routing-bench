@@ -1,0 +1,11 @@
+---
+name: "disciplined-validation"
+description: "Use when the task involves test test_suite: covers disciplined, validation, system, sign-off, defects"
+---
+
+# disciplined-validation
+
+Phase 5 of disciplined development. Validates system against original
+requirements through system testing and user acceptance testing (UAT).
+Uses structured stakeholder interviews to gather sign-off and traces
+defects back to research or design phases.

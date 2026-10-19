@@ -1,0 +1,8 @@
+---
+name: "esm"
+description: "Use when the task involves analyze data: covers esm, protein, prediction, embeddings, sequence"
+---
+
+# esm
+
+ESM2 protein language model for embeddings and sequence scoring. Use this skill when: (1) Computing pseudo-log-likelihood (PLL) scores, (2) Getting protein embeddings for clustering, (3) Filtering designs by sequence plausibility, (4) Zero-shot variant effect prediction, (5) Analyzing sequence-funct

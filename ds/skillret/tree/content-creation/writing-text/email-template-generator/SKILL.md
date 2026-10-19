@@ -1,0 +1,8 @@
+---
+name: "email-template-generator"
+description: "Use when the task involves generate content: covers email, template, generator, outreach, professional"
+---
+
+# email-template-generator
+
+Generate professional email templates for various business scenarios including sales outreach, customer support, internal communications, follow-ups, and apologies. Creates personalized, tone-appropriate templates with subject lines and formatting. Use when users need to write business emails, cold

@@ -1,0 +1,8 @@
+---
+name: "landing-page-copywriter"
+description: "Use when the task involves generate content: covers landing, page, copywriter, copy, problem-agitate-solution"
+---
+
+# landing-page-copywriter
+
+Write high-converting landing page copy using proven frameworks like PAS (Problem-Agitate-Solution), AIDA, and StoryBrand. Creates headlines, value propositions, CTAs, and full page sections optimized for conversion. Use when users need landing page copy, sales page content, or marketing website tex

@@ -1,0 +1,1215 @@
+{
+ "metatool_which_tool_0": {
+  "slug": "finance-tool",
+  "group": "abcmouse-earthquake",
+  "name": "FinanceTool",
+  "covers": [
+   "finance",
+   "wide",
+   "stocks",
+   "updates",
+   "cryptocurrencies"
+  ]
+ },
+ "metatool_which_tool_1": {
+  "slug": "exchange-tool",
+  "group": "aus-notes",
+  "name": "ExchangeTool",
+  "covers": [
+   "exchange",
+   "conversion",
+   "currency",
+   "convert",
+   "integrated"
+  ]
+ },
+ "metatool_which_tool_10": {
+  "slug": "memory-tool",
+  "group": "trip-urltool",
+  "name": "MemoryTool",
+  "covers": [
+   "memory",
+   "review",
+   "flashcards",
+   "spaced",
+   "repetition"
+  ]
+ },
+ "metatool_which_tool_103": {
+  "slug": "placid",
+  "group": "aus-notes",
+  "name": "placid",
+  "covers": [
+   "placid",
+   "visuals",
+   "assistant",
+   "templates",
+   "creates"
+  ]
+ },
+ "metatool_which_tool_106": {
+  "slug": "clinical-trial-radar",
+  "group": "airqualityforeast-clinical",
+  "name": "clinical_trial_radar",
+  "covers": [
+   "clinical",
+   "trial",
+   "radar",
+   "organizations",
+   "trials"
+  ]
+ },
+ "metatool_which_tool_109": {
+  "slug": "what-to-watch",
+  "group": "ads-book",
+  "name": "what_to_watch",
+  "covers": [
+   "what",
+   "watch",
+   "streaming",
+   "things",
+   "where"
+  ]
+ },
+ "metatool_which_tool_11": {
+  "slug": "law-tool",
+  "group": "ads-book",
+  "name": "LawTool",
+  "covers": [
+   "law",
+   "enables",
+   "relevant",
+   "laws",
+   "quick"
+  ]
+ },
+ "metatool_which_tool_114": {
+  "slug": "reflect-notes",
+  "group": "aus-notes",
+  "name": "reflect_notes",
+  "covers": [
+   "reflect",
+   "notes",
+   "note",
+   "creates"
+  ]
+ },
+ "metatool_which_tool_117": {
+  "slug": "dover-outreach",
+  "group": "aus-notes",
+  "name": "dover_outreach",
+  "covers": [
+   "dover",
+   "outreach",
+   "reaching",
+   "interested",
+   "someone"
+  ]
+ },
+ "metatool_which_tool_118": {
+  "slug": "pdf-exporter",
+  "group": "anything-buildbetter",
+  "name": "PDF_Exporter",
+  "covers": [
+   "pdf",
+   "exporter",
+   "stylized",
+   "export",
+   "response"
+  ]
+ },
+ "metatool_which_tool_12": {
+  "slug": "chart-tool",
+  "group": "aus-notes",
+  "name": "ChartTool",
+  "covers": [
+   "chart",
+   "networkx",
+   "draw",
+   "modify",
+   "build"
+  ]
+ },
+ "metatool_which_tool_120": {
+  "slug": "aus-surf-report",
+  "group": "aus-notes",
+  "name": "AusSurfReport",
+  "covers": [
+   "aus",
+   "surf",
+   "report",
+   "throughout",
+   "break"
+  ]
+ },
+ "metatool_which_tool_122": {
+  "slug": "aus-petrol-prices",
+  "group": "aus-notes",
+  "name": "AusPetrolPrices",
+  "covers": [
+   "aus",
+   "petrol",
+   "prices",
+   "region",
+   "capital"
+  ]
+ },
+ "metatool_which_tool_123": {
+  "slug": "saspeed-cameras",
+  "group": "aus-notes",
+  "name": "SASpeedCameras",
+  "covers": [
+   "saspeed",
+   "cameras",
+   "south",
+   "speed",
+   "see"
+  ]
+ },
+ "metatool_which_tool_124": {
+  "slug": "image-search",
+  "group": "airqualityforeast-clinical",
+  "name": "ImageSearch",
+  "covers": [
+   "image",
+   "search",
+   "complimentary",
+   "paragraphs",
+   "article"
+  ]
+ },
+ "metatool_which_tool_126": {
+  "slug": "webhooks",
+  "group": "aus-notes",
+  "name": "webhooks",
+  "covers": [
+   "webhooks",
+   "javascript",
+   "http",
+   "write",
+   "manage"
+  ]
+ },
+ "metatool_which_tool_127": {
+  "slug": "lark-base-importer",
+  "group": "aus-notes",
+  "name": "LarkBaseImporter",
+  "covers": [
+   "lark",
+   "base",
+   "importer",
+   "importing",
+   "further"
+  ]
+ },
+ "metatool_which_tool_128": {
+  "slug": "website-performance-insights",
+  "group": "house-clearbit",
+  "name": "website_performance_insights",
+  "covers": [
+   "website",
+   "performance",
+   "insights",
+   "metrics",
+   "accessibility"
+  ]
+ },
+ "metatool_which_tool_13": {
+  "slug": "earthquake-tool",
+  "group": "abcmouse-earthquake",
+  "name": "EarthquakeTool",
+  "covers": [
+   "earthquake",
+   "notifications",
+   "news",
+   "provides",
+   "real"
+  ]
+ },
+ "metatool_which_tool_130": {
+  "slug": "tailor-erp",
+  "group": "aus-notes",
+  "name": "tailor_erp",
+  "covers": [
+   "tailor",
+   "erp",
+   "creating",
+   "made",
+   "application"
+  ]
+ },
+ "metatool_which_tool_131": {
+  "slug": "fundsdbsearch",
+  "group": "ai2sql-box",
+  "name": "fundsdbsearch",
+  "covers": [
+   "fundsdbsearch",
+   "india",
+   "fundsdb",
+   "funding",
+   "opportunities"
+  ]
+ },
+ "metatool_which_tool_132": {
+  "slug": "hacktrack",
+  "group": "aus-notes",
+  "name": "hacktrack",
+  "covers": [
+   "hacktrack",
+   "checks",
+   "linked",
+   "been",
+   "credentials"
+  ]
+ },
+ "metatool_which_tool_133": {
+  "slug": "locator",
+  "group": "aus-notes",
+  "name": "locator",
+  "covers": [
+   "locator",
+   "displaying",
+   "iss",
+   "names",
+   "astronauts"
+  ]
+ },
+ "metatool_which_tool_138": {
+  "slug": "chatspot",
+  "group": "trip-urltool",
+  "name": "chatspot",
+  "covers": [
+   "chatspot",
+   "keyword",
+   "company",
+   "sales",
+   "research"
+  ]
+ },
+ "metatool_which_tool_14": {
+  "slug": "nasatool",
+  "group": "ads-book",
+  "name": "NASATool",
+  "covers": [
+   "nasatool",
+   "nasa",
+   "exploring",
+   "utilize",
+   "library"
+  ]
+ },
+ "metatool_which_tool_140": {
+  "slug": "korea-subway",
+  "group": "aus-notes",
+  "name": "korea_subway",
+  "covers": [
+   "korea",
+   "subway",
+   "route",
+   "metro",
+   "info"
+  ]
+ },
+ "metatool_which_tool_143": {
+  "slug": "uk-politics",
+  "group": "anything-buildbetter",
+  "name": "uk_politics",
+  "covers": [
+   "uk",
+   "politics",
+   "political",
+   "press",
+   "candidates"
+  ]
+ },
+ "metatool_which_tool_144": {
+  "slug": "abc-to-audio",
+  "group": "aus-notes",
+  "name": "abc_to_audio",
+  "covers": [
+   "abc",
+   "audio",
+   "postscript",
+   "notation",
+   "wav"
+  ]
+ },
+ "metatool_which_tool_145": {
+  "slug": "tic-tac-toe",
+  "group": "ads-book",
+  "name": "TicTacToe",
+  "covers": [
+   "tic",
+   "tac",
+   "toe",
+   "submit",
+   "move"
+  ]
+ },
+ "metatool_which_tool_147": {
+  "slug": "horoscopes-by-inner-self",
+  "group": "airqualityforeast-clinical",
+  "name": "Horoscopes_by_Inner_Self",
+  "covers": [
+   "horoscopes",
+   "inner",
+   "self",
+   "monthly",
+   "weekly"
+  ]
+ },
+ "metatool_which_tool_149": {
+  "slug": "crane-pumps-manuals",
+  "group": "aus-notes",
+  "name": "CranePumpsManuals",
+  "covers": [
+   "crane",
+   "pumps",
+   "manuals",
+   "pump",
+   "catalog"
+  ]
+ },
+ "metatool_which_tool_151": {
+  "slug": "find-agency",
+  "group": "aus-notes",
+  "name": "find_agency",
+  "covers": [
+   "agency",
+   "ratings",
+   "service",
+   "locations",
+   "agencies"
+  ]
+ },
+ "metatool_which_tool_152": {
+  "slug": "email-by-nylas",
+  "group": "aus-notes",
+  "name": "EmailByNylas",
+  "covers": [
+   "email",
+   "nylas",
+   "provider",
+   "connect",
+   "seamlessly"
+  ]
+ },
+ "metatool_which_tool_153": {
+  "slug": "credit-yelp",
+  "group": "credit-diet",
+  "name": "CreditYelp",
+  "covers": [
+   "credit",
+   "yelp",
+   "payoff",
+   "calculators",
+   "detailed"
+  ]
+ },
+ "metatool_which_tool_154": {
+  "slug": "sudoku",
+  "group": "aus-notes",
+  "name": "Sudoku",
+  "covers": [
+   "sudoku",
+   "voice",
+   "text",
+   "play",
+   "game"
+  ]
+ },
+ "metatool_which_tool_155": {
+  "slug": "noteable",
+  "group": "credit-diet",
+  "name": "noteable",
+  "covers": [
+   "noteable",
+   "markdown",
+   "notebooks",
+   "share",
+   "everyone"
+  ]
+ },
+ "metatool_which_tool_157": {
+  "slug": "photorealistic",
+  "group": "aus-notes",
+  "name": "photorealistic",
+  "covers": [
+   "photorealistic",
+   "midjourney",
+   "prompts",
+   "generate"
+  ]
+ },
+ "metatool_which_tool_159": {
+  "slug": "dr-thoths-tarot",
+  "group": "aus-notes",
+  "name": "Dr_Thoths_Tarot",
+  "covers": [
+   "dr",
+   "thoths",
+   "tarot",
+   "novelty",
+   "card"
+  ]
+ },
+ "metatool_which_tool_164": {
+  "slug": "form",
+  "group": "ads-book",
+  "name": "form",
+  "covers": [
+   "form",
+   "questionnaires",
+   "quizzes",
+   "surveys",
+   "yay"
+  ]
+ },
+ "metatool_which_tool_168": {
+  "slug": "abcmouse",
+  "group": "abcmouse-earthquake",
+  "name": "ABCmouse",
+  "covers": [
+   "abcmouse",
+   "fun",
+   "years",
+   "educational",
+   "old"
+  ]
+ },
+ "metatool_which_tool_17": {
+  "slug": "meme-tool",
+  "group": "aus-notes",
+  "name": "MemeTool",
+  "covers": [
+   "meme",
+   "memes",
+   "create"
+  ]
+ },
+ "metatool_which_tool_171": {
+  "slug": "clearbit-integration",
+  "group": "house-clearbit",
+  "name": "clearbit_integration",
+  "covers": [
+   "clearbit",
+   "integration",
+   "prospecting",
+   "apis",
+   "companies"
+  ]
+ },
+ "metatool_which_tool_172": {
+  "slug": "keyplays-football",
+  "group": "ads-book",
+  "name": "keyplays_football",
+  "covers": [
+   "keyplays",
+   "football",
+   "without",
+   "standings",
+   "scores"
+  ]
+ },
+ "metatool_which_tool_173": {
+  "slug": "chess",
+  "group": "aus-notes",
+  "name": "Chess",
+  "covers": [
+   "chess",
+   "against",
+   "unleash",
+   "grandmaster",
+   "novice"
+  ]
+ },
+ "metatool_which_tool_176": {
+  "slug": "indoor-plants",
+  "group": "house-clearbit",
+  "name": "IndoorPlants",
+  "covers": [
+   "indoor",
+   "plants",
+   "trusted",
+   "gardening",
+   "about"
+  ]
+ },
+ "metatool_which_tool_177": {
+  "slug": "internet-search",
+  "group": "ads-book",
+  "name": "internetSearch",
+  "covers": [
+   "internet",
+   "search",
+   "browse",
+   "crawler",
+   "keymate"
+  ]
+ },
+ "metatool_which_tool_178": {
+  "slug": "buildbetter",
+  "group": "anything-buildbetter",
+  "name": "buildbetter",
+  "covers": [
+   "buildbetter",
+   "gmeet",
+   "start",
+   "webex",
+   "zoom"
+  ]
+ },
+ "metatool_which_tool_182": {
+  "slug": "kraftful",
+  "group": "house-clearbit",
+  "name": "kraftful",
+  "covers": [
+   "kraftful",
+   "coach",
+   "gurus",
+   "development",
+   "thinking"
+  ]
+ },
+ "metatool_which_tool_19": {
+  "slug": "pdf-urltool",
+  "group": "trip-urltool",
+  "name": "PDF&URLTool",
+  "covers": [
+   "pdf",
+   "urltool",
+   "conversations",
+   "page",
+   "chatting"
+  ]
+ },
+ "metatool_which_tool_190": {
+  "slug": "recipe-retrieval",
+  "group": "credit-diet",
+  "name": "recipe_retrieval",
+  "covers": [
+   "recipe",
+   "retrieval",
+   "ideas",
+   "tasty",
+   "meal"
+  ]
+ },
+ "metatool_which_tool_192": {
+  "slug": "tax-calculator",
+  "group": "ads-book",
+  "name": "Tax_Calculator",
+  "covers": [
+   "tax",
+   "calculator",
+   "given",
+   "address",
+   "avalara"
+  ]
+ },
+ "metatool_which_tool_193": {
+  "slug": "magnetis",
+  "group": "house-clearbit",
+  "name": "Magnetis",
+  "covers": [
+   "magnetis",
+   "allocations",
+   "portfolios",
+   "digital",
+   "manager"
+  ]
+ },
+ "metatool_which_tool_194": {
+  "slug": "ai2sql",
+  "group": "ai2sql-box",
+  "name": "AI2sql",
+  "covers": [
+   "ai2sql",
+   "natural",
+   "sql",
+   "converts",
+   "text"
+  ]
+ },
+ "metatool_which_tool_197": {
+  "slug": "speak",
+  "group": "ai2sql-box",
+  "name": "speak",
+  "covers": [
+   "speak",
+   "anything",
+   "say",
+   "another",
+   "how"
+  ]
+ },
+ "metatool_which_tool_199": {
+  "slug": "no-tool",
+  "group": "aus-notes",
+  "name": "NO-Tool",
+  "covers": [
+   "no",
+   "requried",
+   "tools",
+   "solve",
+   "query"
+  ]
+ },
+ "metatool_which_tool_2": {
+  "slug": "news-tool",
+  "group": "abcmouse-earthquake",
+  "name": "NewsTool",
+  "covers": [
+   "news",
+   "up",
+   "date",
+   "connected",
+   "around"
+  ]
+ },
+ "metatool_which_tool_22": {
+  "slug": "diet-tool",
+  "group": "credit-diet",
+  "name": "DietTool",
+  "covers": [
+   "diet",
+   "counting",
+   "menus",
+   "ingredient",
+   "delivery"
+  ]
+ },
+ "metatool_which_tool_23": {
+  "slug": "website-tool",
+  "group": "aus-notes",
+  "name": "WebsiteTool",
+  "covers": [
+   "website",
+   "publish",
+   "quickly",
+   "deploy",
+   "them"
+  ]
+ },
+ "metatool_which_tool_24": {
+  "slug": "urltool",
+  "group": "trip-urltool",
+  "name": "URLTool",
+  "covers": [
+   "urltool",
+   "registration",
+   "assist",
+   "url",
+   "domain"
+  ]
+ },
+ "metatool_which_tool_25": {
+  "slug": "trip-tool",
+  "group": "trip-urltool",
+  "name": "TripTool",
+  "covers": [
+   "trip",
+   "image",
+   "editing",
+   "along",
+   "searches"
+  ]
+ },
+ "metatool_which_tool_26": {
+  "slug": "trip-advice-tool",
+  "group": "trip-urltool",
+  "name": "TripAdviceTool",
+  "covers": [
+   "trip",
+   "advice",
+   "attraction",
+   "tourism",
+   "enjoyable"
+  ]
+ },
+ "metatool_which_tool_27": {
+  "slug": "book-tool",
+  "group": "ads-book",
+  "name": "BookTool",
+  "covers": [
+   "book",
+   "ability",
+   "wikidocs",
+   "children",
+   "books"
+  ]
+ },
+ "metatool_which_tool_28": {
+  "slug": "media-tool",
+  "group": "anything-buildbetter",
+  "name": "MediaTool",
+  "covers": [
+   "media",
+   "while",
+   "supported",
+   "ad",
+   "podcasts"
+  ]
+ },
+ "metatool_which_tool_30": {
+  "slug": "music-tool",
+  "group": "ads-book",
+  "name": "MusicTool",
+  "covers": [
+   "music",
+   "playlists",
+   "trends",
+   "check",
+   "out"
+  ]
+ },
+ "metatool_which_tool_31": {
+  "slug": "game-tool",
+  "group": "aus-notes",
+  "name": "GameTool",
+  "covers": [
+   "game",
+   "games",
+   "recommend",
+   "related"
+  ]
+ },
+ "metatool_which_tool_32": {
+  "slug": "weather-tool",
+  "group": "house-clearbit",
+  "name": "WeatherTool",
+  "covers": [
+   "weather",
+   "latest",
+   "provide"
+  ]
+ },
+ "metatool_which_tool_33": {
+  "slug": "restaurant-booking-tool",
+  "group": "aus-notes",
+  "name": "RestaurantBookingTool",
+  "covers": [
+   "restaurant",
+   "booking"
+  ]
+ },
+ "metatool_which_tool_34": {
+  "slug": "local",
+  "group": "credit-diet",
+  "name": "local",
+  "covers": [
+   "local",
+   "near",
+   "shops",
+   "services",
+   "support"
+  ]
+ },
+ "metatool_which_tool_35": {
+  "slug": "house-renting-tool",
+  "group": "house-clearbit",
+  "name": "HouseRentingTool",
+  "covers": [
+   "house",
+   "renting",
+   "sorts",
+   "provide",
+   "about"
+  ]
+ },
+ "metatool_which_tool_36": {
+  "slug": "house-purchasing-tool",
+  "group": "house-clearbit",
+  "name": "HousePurchasingTool",
+  "covers": [
+   "house",
+   "purchasing",
+   "sorts",
+   "provide",
+   "about"
+  ]
+ },
+ "metatool_which_tool_37": {
+  "slug": "job-tool",
+  "group": "credit-diet",
+  "name": "JobTool",
+  "covers": [
+   "job",
+   "worldwide",
+   "resume",
+   "career",
+   "interview"
+  ]
+ },
+ "metatool_which_tool_38": {
+  "slug": "repo-tool",
+  "group": "airqualityforeast-clinical",
+  "name": "RepoTool",
+  "covers": [
+   "repo",
+   "solutions",
+   "coding",
+   "insightful",
+   "elevate"
+  ]
+ },
+ "metatool_which_tool_39": {
+  "slug": "research-finder",
+  "group": "research-finder",
+  "name": "ResearchFinder",
+  "covers": [
+   "research",
+   "finder",
+   "academic",
+   "searching",
+   "papers"
+  ]
+ },
+ "metatool_which_tool_40": {
+  "slug": "research-helper",
+  "group": "research-finder",
+  "name": "ResearchHelper",
+  "covers": [
+   "research",
+   "helper",
+   "beyond",
+   "mind",
+   "answering"
+  ]
+ },
+ "metatool_which_tool_42": {
+  "slug": "product-search",
+  "group": "airqualityforeast-clinical",
+  "name": "ProductSearch",
+  "covers": [
+   "product",
+   "search",
+   "filters",
+   "preferences",
+   "needs"
+  ]
+ },
+ "metatool_which_tool_43": {
+  "slug": "discount",
+  "group": "airqualityforeast-clinical",
+  "name": "Discount",
+  "covers": [
+   "discount",
+   "coupon",
+   "save",
+   "discounts",
+   "codes"
+  ]
+ },
+ "metatool_which_tool_45": {
+  "slug": "product-comparison",
+  "group": "aus-notes",
+  "name": "ProductComparison",
+  "covers": [
+   "product",
+   "comparison",
+   "decisions",
+   "compare",
+   "multiple"
+  ]
+ },
+ "metatool_which_tool_48": {
+  "slug": "airqualityforeast",
+  "group": "airqualityforeast-clinical",
+  "name": "airqualityforeast",
+  "covers": [
+   "airqualityforeast",
+   "day",
+   "air",
+   "quality",
+   "forecast"
+  ]
+ },
+ "metatool_which_tool_50": {
+  "slug": "tira",
+  "group": "credit-diet",
+  "name": "tira",
+  "covers": [
+   "tira",
+   "beauty",
+   "online",
+   "health",
+   "shop"
+  ]
+ },
+ "metatool_which_tool_56": {
+  "slug": "summarize-anything-pr",
+  "group": "anything-buildbetter",
+  "name": "SummarizeAnything_pr",
+  "covers": [
+   "summarize",
+   "anything",
+   "pr",
+   "link",
+   "preview"
+  ]
+ },
+ "metatool_which_tool_6": {
+  "slug": "course-tool",
+  "group": "ai2sql-box",
+  "name": "CourseTool",
+  "covers": [
+   "course",
+   "coursera",
+   "lookup",
+   "courses",
+   "renowned"
+  ]
+ },
+ "metatool_which_tool_63": {
+  "slug": "hackit-web-scanner",
+  "group": "ads-book",
+  "name": "hackit_web_scanner",
+  "covers": [
+   "hackit",
+   "web",
+   "scanner",
+   "powered",
+   "ai"
+  ]
+ },
+ "metatool_which_tool_64": {
+  "slug": "mixer-box-translate-ai-language-tutor",
+  "group": "ai2sql-box",
+  "name": "MixerBox_Translate_AI_language_tutor",
+  "covers": [
+   "mixer",
+   "box",
+   "translate",
+   "ai",
+   "language"
+  ]
+ },
+ "metatool_which_tool_66": {
+  "slug": "cribbage-scorer",
+  "group": "aus-notes",
+  "name": "CribbageScorer",
+  "covers": [
+   "cribbage",
+   "scorer",
+   "scoring",
+   "cards",
+   "game"
+  ]
+ },
+ "metatool_which_tool_69": {
+  "slug": "magi-codex",
+  "group": "house-clearbit",
+  "name": "magi_codex",
+  "covers": [
+   "magi",
+   "codex",
+   "rules",
+   "gathering",
+   "magic"
+  ]
+ },
+ "metatool_which_tool_7": {
+  "slug": "data-retrieval-tool",
+  "group": "abcmouse-earthquake",
+  "name": "DataRetrievalTool",
+  "covers": [
+   "retrieval",
+   "memory",
+   "responses",
+   "collection",
+   "retrieves"
+  ]
+ },
+ "metatool_which_tool_70": {
+  "slug": "video-highlight",
+  "group": "anything-buildbetter",
+  "name": "video_highlight",
+  "covers": [
+   "video",
+   "highlight",
+   "research",
+   "videos",
+   "interact"
+  ]
+ },
+ "metatool_which_tool_71": {
+  "slug": "mbti",
+  "group": "aus-notes",
+  "name": "mbti",
+  "covers": [
+   "mbti",
+   "test",
+   "administering",
+   "questions",
+   "list"
+  ]
+ },
+ "metatool_which_tool_76": {
+  "slug": "checkers",
+  "group": "aus-notes",
+  "name": "Checkers",
+  "covers": [
+   "checkers",
+   "play",
+   "game",
+   "allows"
+  ]
+ },
+ "metatool_which_tool_81": {
+  "slug": "social-media-muse",
+  "group": "aus-notes",
+  "name": "social_media_muse",
+  "covers": [
+   "social",
+   "media",
+   "muse",
+   "soundtrack",
+   "hashtag"
+  ]
+ },
+ "metatool_which_tool_82": {
+  "slug": "apex-map",
+  "group": "aus-notes",
+  "name": "ApexMap",
+  "covers": [
+   "apex",
+   "map",
+   "ranked",
+   "legends",
+   "checking"
+  ]
+ },
+ "metatool_which_tool_86": {
+  "slug": "create-qr-code",
+  "group": "trip-urltool",
+  "name": "create_qr_code",
+  "covers": [
+   "create",
+   "qr",
+   "code",
+   "url",
+   "text"
+  ]
+ },
+ "metatool_which_tool_88": {
+  "slug": "ai-agents",
+  "group": "aus-notes",
+  "name": "aiAgents",
+  "covers": [
+   "ai",
+   "agents",
+   "ais",
+   "power",
+   "goal"
+  ]
+ },
+ "metatool_which_tool_89": {
+  "slug": "google-ads-shopping-microsoft-ads-pay-per-click",
+  "group": "ads-book",
+  "name": "Google_Ads_Shopping_Microsoft_Ads_pay_per_click",
+  "covers": [
+   "google",
+   "ads",
+   "shopping",
+   "microsoft",
+   "pay"
+  ]
+ },
+ "metatool_which_tool_9": {
+  "slug": "notes-tool",
+  "group": "aus-notes",
+  "name": "NotesTool",
+  "covers": [
+   "notes",
+   "do",
+   "reminder",
+   "full",
+   "mark"
+  ]
+ },
+ "metatool_which_tool_90": {
+  "slug": "wpinteract",
+  "group": "ads-book",
+  "name": "wpinteract",
+  "covers": [
+   "wpinteract",
+   "interaction",
+   "hosted",
+   "opening",
+   "new"
+  ]
+ },
+ "metatool_which_tool_91": {
+  "slug": "rephrase",
+  "group": "abcmouse-earthquake",
+  "name": "rephrase",
+  "covers": [
+   "rephrase",
+   "craft",
+   "every",
+   "perfect",
+   "prompt"
+  ]
+ },
+ "metatool_which_tool_92": {
+  "slug": "man-of-many",
+  "group": "abcmouse-earthquake",
+  "name": "Man_of_Many",
+  "covers": [
+   "man",
+   "many",
+   "headlines",
+   "style",
+   "culture"
+  ]
+ },
+ "metatool_which_tool_95": {
+  "slug": "supercharge-my-ev",
+  "group": "aus-notes",
+  "name": "SuperchargeMyEV",
+  "covers": [
+   "supercharge",
+   "my",
+   "ev",
+   "superchargers",
+   "location"
+  ]
+ },
+ "metatool_which_tool_96": {
+  "slug": "timemachine",
+  "group": "abcmouse-earthquake",
+  "name": "timemachine",
+  "covers": [
+   "timemachine",
+   "enhances",
+   "awareness",
+   "timezones",
+   "formats"
+  ]
+ },
+ "metatool_which_tool_97": {
+  "slug": "clinq",
+  "group": "house-clearbit",
+  "name": "clinq",
+  "covers": [
+   "clinq",
+   "call",
+   "infos",
+   "account",
+   "retrieve"
+  ]
+ },
+ "metatool_which_tool_98": {
+  "slug": "smarttsicketsai",
+  "group": "aus-notes",
+  "name": "smarttsicketsai",
+  "covers": [
+   "smarttsicketsai",
+   "theater",
+   "smartticketsai",
+   "tickets",
+   "com"
+  ]
+ }
+}

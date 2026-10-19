@@ -1,0 +1,8 @@
+---
+name: "schema-design"
+description: "Use when the task involves design database: covers schema, design, schemas, indexes., drizzle"
+---
+
+# schema-design
+
+Design or modify Drizzle ORM schemas with proper relationships, constraints, and indexes. Use when adding new tables, modifying existing schemas, or optimizing database structure.

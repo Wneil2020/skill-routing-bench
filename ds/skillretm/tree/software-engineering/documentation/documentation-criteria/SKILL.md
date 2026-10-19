@@ -1,0 +1,8 @@
+---
+name: "documentation-criteria"
+description: "Use when the task involves document documentation: covers documentation, criteria, documents, adr, determining"
+---
+
+# documentation-criteria
+
+Documentation creation criteria including PRD, ADR, Design Doc, and Work Plan requirements with templates. Use when creating or reviewing technical documents, or determining which documents are required.

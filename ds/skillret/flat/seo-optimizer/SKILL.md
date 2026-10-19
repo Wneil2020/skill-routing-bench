@@ -1,0 +1,8 @@
+---
+name: "seo-optimizer"
+description: "Use when the task involves analyze code: covers seo, optimizer, optimization, sitemap, markup"
+---
+
+# seo-optimizer
+
+This skill should be used when analyzing HTML/CSS websites for SEO optimization, fixing SEO issues, generating SEO reports, or implementing SEO best practices. Use when the user requests SEO audits, optimization, meta tag improvements, schema markup implementation, sitemap generation, or general sea

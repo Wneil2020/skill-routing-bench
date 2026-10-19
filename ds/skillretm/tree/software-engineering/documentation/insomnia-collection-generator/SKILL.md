@@ -1,0 +1,8 @@
+---
+name: "insomnia-collection-generator"
+description: "Use when the task involves generate api: covers insomnia, collection, generator, export, request"
+---
+
+# insomnia-collection-generator
+
+Generates Insomnia collection export files from Express, Next.js, Fastify, or other API routes. Creates organized workspaces with request groups, environments, and authentication. Use when users request "generate insomnia collection", "export to insomnia", "create insomnia workspace", or "insomnia i

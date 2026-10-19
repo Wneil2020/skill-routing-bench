@@ -1,0 +1,11 @@
+---
+name: "imagen"
+description: "Use when the task involves generate content: covers imagen, images, generate, representations., illustrations"
+---
+
+# imagen
+
+Generate images using Google Gemini's image generation capabilities.
+Use this skill when the user needs to create, generate, or produce images
+for any purpose including UI mockups, icons, illustrations, diagrams,
+concept art, placeholder images, or visual representations.

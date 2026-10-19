@@ -1,0 +1,8 @@
+---
+name: "oauth2-oidc-implementer"
+description: "Use when the task involves implement security: covers oauth2, oidc, implementer, oauth, authentication"
+---
+
+# oauth2-oidc-implementer
+
+Implements OAuth 2.0 and OpenID Connect authentication flows with secure token handling and provider integration. Use when users request "OAuth setup", "OIDC implementation", "social login", "SSO integration", or "authentication flow".

@@ -1,0 +1,8 @@
+---
+name: "brand-voice-generator"
+description: "Use when the task involves generate documentation: covers brand, voice, generator, brands., preferences."
+---
+
+# brand-voice-generator
+
+Develop consistent brand voice and messaging guidelines for companies and personal brands. Creates tone, style, and communication frameworks that align with brand values and target audience preferences.

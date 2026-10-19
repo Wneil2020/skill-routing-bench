@@ -1,0 +1,8 @@
+---
+name: "agents-md"
+description: "Use when the task involves document documentation: covers agents, agents.md, concise., agent, style."
+---
+
+# agents-md
+
+This skill should be used when the user asks to "create AGENTS.md", "update AGENTS.md", "maintain agent docs", "set up CLAUDE.md", or needs to keep agent instructions concise. Guides discovery of local skills and enforces minimal documentation style.

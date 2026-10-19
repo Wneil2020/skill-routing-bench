@@ -1,0 +1,8 @@
+---
+name: "youtube-thumbnail"
+description: "Use when the task involves generate content: covers youtube, thumbnail, rate., thumbnail., click-through"
+---
+
+# youtube-thumbnail
+
+Skill for creating and editing Youtube thumbnails that are optimized for click-through rate. This skill should not be used directly, instead use the Thumbnail Designer subagent who can also invoke this skill. Use when the user asks to create a thumbnail from scratch or edit an existing thumbnail.

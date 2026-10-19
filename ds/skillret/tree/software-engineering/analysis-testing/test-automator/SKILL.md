@@ -1,0 +1,8 @@
+---
+name: "test-automator"
+description: "Use when the task involves test test_suite: covers test, automator, automation, quality, assurance."
+---
+
+# test-automator
+
+Master AI-powered test automation with modern frameworks, self-healing tests, and comprehensive quality engineering. Build scalable testing strategies with advanced CI/CD integration. Use PROACTIVELY for testing automation or quality assurance.

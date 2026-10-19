@@ -1,0 +1,8 @@
+---
+name: "slack-web-api"
+description: "Use when the task involves implement api: covers slack, web, api, channels, messages"
+---
+
+# slack-web-api
+
+Comprehensive guidance for Slack Web API operations with the Go SDK. Use when sending messages, posting to channels, creating or managing channels, retrieving user information, uploading files, composing Block Kit messages, or performing any synchronous Slack API operations.

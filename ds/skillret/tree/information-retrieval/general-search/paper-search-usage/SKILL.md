@@ -1,0 +1,8 @@
+---
+name: "paper-search-usage"
+description: "Use when the task involves search documentation: covers paper, search, usage, papers, find"
+---
+
+# paper-search-usage
+
+This skill should be used when user asks to "search for papers", "find research papers", "search arXiv", "search PubMed", "find academic papers", "search IEEE", "search Scopus", or "look up scientific literature".

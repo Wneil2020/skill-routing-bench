@@ -1,0 +1,8 @@
+---
+name: "typeset"
+description: "Use when the task involves refactor ui_component: covers typeset, font, polished., readability., intentional"
+---
+
+# typeset
+
+Improve typography by fixing font choices, hierarchy, sizing, weight consistency, and readability. Makes text feel intentional and polished.

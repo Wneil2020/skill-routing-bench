@@ -1,0 +1,8 @@
+---
+name: "golang-web"
+description: "Use when the task involves design project: covers golang, web, microservices., guide., tech"
+---
+
+# golang-web
+
+Modern Go Web application architecture guide. Use when creating new Go web projects, APIs, or microservices. Covers project structure, tech stack selection, and best practices based on Go standards.

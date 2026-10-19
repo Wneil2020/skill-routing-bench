@@ -1,0 +1,8 @@
+---
+name: "better-result-adopt"
+description: "Use when the task involves refactor code: covers better, result, adopt, error, better-result."
+---
+
+# better-result-adopt
+
+Migrate codebase from try/catch or Promise-based error handling to better-result. Use when adopting Result types, converting thrown exceptions to typed errors, or refactoring existing error handling to railway-oriented programming.

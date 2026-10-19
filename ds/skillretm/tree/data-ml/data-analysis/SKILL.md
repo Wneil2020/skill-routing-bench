@@ -1,0 +1,143 @@
+---
+name: "data-analysis"
+description: "Use when the task involves Data Analysis: covers data, analysis"
+---
+
+# Data Analysis
+
+Exploring, analyzing, and deriving insights from datasets.
+
+<!-- sub-skills -->
+## Sub-skills (auto-generated, do not edit by hand)
+
+- **a-b-test-analysis** (`a-b-test-analysis/`): Use when the task involves analyze data: covers test, analysis, calculate, sizes, sample
+- **abductive-repl** (`abductive-repl/`): Use when the task involves analyze code: covers abductive, repl, hypothesis-test, exploratory, loops
+- **advanced-math-trading-microstructure-game** (`advanced-math-trading-microstructure-game/`): Use when the task involves analyze data: covers advanced, math, trading, microstructure, game
+- **ahu-thermal** (`ahu-thermal/`): Use when the task involves design agent_skill: covers ahu, thermal, coil, selection, agent
+- **analytics-helper** (`analytics-helper/`): Use when the task involves implement ui_component: covers analytics, helper, ams., d3.js, exports.
+- **analyzing-innovation-portfolio** (`analyzing-innovation-portfolio/`): Use when the task involves analyze data: covers analyzing, innovation, portfolio, portfolio-level, workbook
+- **analyzing-options-flow** (`analyzing-options-flow/`): Use when the task involves analyze data: covers analyzing, options, flow, institutional, track
+- **apple-health-fitness** (`apple-health-fitness/`): Use when the task involves search data: covers apple, health, fitness, workouts, sleep
+- **arxiv-analysis** (`arxiv-analysis/`): Use when the task involves analyze documentation: covers arxiv, analysis, paper, research, arxiv.org
+- **astro-aso** (`astro-aso/`): Use when the task involves search data: covers astro, aso, keyword, app, mac
+- **banach-spaces** (`banach-spaces/`): Use when the task involves analyze documentation: covers banach, spaces, problem-solving, functional, strategies
+- **bayesian-meta-analysis** (`bayesian-meta-analysis/`): Use when the task involves analyze data: covers bayesian, meta, analysis, prior, distributions.
+- **bond-spreads** (`bond-spreads/`): Use when the task involves implement data: covers bond, spreads, spread, bloomberg, asw
+- **bracket-predictor** (`bracket-predictor/`): Use when the task involves analyze data: covers bracket, predictor, chalk, contrarian, madness
+- **categorize-transactions** (`categorize-transactions/`): Use when the task involves analyze data: covers categorize, transactions, spending, merchant, amounts
+- **categorizing-bsky-accounts** (`categorizing-bsky-accounts/`): Use when the task involves analyze data: covers categorizing, bsky, accounts, bluesky, account
+- **chart-generator** (`chart-generator/`): Use when the task involves generate data: covers chart, generator, charting, various, formats.
+- **charting-vega-lite** (`charting-vega-lite/`): Use when the task involves generate data: covers charting, vega, lite, chart, data
+- **chartmogul-analytics** (`chartmogul-analytics/`): Use when the task involves analyze data: covers chartmogul, analytics, arr, mrr, churn
+- **chatbot-analytics** (`chatbot-analytics/`): Use when the task involves implement agent_skill: covers chatbot, analytics, conversation, chat, tracking
+- **classify-anomaly** (`classify-anomaly/`): Use when the task involves analyze data: covers classify, anomaly, climatic, seismic, volcanic
+- **classify-lifestyles** (`classify-lifestyles/`): Use when the task involves analyze data: covers classify, lifestyles, biographical, lifestyle, lifestyles.
+- **clustering-analysis** (`clustering-analysis/`): Use when the task involves analyze data: covers clustering, analysis, dbscan, k-means, unsupervised
+- **cohort-analysis** (`cohort-analysis/`): Use when the task involves analyze data: covers cohort, analysis, retention, calculate, cohorts
+- **community-kpi-dashboard** (`community-kpi-dashboard/`): Use when the task involves analyze data: covers community, kpi, dashboard, measurement, engagement
+- **critical-opalescence** (`critical-opalescence/`): Use when the task involves analyze data: covers critical, opalescence, criticality, diverging, fluids
+- **csv-data-summarizer** (`csv-data-summarizer/`): Use when the task involves analyze data: covers csv, data, summarizer, wants., immediately
+- **csv-data-visualizer** (`csv-data-visualizer/`): Use when the task involves generate data: covers csv, data, visualizer, interactive, profiling.
+- **csv-processor** (`csv-processor/`): Use when the task involves analyze data: covers csv, processor, manipulation, capabilities., parse
+- **csv-url-parser** (`csv-url-parser/`): Use when the task involves analyze data: covers csv, url, parser, urls, columns.
+- **dashboard-playbook** (`dashboard-playbook/`): Use when the task involves design data: covers dashboard, playbook, best-practice, adoption., kit
+- **data-analyst** (`data-analyst/`): Use when the task involves analyze data: covers data, analyst, dashboards, missing, dash
+- **data-analyst-291e4ead** (`data-analyst-291e4ead/`): Use when the task involves analyze data: covers data, analyst, eda, cohort, funnel
+- **data-extraction** (`data-extraction/`): Use when the task involves analyze data: covers data, extraction, neurosurgical, studies, extract
+- **data-storytelling** (`data-storytelling/`): Use when the task involves document data: covers data, storytelling, persuasive, presentations., presenting
+- **deep-research-synthesizer** (`deep-research-synthesizer/`): Use when the task involves generate documentation: covers deep, research, synthesizer, citation-backed, coherent
+- **deepresearch-integrator** (`deepresearch-integrator/`): Use when the task involves generate documentation: covers deepresearch, integrator, consolidate, iterative, results
+- **defillama-api** (`defillama-api/`): Use when the task involves implement api: covers defillama, api, defi, tvl, yields
+- **doe-suite-experiments** (`doe-suite-experiments/`): Use when the task involves deploy pipeline: covers doe, suite, experiments, results, doe-suite
+- **duckdb-alb-log-analyzer** (`duckdb-alb-log-analyzer/`): Use when the task involves analyze data: covers duckdb, alb, log, analyzer, logs.
+- **effect-size** (`effect-size/`): Use when the task involves analyze data: covers effect, size, results, p-values, justify
+- **eptr2-consumption-data** (`eptr2-consumption-data/`): Use when the task involves analyze data: covers eptr2, consumption, data, uecm, demand
+- **eptr2-imbalance-costs** (`eptr2-imbalance-costs/`): Use when the task involves analyze data: covers eptr2, imbalance, costs, kupst, enerji
+- **eptr2-price-analysis** (`eptr2-price-analysis/`): Use when the task involves analyze data: covers eptr2, price, analysis, fiyat, prices
+- **event-detection-temporal-intelligence-expert** (`event-detection-temporal-intelligence-expert/`): Use when the task involves analyze data: covers event, detection, temporal, intelligence, expert
+- **excel-auditor** (`excel-auditor/`): Use when the task involves analyze data: covers excel, auditor, inherited, spreadsheet, legacy
+- **excel-pivot-wizard** (`excel-pivot-wizard/`): Use when the task involves implement data: covers excel, pivot, wizard, calculated, slicers.
+- **exploratory-data-analysis** (`exploratory-data-analysis/`): Use when the task involves analyze data: covers exploratory, data, analysis, anomalies, parquet
+- **extract-wisdom** (`extract-wisdom/`): Use when the task involves analyze content: covers extract, wisdom, text, summarise, takeaways
+- **extracting-keywords** (`extracting-keywords/`): Use when the task involves analyze data: covers extracting, keywords, extraction, arabic, sciences.
+- **fdas-economics** (`fdas-economics/`): Use when the task involves analyze data: covers fdas, economics, bsee, cashflow, economic
+- **fecfile** (`fecfile/`): Use when the task involves analyze data: covers fecfile, fec, finance, campaign, disbursements
+- **fetching-prices** (`fetching-prices/`): Use when the task involves analyze data: covers fetching, prices, stock, price, cryptocurrency
+- **finance-manager** (`finance-manager/`): Use when the task involves analyze data: covers finance, manager, financial, spending, visualize
+- **finding-arbitrage-opportunities** (`finding-arbitrage-opportunities/`): Use when the task involves analyze data: covers finding, arbitrage, opportunities, price, arb
+- **firmographic-analysis** (`firmographic-analysis/`): Use when the task involves analyze data: covers firmographic, analysis, company-level, outreach., tailor
+- **fjsp-baseline-repair-with-downtime-and-policy** (`fjsp-baseline-repair-with-downtime-and-policy/`): Use when the task involves implement agent_skill: covers fjsp, baseline, repair, downtime, policy
+- **frappe-report-generator** (`frappe-report-generator/`): Use when the task involves generate data: covers frappe, report, generator, reports, reporting
+- **gcs-husdyr-data** (`gcs-husdyr-data/`): Use when the task involves search data: covers gcs, husdyr, data, animal, chr
+- **gcs-landbrugsareal-data** (`gcs-landbrugsareal-data/`): Use when the task involves search data: covers gcs, landbrugsareal, data, field, agricultural
+- **generating-trading-signals** (`generating-trading-signals/`): Use when the task involves generate data: covers generating, trading, signals, indicators, alerts.
+- **google-analytics** (`google-analytics/`): Use when the task involves analyze data: covers google, analytics, traffic, website, metrics
+- **healthsim-populationsim** (`healthsim-populationsim/`): Use when the task involves analyze data: covers healthsim, populationsim, health, cdc, determinants
+- **hypothesis-testing** (`hypothesis-testing/`): Use when the task involves design documentation: covers hypothesis, testing, research, formulating, hypotheses
+- **initial-value-problem** (`initial-value-problem/`): Use when the task involves analyze code: covers initial, value, problem, existence, odes
+- **insight-synthesis** (`insight-synthesis/`): Use when the task involves analyze data: covers insight, synthesis, compelling, themes, narratives
+- **insightpulse-superset-api-ops** (`insightpulse-superset-api-ops/`): Use when the task involves orchestrate api: covers insightpulse, superset, api, ops, superset-style
+- **interpreting-results** (`interpreting-results/`): Use when the task involves analyze data: covers interpreting, results, datapeeker, honesty, intellectual
+- **ipd-meta-analysis** (`ipd-meta-analysis/`): Use when the task involves analyze data: covers ipd, meta, analysis, participant-level, studies.
+- **julia-evaluation** (`julia-evaluation/`): Use when the task involves analyze code: covers julia, evaluation, ttfx, repl, effectively.
+- **kg-insights** (`kg-insights/`): Use when the task involves analyze data: covers insights, graphs., discover, helps, knowledge
+- **lifesciences-proteomics** (`lifesciences-proteomics/`): Use when the task involves search data: covers lifesciences, proteomics, protein, interactions, biogrid
+- **literature-gap-finder** (`literature-gap-finder/`): Use when the task involves analyze documentation: covers literature, gap, finder, matrices, identification
+- **load-anomaly-guard** (`load-anomaly-guard/`): Use when the task involves analyze data: covers load, anomaly, guard, training, conservative
+- **loading-datasets** (`loading-datasets/`): Use when the task involves search data: covers loading, datasets, example, causalpy, demos.
+- **locational-marginal-prices** (`locational-marginal-prices/`): Use when the task involves analyze data: covers locational, marginal, prices, dc-opf, lmps
+- **log-analytics** (`log-analytics/`): Use when the task involves analyze data: covers log, analytics, datasets, insights, large
+- **lunar-landers-expert** (`lunar-landers-expert/`): Use when the task involves analyze agent_skill: covers lunar, landers, expert, lander, lors
+- **math-help** (`math-help/`): Use when the task involves document documentation: covers math, help, exist, cognitive, stack
+- **mcp-code-execution-results-comparison-analyzer** (`mcp-code-execution-results-comparison-analyzer/`): Use when the task involves analyze data: covers mcp, code, execution, results, comparison
+- **member-insights** (`member-insights/`): Use when the task involves analyze data: covers member, insights, loyalty, segmentation, experiment
+- **mixpanel-data** (`mixpanel-data/`): Use when the task involves analyze data: covers mixpanel, data, jql, analytics, expressions
+- **ml-nmr-methodology** (`ml-nmr-methodology/`): Use when the task involves analyze data: covers nmr, methodology, ml-nmr, agd, populations.
+- **moebius-inversion** (`moebius-inversion/`): Use when the task involves analyze code: covers moebius, inversion, alternating, bius, centrality
+- **nma-methodology** (`nma-methodology/`): Use when the task involves analyze data: covers nma, methodology, nma., transitivity, treatment
+- **numerical-integration** (`numerical-integration/`): Use when the task involves analyze documentation: covers numerical, integration, problem-solving, methods, strategies
+- **optimizing-staking-rewards** (`optimizing-staking-rewards/`): Use when the task involves analyze data: covers optimizing, staking, rewards, validators, compare
+- **oura-analytics** (`oura-analytics/`): Use when the task involves analyze data: covers oura, analytics, correlations, trigger-based, days.
+- **perf-analyzer** (`perf-analyzer/`): Use when the task involves analyze data: covers perf, analyzer, cuda, parses, bottlenecks
+- **performance-correlation** (`performance-correlation/`): Use when the task involves analyze data: covers performance, correlation, correlate, gsc, drivers
+- **pipeline-health-analyzer** (`pipeline-health-analyzer/`): Use when the task involves analyze pipeline: covers pipeline, health, analyzer, deals, forecast
+- **plotting** (`plotting/`): Use when the task involves generate data: covers plotting, plots., tmlr, tueplots, titles.
+- **policyengine-microsimulation** (`policyengine-microsimulation/`): Use when the task involves analyze data: covers policyengine, microsimulation, poverty, tax, impact
+- **post-processing** (`post-processing/`): Use when the task involves analyze data: covers post, processing, simulation, quantity, computation
+- **posthog-analytics** (`posthog-analytics/`): Use when the task involves implement code: covers posthog, analytics, flags, dashboards, event
+- **prime-numbers** (`prime-numbers/`): Use when the task involves analyze documentation: covers prime, numbers, number, problem-solving, theory
+- **production-forecaster** (`production-forecaster/`): Use when the task involves analyze data: covers production, forecaster, decline, curve, arps
+- **psql** (`psql/`): Use when the task involves analyze database: covers psql, sql, queries, database., accepts
+- **python-plotting** (`python-plotting/`): Use when the task involves implement code: covers python, plotting, plots, visualization, seaborn
+- **quant-analyst** (`quant-analyst/`): Use when the task involves analyze data: covers quant, analyst, trading, rigor, algorithmic
+- **query-writing** (`query-writing/`): Use when the task involves implement database: covers query, writing, queries, multi-table, aggregations
+- **r-data-science** (`r-data-science/`): Use when the task involves analyze code: covers data, science, statistical, epidemiological, ggplot2
+- **rayven-integration** (`rayven-integration/`): Use when the task involves analyze data: covers rayven, integration, exploratory, worked., computational
+- **revenue-health-dashboard** (`revenue-health-dashboard/`): Use when the task involves design ui_component: covers revenue, health, dashboard, callouts., blueprint
+- **sampling-bluesky-zeitgeist** (`sampling-bluesky-zeitgeist/`): Use when the task involves analyze data: covers sampling, bluesky, zeitgeist, firehose, browsing-bluesky
+- **scientific-reviewer** (`scientific-reviewer/`): Use when the task involves review documentation: covers scientific, reviewer, review, document, research
+- **second-order-odes** (`second-order-odes/`): Use when the task involves analyze documentation: covers second, order, odes, pdes, problem-solving
+- **sentiment-analysis** (`sentiment-analysis/`): Use when the task involves analyze data: covers sentiment, analysis, qualitative, interpret, risks
+- **serp-analysis** (`serp-analysis/`): Use when the task involves analyze data: covers serp, analysis, factors, rank., serps
+- **sigma-algebras** (`sigma-algebras/`): Use when the task involves analyze documentation: covers sigma, algebras, measure, problem-solving, theory
+- **simulation-architect** (`simulation-architect/`): Use when the task involves design code: covers simulation, architect, studies, implementation, comprehensive
+- **snowflake-query** (`snowflake-query/`): Use when the task involves analyze database: covers snowflake, query, queries, ad-hoc, connector.
+- **statistical-hypothesis-testing** (`statistical-hypothesis-testing/`): Use when the task involves analyze data: covers statistical, hypothesis, testing, anova, chi-square
+- **stc-methodology** (`stc-methodology/`): Use when the task involves analyze data: covers stc, methodology, centering, covariate, maic.
+- **strategy-research** (`strategy-research/`): Use when the task involves document documentation: covers strategy, research, trading, edge, formation
+- **subagent-driven-literature-review** (`subagent-driven-literature-review/`): Use when the task involves orchestrate agent_skill: covers subagent, driven, literature, review, dive
+- **synthesis-matrix** (`synthesis-matrix/`): Use when the task involves analyze data: covers synthesis, matrix, characteristics, manuscripts., extracted
+- **td-data-profiling** (`td-data-profiling/`): Use when the task involves analyze data: covers data, profiling, clearscape, teradata, descriptive
+- **td-npath** (`td-npath/`): Use when the task involves analyze data: covers npath, sequential, path, event, analysis
+- **td-powerspec** (`td-powerspec/`): Use when the task involves analyze data: covers powerspec, periodicity, spectrum, frequency, power
+- **td-stationarity-test** (`td-stationarity-test/`): Use when the task involves analyze data: covers stationarity, test, adf, kpss, tests
+- **tradeblocks-compare** (`tradeblocks-compare/`): Use when the task involves analyze data: covers tradeblocks, compare, period, strategy, periods.
+- **variance-analysis** (`variance-analysis/`): Use when the task involves analyze data: covers variance, analysis, deltas, attribute, forecast
+- **verify-dark** (`verify-dark/`): Use when the task involves analyze data: covers verify, dark, fault, earthquake, pre-historical
+- **visualization-patterns** (`visualization-patterns/`): Use when the task involves design ui_component: covers visualization, patterns, stakeholders., gtm, narratives
+- **withings-health** (`withings-health/`): Use when the task involves search api: covers withings, health, weight, body, muscle
+- **writing-queries** (`writing-queries/`): Use when the task involves implement database: covers writing, queries, datapeeker, sql, sessions
+
+Routing rule: when the task matches one of the sub-skills above, read the SKILL.md in that subdirectory for detailed instructions before acting;
+if that sub-skill lists deeper sub-skills, repeat the descent. Load only the documents on the matching path.
+<!-- /sub-skills -->

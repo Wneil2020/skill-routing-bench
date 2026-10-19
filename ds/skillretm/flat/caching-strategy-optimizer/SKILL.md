@@ -1,0 +1,8 @@
+---
+name: "caching-strategy-optimizer"
+description: "Use when the task involves configure pipeline: covers caching, strategy, optimizer, speed, pipeline"
+---
+
+# caching-strategy-optimizer
+
+Optimizes CI/CD pipeline speed by implementing effective caching for dependencies, Docker layers, build outputs, and test results. Provides before/after performance metrics and best practices. Use for "CI caching", "pipeline optimization", "build speed", or "cache strategy".

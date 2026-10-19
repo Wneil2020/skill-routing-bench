@@ -1,0 +1,8 @@
+---
+name: "gemini-qa"
+description: "Use when the task involves analyze code: covers gemini, answer, wants, response., opinion"
+---
+
+# gemini-qa
+
+Use Google Gemini CLI to answer questions about code, analyze files, or perform codebase exploration. Invoke this skill when the user asks to use Gemini, wants a second opinion from another AI, or wants to compare Claude's answer with Gemini's response.

@@ -1,0 +1,8 @@
+---
+name: "tavily-usage"
+description: "Use when the task involves search data: covers tavily, usage, search, web, content"
+---
+
+# tavily-usage
+
+This skill should be used when user asks to "search the web", "fetch content from URL", "extract page content", "use Tavily search", "scrape this website", "get information from this link", or "web search for X".
